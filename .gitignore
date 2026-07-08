@@ -1,0 +1,7 @@
+# Sorties du scraper
+mirror/
+mirror_*/
+*.pyc
+__pycache__/
+.venv/
+venv/
