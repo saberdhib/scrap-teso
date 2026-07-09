@@ -14,8 +14,9 @@ aciege.org ──[1. scrape_aciege.py]──> data/ ──[2. build_thesaurus.py
 
 | Étape | Script | Entrée | Sortie |
 |---|---|---|---|
-| 1. Scraping | `scrape_aciege.py` | le site aciege.org | `data/` (CSV, XLSX, JSON bruts) |
-| 2. Structuration | `build_thesaurus.py` | `data/aciege.json` | `thesaurus/` (CSV pivot, JSON, SKOS) |
+| 1a. Scraping schémas | `scrape_aciege.py` | index + pages `Schm/` | `data/` : hiérarchie, termes, définitions |
+| 1b. Scraping listes | `scrape_listes.py` | pages `CS/` (microthésaurus) | `data/` : relations TG/TS + synonymes « Employé Pour » |
+| 2. Structuration | `build_thesaurus.py` | `data/*.json` | `thesaurus/` (CSV pivot, JSON, SKOS) |
 | 3. Annotation | *à venir* | `thesaurus/` + corpus de thèses | pré-annotation automatique |
 
 ## Installation
@@ -70,8 +71,15 @@ machine avec les commandes ci-dessus.
 Transforme les données brutes en classification propre à 4 niveaux :
 
 ```
-5 catégories > 23 groupes > 68 sous-groupes > 1 858 termes   (1 954 concepts)
+5 catégories > 23 groupes > 68 sous-groupes > 2 388 termes   (2 484 concepts)
 ```
+
+Les termes viennent des schémas (1 858, avec définitions) **et** des listes
+(530 de plus : langues, géographie, organisations… sous-groupes sans schéma).
+Les pages Liste apportent aussi, par terme : les **synonymes** («&nbsp;Employé
+Pour&nbsp;» → `skos:altLabel`, ex. VRP → AGENT COMMERCIAL) et la **hiérarchie
+fine entre termes** (Terme Générique / Termes Spécifiques → `skos:broader`/
+`skos:narrower`).
 
 ```bash
 python build_thesaurus.py           # data/aciege.json -> thesaurus/
@@ -105,11 +113,14 @@ Sorties dans `thesaurus/` :
 
 ## État des données (scrape du 2026-07-09)
 
-- 68 sous-groupes, dont **53 avec schéma** (les catégories « Listes outils »
-  et « Géographie » n'ont que des pages « Liste »).
-- 1 858 termes, **0 erreur** de scraping, aucun doublon.
-- 341 termes sans définition dans la bulle du schéma (elle existe peut-être
-  sur leur page `Dct/`) ; 478 sans source identifiée.
+- 68 sous-groupes (53 avec schéma, tous avec liste), **0 erreur** de scraping.
+- 2 388 termes : 1 858 depuis les schémas (avec définitions) + 530 depuis les
+  listes seules (langues, géographie, organisations…).
+- 661 termes ont des synonymes (1 124 synonymes « Employé Pour » au total) ;
+  la quasi-totalité ont un terme générique (hiérarchie fine).
+- 871 termes sans définition (principalement ceux issus des listes) ; leurs
+  pages `Dct/` pourraient les fournir — passe complémentaire possible.
+- Voir `thesaurus/stats.md` pour le détail à jour.
 
 ## Fichiers annexes
 

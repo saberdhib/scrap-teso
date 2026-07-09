@@ -97,12 +97,11 @@ def build(index_rows: list[dict], terme_rows: list[dict]):
 
     # Index inverse sous-groupe -> noeud d'arbre + chemins.
     sg_nodes: dict[str, dict] = {}
-    sg_meta: dict[str, dict] = {}
     for cat in tree.values():
         for grp in cat["groupes"].values():
             for sg in grp["sous_groupes"].values():
                 sg_nodes[sg["code"]] = sg
-                sg_meta[sg["code"]] = sg
+    sg_meta = sg_nodes
 
     # Niveau 4 : termes.
     for t in terme_rows:
@@ -152,19 +151,53 @@ def build(index_rows: list[dict], terme_rows: list[dict]):
             cats.append(c)
         return cats
 
-    return flat, as_tree
+    def add_term(sg_code: str, code: str, libelle: str, url: str = "") -> dict | None:
+        """Ajoute après coup un terme découvert dans les pages Liste
+        (sous-groupes sans schéma). Retourne le noeud créé, ou None."""
+        parent = sg_nodes.get(sg_code)
+        term_id = f"term:{code}"
+        if parent is None or term_id in seen:
+            return None
+        seen.add(term_id)
+        node = add(
+            term_id, f"sg:{sg_code}", 4, code, libelle, url=url,
+            chemin_codes=parent["chemin_codes"] + SEP + code,
+            chemin_libelles=parent["chemin_libelles"] + SEP + libelle,
+        )
+        node.setdefault("synonymes", "")
+        node.setdefault("terme_generique_code", "")
+        node.setdefault("termes_specifiques_codes", "")
+        parent["termes"].append(node)
+        return node
+
+    return flat, as_tree, add_term
 
 
-def merge_relations(flat: list[dict], listes_path: str) -> dict:
+def merge_relations(flat: list[dict], add_term, listes_path: str) -> dict:
     """Enrichit les termes avec les relations des pages Liste (CS) :
     synonymes (Employé Pour -> skos:altLabel), terme générique et termes
-    spécifiques (hiérarchie entre termes). Retourne des compteurs."""
+    spécifiques (hiérarchie entre termes). Les descripteurs présents dans les
+    listes mais absents des schémas (sous-groupes sans schéma : langues,
+    géographie, organisations…) sont créés comme termes. Retourne des compteurs."""
     with open(listes_path, encoding="utf-8") as f:
         listes = json.load(f)["sous_groupes"]
 
     by_code = {n["code"]: n for n in flat if n["niveau"] == 4}
     stats = {"descripteurs_liste": 0, "synonymes": 0, "tg": 0, "ts": 0,
-             "codes_inconnus": 0}
+             "crees_depuis_listes": 0, "codes_inconnus": 0}
+
+    # Passe 1 : créer les termes manquants (pour que les relations TG/TS
+    # entre eux se résolvent en passe 2).
+    for sg_code, sg in listes.items():
+        for b in sg["descripteurs"]:
+            if b["code"] and b["code"] not in by_code \
+                    and re.fullmatch(r"\d+_\d+", b["code"]):
+                node = add_term(sg_code, b["code"], b["libelle"], b.get("url", ""))
+                if node is not None:
+                    by_code[b["code"]] = node
+                    stats["crees_depuis_listes"] += 1
+
+    # Passe 2 : appliquer les relations.
     for sg in listes.values():
         for b in sg["descripteurs"]:
             stats["descripteurs_liste"] += 1
@@ -273,11 +306,11 @@ def main() -> None:
 
     with open(args.input, encoding="utf-8") as f:
         raw = json.load(f)
-    flat, as_tree = build(raw["index"], raw["termes"])
+    flat, as_tree, add_term = build(raw["index"], raw["termes"])
 
     listes_path = os.path.join(os.path.dirname(args.input) or ".", "listes.json")
     if os.path.exists(listes_path):
-        rel_stats = merge_relations(flat, listes_path)
+        rel_stats = merge_relations(flat, add_term, listes_path)
         print(f"Relations fusionnées depuis {listes_path} : {rel_stats}")
     else:
         print(f"({listes_path} absent : pas d'enrichissement synonymes/hiérarchie)")
