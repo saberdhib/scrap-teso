@@ -36,6 +36,43 @@ git add -f data && git commit -m "Données brutes ACIEGE" && git push
 
 ---
 
+## 🏗 `build_thesaurus.py` — thésaurus structuré pour l'annotation
+
+Transforme `data/aciege.json` en thésaurus à 4 niveaux, prêt pour annoter un
+corpus documentaire (thèses, articles…) :
+
+```
+catégorie (5) > groupe (23) > sous-groupe (68) > terme (1858)
+```
+
+```bash
+python build_thesaurus.py     # -> thesaurus/
+```
+
+Sorties dans `thesaurus/` :
+
+| Fichier | Usage |
+|---|---|
+| `concepts_flat.csv` | **Format pivot** : 1 concept/ligne avec `id`, `parent_id`, `niveau`, `code`, `libelle`, chemins complets, définition, source. À charger dans pandas ou un outil d'annotation. |
+| `thesaurus.json` | Hiérarchie imbriquée pour usage programmatique. |
+| `thesaurus.skos.ttl` | Export **SKOS** (standard des thésaurus) : importable dans VocBench, TemaTres, et la plupart des plateformes d'indexation. |
+| `stats.md` | Statistiques de couverture. |
+
+### Annoter un corpus avec cette classification
+
+- **Identifiant d'annotation recommandé** : le `code` (`111` pour un
+  sous-groupe, `111_48` pour un terme précis) — stable, compact, et la
+  hiérarchie se retrouve par préfixe (`111_48` ⊂ `111` ⊂ `11` ⊂ `1`).
+- **Granularité** : annoter au niveau **sous-groupe (68 classes)** est le bon
+  pivot pour classer un gros corpus ; le niveau **terme (1858)** sert pour
+  l'indexation fine. Une annotation multi-label (2-3 codes par document) est
+  généralement plus fidèle qu'un code unique.
+- Les **définitions** de `concepts_flat.csv` servent de critères d'annotation
+  pour les annotateurs humains — ou de base à une pré-annotation automatique
+  (matching embeddings / LLM entre résumé de thèse et définitions).
+
+---
+
 ## `scraper.py` — miroir générique (optionnel)
 
 Scraper / miroir récursif pour récupérer **tout** le contenu d'une page (et des

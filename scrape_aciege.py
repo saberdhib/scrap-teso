@@ -120,6 +120,8 @@ def parse_index(soup: BeautifulSoup, base_url: str) -> list[dict]:
         elif "ThCol3" in th_class:                     # sous-groupe (3 chiffres)
             sg_num = clean(th.get_text())
             sg_name = clean(tds[0].get_text()) if tds else ""
+            if not sg_num and not sg_name:             # ligne d'espacement vide
+                continue
             schema_link = liste_link = ""
             for a in tr.find_all("a", href=True):
                 href = a["href"]
