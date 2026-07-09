@@ -12,7 +12,7 @@ import streamlit as st
 st.set_page_config(page_title="ACIEGE — classification des thèses",
                    page_icon="📚", layout="wide")
 
-from views import revue, suivi, thesaurus  # noqa: E402
+from views import export, revue, suivi, thesaurus  # noqa: E402
 
 st.navigation([
     st.Page(thesaurus.afficher, title="Thésaurus", icon="📚",
@@ -21,4 +21,6 @@ st.navigation([
             url_path="suivi"),
     st.Page(revue.afficher, title="Revue des verdicts", icon="✅",
             url_path="revue"),
+    st.Page(export.afficher, title="Export final", icon="📤",
+            url_path="export"),
 ]).run()

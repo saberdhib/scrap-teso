@@ -58,7 +58,12 @@ L'interface (Streamlit) comporte trois pages :
 - **📈 Suivi du traitement** — fiches ingérées, textes extraits, classifiées,
   erreurs, barre d'avancement, file de traitement, donut des verdicts,
   usage OCR, débit par jour, dernières erreurs.
-- **✅ Revue des verdicts** — validation humaine thèse par thèse.
+- **✅ Revue des verdicts** — validation humaine : filtres (verdict, score,
+  sous-groupe suggéré), pagination, boutons accepter/garder, choix parmi les
+  candidats ou code libre, barre de progression de la revue.
+- **📤 Export final** — classification consolidée (décisions humaines >
+  verdicts auto), mode prudent ou auto, graphiques d'origine des décisions,
+  et téléchargement du CSV final.
 
 ## Charger les 10 000 thèses
 

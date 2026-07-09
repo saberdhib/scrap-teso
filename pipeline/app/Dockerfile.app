@@ -5,6 +5,7 @@ RUN pip install --no-cache-dir "streamlit>=1.38" "psycopg2-binary>=2.9" \
 
 WORKDIR /app
 COPY app /app/app
+COPY app/.streamlit /app/.streamlit
 COPY src /app/src
 
 EXPOSE 8501
