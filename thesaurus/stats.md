@@ -9,6 +9,8 @@
 
 - Termes sans définition : **341** / 1858
 - Termes sans source : **478** / 1858
+- Termes avec synonymes (« Employé Pour ») : **564** (991 synonymes au total)
+- Termes avec terme générique (hiérarchie fine) : **1788**
 
 ## Termes par catégorie
 
