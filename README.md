@@ -57,15 +57,13 @@ Sorties dans `data/` :
 
 Les CSV utilisent `;` et l'UTF-8 BOM : ils s'ouvrent directement dans Excel FR.
 
-### ⚠️ Exécution : GitHub Actions (pas depuis Claude Code web)
+### Exécution automatisée (GitHub Actions)
 
-L'environnement Claude Code web n'a **pas d'accès réseau sortant** (le proxy
-d'egress répond `403` sur tout domaine externe). Le scraping tourne donc via
-le workflow **`.github/workflows/scrape.yml`** : tout push sur la branche
-`claude/web-scraping-1qouc5` (hors `data/`) — ou un déclenchement manuel
-*workflow_dispatch* — lance le scrape sur un runner GitHub, qui committe
-`data/` sur la branche. Vous pouvez aussi simplement le lancer sur votre
-machine avec les commandes ci-dessus.
+Le workflow **`.github/workflows/scrape.yml`** exécute l'ensemble
+scrape → structuration sur un runner GitHub et committe `data/` et
+`thesaurus/` sur la branche. Il se déclenche à chaque push sur la branche
+de travail (hors données et docs) ou manuellement (*workflow_dispatch*).
+Le tout peut aussi se lancer en local avec les commandes ci-dessus.
 
 ---
 
