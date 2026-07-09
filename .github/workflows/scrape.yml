@@ -1,0 +1,37 @@
+name: Scrape ACIEGE
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [claude/web-scraping-1qouc5]
+    paths-ignore:
+      - 'data/**'
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Scraper le thésaurus
+        run: python scrape_aciege.py -o data --delay 0.5
+
+      - name: Committer les résultats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f data
+          git diff --cached --quiet && echo "Aucun changement" && exit 0
+          git commit -m "Données brutes ACIEGE (scrape via GitHub Actions)"
+          git push
