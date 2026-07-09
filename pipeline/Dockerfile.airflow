@@ -1,0 +1,11 @@
+FROM apache/airflow:3.0.2-python3.12
+
+USER root
+# OCR (tesseract) + rendu PDF
+RUN apt-get update && apt-get install -y --no-install-recommends \
+        tesseract-ocr tesseract-ocr-fra tesseract-ocr-eng \
+    && rm -rf /var/lib/apt/lists/*
+
+USER airflow
+COPY requirements-pipeline.txt /tmp/requirements-pipeline.txt
+RUN pip install --no-cache-dir -r /tmp/requirements-pipeline.txt

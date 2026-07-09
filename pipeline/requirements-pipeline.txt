@@ -1,0 +1,14 @@
+# Accès données
+psycopg2-binary>=2.9
+minio>=7.2
+pandas>=2.2
+pyarrow>=17.0
+
+# Extraction texte / OCR
+pymupdf>=1.24
+pytesseract>=0.3.13
+pillow>=10.0
+
+# Classification
+sentence-transformers>=3.0
+huggingface-hub>=0.24

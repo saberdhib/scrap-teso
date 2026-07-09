@@ -17,7 +17,10 @@ aciege.org ──[1. scrape_aciege.py]──> data/ ──[2. build_thesaurus.py
 | 1a. Scraping schémas | `scrape_aciege.py` | index + pages `Schm/` | `data/` : hiérarchie, termes, définitions |
 | 1b. Scraping listes | `scrape_listes.py` | pages `CS/` (microthésaurus) | `data/` : relations TG/TS + synonymes « Employé Pour » |
 | 2. Structuration | `build_thesaurus.py` | `data/*.json` | `thesaurus/` (CSV pivot, JSON, SKOS) |
-| 3. Annotation | *à venir* | `thesaurus/` + corpus de thèses | pré-annotation automatique |
+| 3. Vérification corpus | `pipeline/` (PG + MinIO + Airflow) | `thesaurus/` + PDF des thèses | verdicts bien classé / à reclasser + revue |
+
+Pour l'étape 3, voir **`pipeline/README.md`** (démarrage Docker) et
+**`BESOINS.md`** (clé Hugging Face, format du manifeste, prérequis).
 
 ## Installation
 
