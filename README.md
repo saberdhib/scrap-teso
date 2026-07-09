@@ -1,5 +1,43 @@
 # scrap-teso — Scraper pour aciege.org
 
+## ⭐ `scrape_aciege.py` — scraper sur mesure du Thésaurus (à utiliser en priorité)
+
+Produit directement les 2 tableaux attendus à partir de
+<https://aciege.org/Schema_Fra.html> :
+
+- **Table 1 — index** : catégorie ; thème ; groupe numérologie ; groupe titre ;
+  sous-groupe numérologie ; sous-groupe ; lien schéma ; lien liste.
+- **Table 2 — termes** : sous-groupe numérologie ; sous-groupe ; lien sous-groupe ;
+  lien sous-sous-groupe ; code sous-sous-groupe ; titre ; définition ; source.
+
+Les définitions et sources sont extraites de l'attribut `title` des balises
+`<area>` des pages `Schm/Fra/FRA_xxx.html` (pas besoin de crawler les pages `Dct/`).
+
+```bash
+pip install -r requirements.txt
+
+# Test rapide sur 3 schémas
+python scrape_aciege.py --limit 3
+
+# Tout le thésaurus
+python scrape_aciege.py
+```
+
+Sorties dans `data/` : `table1_index.csv`, `table2_termes.csv` (séparateur `;`,
+UTF-8 BOM → s'ouvrent directement dans Excel FR), `aciege.xlsx` (2 feuilles),
+`aciege.json` (tout + erreurs éventuelles).
+
+Une fois le scrape terminé, committez le dossier `data/` sur la branche pour
+la phase de nettoyage :
+
+```bash
+git add -f data && git commit -m "Données brutes ACIEGE" && git push
+```
+
+---
+
+## `scraper.py` — miroir générique (optionnel)
+
 Scraper / miroir récursif pour récupérer **tout** le contenu d'une page (et des
 pages liées du même domaine) : HTML, sous-pages, images, PDF, documents, CSS, JS,
 plus extraction du texte et des tableaux (en CSV).
