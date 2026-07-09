@@ -45,8 +45,20 @@ docker compose up -d --build
 |---|---|---|
 | Airflow | http://localhost:8080 | `docker compose logs airflow \| grep -i password` |
 | Console MinIO | http://localhost:9001 | `MINIO_ROOT_USER` / `MINIO_ROOT_PASSWORD` |
-| Revue Streamlit | http://localhost:8501 | — |
+| **Interface** (3 pages) | http://localhost:8501 | — |
 | PostgreSQL | localhost:5432 | `POSTGRES_USER` / `POSTGRES_PASSWORD` |
+
+L'interface (Streamlit) comporte trois pages :
+
+- **📚 Thésaurus** — la classification présentée proprement : tuiles
+  (catégories/groupes/sous-groupes/termes/synonymes), donut des termes par
+  catégorie, barres par groupe, sunburst de la hiérarchie complète,
+  couverture définitions/synonymes, et un explorateur avec recherche
+  (libellé, synonyme, définition).
+- **📈 Suivi du traitement** — fiches ingérées, textes extraits, classifiées,
+  erreurs, barre d'avancement, file de traitement, donut des verdicts,
+  usage OCR, débit par jour, dernières erreurs.
+- **✅ Revue des verdicts** — validation humaine thèse par thèse.
 
 ## Charger les 10 000 thèses
 
