@@ -6,6 +6,8 @@ on:
     branches: [claude/web-scraping-1qouc5]
     paths-ignore:
       - 'data/**'
+      - 'thesaurus/**'
+      - '**.md'
 
 permissions:
   contents: write
