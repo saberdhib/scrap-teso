@@ -26,14 +26,20 @@ jobs:
       - name: Installer les dépendances
         run: pip install -r requirements.txt
 
-      - name: Scraper le thésaurus
+      - name: Scraper les schémas (index + définitions)
         run: python scrape_aciege.py -o data --delay 0.5
+
+      - name: Scraper les listes (relations TG/TS + synonymes)
+        run: python scrape_listes.py -i data/aciege.json -o data --delay 0.5
+
+      - name: Construire le thésaurus structuré
+        run: python build_thesaurus.py -i data/aciege.json -o thesaurus
 
       - name: Committer les résultats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f data
+          git add -f data thesaurus
           git diff --cached --quiet && echo "Aucun changement" && exit 0
-          git commit -m "Données brutes ACIEGE (scrape via GitHub Actions)"
+          git commit -m "Données ACIEGE + thésaurus (scrape via GitHub Actions)"
           git push

@@ -38,12 +38,15 @@ SEP = " > "
 FLAT_COLS = [
     "id", "parent_id", "niveau", "niveau_nom", "code", "libelle",
     "chemin_codes", "chemin_libelles", "definition", "source", "url",
+    "synonymes", "terme_generique_code", "termes_specifiques_codes",
 ]
 NIVEAUX = {1: "categorie", 2: "groupe", 3: "sous_groupe", 4: "terme"}
 
 
 def build(index_rows: list[dict], terme_rows: list[dict]):
-    """Assemble la hiérarchie ; retourne (liste_plate, arbre_imbriqué)."""
+    """Assemble la hiérarchie ; retourne (liste_plate, fonction_sérialisation).
+    La fonction retournée produit l'arbre imbriqué à partir de l'état COURANT
+    des noeuds — l'appeler après merge_relations() pour inclure les relations."""
     flat: list[dict] = []
     tree: dict[str, dict] = {}          # id catégorie -> noeud
     seen: set[str] = set()
@@ -121,6 +124,12 @@ def build(index_rows: list[dict], terme_rows: list[dict]):
         )
         sg_nodes[sg]["termes"].append(node)
 
+    # Champs relations (remplis par merge_relations si data/listes.json existe).
+    for n in flat:
+        n.setdefault("synonymes", "")
+        n.setdefault("terme_generique_code", "")
+        n.setdefault("termes_specifiques_codes", "")
+
     # dicts -> listes pour le JSON final.
     def as_tree() -> list[dict]:
         cats = []
@@ -133,7 +142,9 @@ def build(index_rows: list[dict], terme_rows: list[dict]):
                 for sg in grp["sous_groupes"].values():
                     s = {k: sg[k] for k in ("code", "libelle", "url")}
                     s["termes"] = [
-                        {k: t[k] for k in ("code", "libelle", "definition", "source", "url")}
+                        {k: t.get(k, "") for k in
+                         ("code", "libelle", "definition", "source", "url",
+                          "synonymes", "terme_generique_code", "termes_specifiques_codes")}
                         for t in sg["termes"]
                     ]
                     g["sous_groupes"].append(s)
@@ -141,7 +152,39 @@ def build(index_rows: list[dict], terme_rows: list[dict]):
             cats.append(c)
         return cats
 
-    return flat, as_tree()
+    return flat, as_tree
+
+
+def merge_relations(flat: list[dict], listes_path: str) -> dict:
+    """Enrichit les termes avec les relations des pages Liste (CS) :
+    synonymes (Employé Pour -> skos:altLabel), terme générique et termes
+    spécifiques (hiérarchie entre termes). Retourne des compteurs."""
+    with open(listes_path, encoding="utf-8") as f:
+        listes = json.load(f)["sous_groupes"]
+
+    by_code = {n["code"]: n for n in flat if n["niveau"] == 4}
+    stats = {"descripteurs_liste": 0, "synonymes": 0, "tg": 0, "ts": 0,
+             "codes_inconnus": 0}
+    for sg in listes.values():
+        for b in sg["descripteurs"]:
+            stats["descripteurs_liste"] += 1
+            node = by_code.get(b["code"])
+            if node is None:
+                stats["codes_inconnus"] += 1
+                continue
+            eps = [e["libelle"] for e in b["employe_pour"] if e.get("libelle")]
+            if eps:
+                node["synonymes"] = " | ".join(dict.fromkeys(eps))
+                stats["synonymes"] += len(eps)
+            tgs = [e["code"] for e in b["terme_generique"] if e.get("code") in by_code]
+            if tgs:
+                node["terme_generique_code"] = tgs[0]
+                stats["tg"] += 1
+            tss = [e["code"] for e in b["terme_specifique"] if e.get("code") in by_code]
+            if tss:
+                node["termes_specifiques_codes"] = " | ".join(dict.fromkeys(tss))
+                stats["ts"] += len(tss)
+    return stats
 
 
 def ttl_escape(s: str) -> str:
@@ -173,6 +216,8 @@ def write_skos(path: str, flat: list[dict]) -> None:
         lines.append(f"<{uri(n['id'])}> a skos:Concept ;")
         lines.append(f'    skos:prefLabel "{ttl_escape(n["libelle"])}"@fr ;')
         lines.append(f'    skos:notation "{ttl_escape(n["code"])}" ;')
+        for alt in filter(None, (s.strip() for s in n.get("synonymes", "").split("|"))):
+            lines.append(f'    skos:altLabel "{ttl_escape(alt)}"@fr ;')
         if n["definition"]:
             lines.append(f'    skos:definition "{ttl_escape(n["definition"])}"@fr ;')
         if n["source"]:
@@ -181,6 +226,12 @@ def write_skos(path: str, flat: list[dict]) -> None:
             lines.append(f"    skos:broader <{uri(n['parent_id'])}> ;")
         else:
             lines.append(f"    skos:topConceptOf <{base}scheme> ;")
+        tg = n.get("terme_generique_code", "")
+        if tg and f"term:{tg}" in ids:
+            lines.append(f"    skos:broader <{uri('term:' + tg)}> ;")
+        for ts in filter(None, (s.strip() for s in n.get("termes_specifiques_codes", "").split("|"))):
+            if f"term:{ts}" in ids:
+                lines.append(f"    skos:narrower <{uri('term:' + ts)}> ;")
         for child in children.get(n["id"], []):
             lines.append(f"    skos:narrower <{uri(child)}> ;")
         lines.append(f"    skos:inScheme <{base}scheme> .")
@@ -201,6 +252,12 @@ def write_stats(path: str, flat: list[dict]) -> None:
             f.write(f"| {i} | {name} | {len(by_lvl[i])} |\n")
         f.write(f"\n- Termes sans définition : **{sans_def}** / {len(termes)}\n")
         f.write(f"- Termes sans source : **{sans_src}** / {len(termes)}\n")
+        avec_syn = sum(1 for t in termes if t.get("synonymes"))
+        n_syn = sum(len(t["synonymes"].split("|")) for t in termes if t.get("synonymes"))
+        avec_tg = sum(1 for t in termes if t.get("terme_generique_code"))
+        f.write(f"- Termes avec synonymes (« Employé Pour ») : **{avec_syn}** "
+                f"({n_syn} synonymes au total)\n")
+        f.write(f"- Termes avec terme générique (hiérarchie fine) : **{avec_tg}**\n")
         f.write("\n## Termes par catégorie\n\n")
         cats = {n["code"]: n["libelle"] for n in by_lvl[1]}
         for code, lib in sorted(cats.items()):
@@ -216,7 +273,15 @@ def main() -> None:
 
     with open(args.input, encoding="utf-8") as f:
         raw = json.load(f)
-    flat, tree = build(raw["index"], raw["termes"])
+    flat, as_tree = build(raw["index"], raw["termes"])
+
+    listes_path = os.path.join(os.path.dirname(args.input) or ".", "listes.json")
+    if os.path.exists(listes_path):
+        rel_stats = merge_relations(flat, listes_path)
+        print(f"Relations fusionnées depuis {listes_path} : {rel_stats}")
+    else:
+        print(f"({listes_path} absent : pas d'enrichissement synonymes/hiérarchie)")
+    tree = as_tree()
 
     os.makedirs(args.output, exist_ok=True)
     with open(os.path.join(args.output, "concepts_flat.csv"), "w",
