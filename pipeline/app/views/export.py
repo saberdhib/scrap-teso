@@ -113,12 +113,13 @@ def afficher() -> None:
         top = (df["code_final"].fillna("(aucun)").astype(str)
                .str.split("_").str[0].value_counts().head(15).sort_values())
         fig = go.Figure(go.Bar(
-            x=top.values, y=top.index, orientation="h",
+            x=top.values, y=[f"{c} " for c in top.index], orientation="h",
             marker=dict(color=C.BLEU, cornerradius=4),
             text=top.values, textposition="outside",
             hovertemplate="%{y} : %{x} thèses<extra></extra>"))
         fig.update_layout(**C.MISE_EN_FORME, height=330,
-                          xaxis=dict(showgrid=True, gridcolor="#eceae4"))
+                          xaxis=dict(showgrid=True, gridcolor="#eceae4"),
+                          yaxis=dict(type="category"))
         st.plotly_chart(fig, use_container_width=True)
 
     st.subheader("Aperçu")

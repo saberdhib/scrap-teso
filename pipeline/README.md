@@ -48,7 +48,10 @@ docker compose up -d --build
 | **Interface** (3 pages) | http://localhost:8501 | — |
 | PostgreSQL | localhost:5432 | `POSTGRES_USER` / `POSTGRES_PASSWORD` |
 
-L'interface (Streamlit) comporte trois pages :
+L'interface (Streamlit) comporte quatre pages
+(captures dans [`../docs/captures/`](../docs/captures/)) :
+
+![Suivi du traitement](../docs/captures/interface-suivi.png)
 
 - **📚 Thésaurus** — la classification présentée proprement : tuiles
   (catégories/groupes/sous-groupes/termes/synonymes), donut des termes par

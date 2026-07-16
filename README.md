@@ -22,6 +22,16 @@ aciege.org ──[1. scrape_aciege.py]──> data/ ──[2. build_thesaurus.py
 Pour l'étape 3, voir **`pipeline/README.md`** (démarrage Docker) et
 **`BESOINS.md`** (clé Hugging Face, format du manifeste, prérequis).
 
+## Aperçu de l'interface
+
+| Thésaurus | Suivi du traitement |
+|---|---|
+| ![Page Thésaurus](docs/captures/interface-thesaurus.png) | ![Page Suivi](docs/captures/interface-suivi.png) |
+
+| Revue des verdicts | Export final |
+|---|---|
+| ![Page Revue](docs/captures/interface-revue.png) | ![Page Export](docs/captures/interface-export.png) |
+
 ## Installation
 
 ```bash
