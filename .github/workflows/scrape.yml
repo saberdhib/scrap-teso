@@ -33,6 +33,9 @@ jobs:
       - name: Scraper les listes (relations TG/TS + synonymes)
         run: python scrape_listes.py -i data/aciege.json -o data --delay 0.5
 
+      - name: Parser l'export officiel Zthes (si présent)
+        run: ls data/Ths_Export_*.xml >/dev/null 2>&1 && python parse_zthes.py || echo "pas d'export Zthes"
+
       - name: Construire le thésaurus structuré
         run: python build_thesaurus.py -i data/aciege.json -o thesaurus
 

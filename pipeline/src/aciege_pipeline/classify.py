@@ -36,6 +36,8 @@ def charger_concepts(path: str | None = None) -> list[dict]:
             if r["niveau"] != "4":
                 continue
             morceaux = [r["libelle"]]
+            if r.get("libelle_en"):
+                morceaux.append("EN: " + r["libelle_en"])
             if r.get("synonymes"):
                 morceaux.append("Synonymes : " + r["synonymes"])
             if r.get("definition"):

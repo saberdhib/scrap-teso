@@ -11,9 +11,16 @@ classification d'un corpus d'environ 50 000 thèses (PDF).
 ```
 scrape_aciege.py   scrape des schémas (index + Schm/Fra/FRA_xxx.html)  -> data/
 scrape_listes.py   scrape des listes CS/Fra (relations TG/TS, synonymes) -> data/
-build_thesaurus.py fusion -> thesaurus/ (concepts_flat.csv, JSON, SKOS)
+parse_zthes.py     parse l'export officiel data/Ths_Export_*.xml -> data/zthes.json
+build_thesaurus.py fusion des 3 sources -> thesaurus/ (concepts_flat.csv, JSON, SKOS)
 pipeline/          stack Docker : PostgreSQL + MinIO + Airflow + Streamlit
 ```
+
+L'export Zthes officiel (fourni par l'équipe, ISO-8859-1) **fait foi pour les
+libellés** : le scraping avait 139 titres erronés (définition prise pour le
+titre). Il apporte aussi l'anglais (libellés 2387/2388), les synonymes UF et
+les termes associés RT. Les notes qui ne font que répéter le libellé sont
+filtrées (placeholders, surtout côté EN).
 
 - Le **fichier pivot** est `thesaurus/concepts_flat.csv` : 2 484 concepts en
   4 niveaux (5 catégories > 23 groupes > 68 sous-groupes > 2 388 termes),

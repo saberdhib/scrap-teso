@@ -153,9 +153,12 @@ def afficher() -> None:
             "Catégorie", ordre_cats,
             format_func=lambda c: f"{c} — {cat_libelles[c]}")
         visibles = termes[termes["categorie"] == choix]
+    cols = ["code", "libelle", "libelle_en", "chemin_libelles", "synonymes",
+            "definition"]
+    cols = [c for c in cols if c in visibles.columns]
     st.dataframe(
-        visibles[["code", "libelle", "chemin_libelles", "synonymes",
-                  "definition"]].rename(columns={
-            "code": "Code", "libelle": "Terme", "chemin_libelles": "Chemin",
-            "synonymes": "Synonymes", "definition": "Définition"}),
+        visibles[cols].rename(columns={
+            "code": "Code", "libelle": "Terme", "libelle_en": "Terme (EN)",
+            "chemin_libelles": "Chemin", "synonymes": "Synonymes",
+            "definition": "Définition"}),
         use_container_width=True, height=420, hide_index=True)

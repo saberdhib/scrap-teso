@@ -36,9 +36,10 @@ import re
 
 SEP = " > "
 FLAT_COLS = [
-    "id", "parent_id", "niveau", "niveau_nom", "code", "libelle",
-    "chemin_codes", "chemin_libelles", "definition", "source", "url",
-    "synonymes", "terme_generique_code", "termes_specifiques_codes",
+    "id", "parent_id", "niveau", "niveau_nom", "code", "libelle", "libelle_en",
+    "chemin_codes", "chemin_libelles", "definition", "definition_en",
+    "source", "url", "synonymes", "synonymes_en",
+    "terme_generique_code", "termes_specifiques_codes", "termes_associes_codes",
 ]
 NIVEAUX = {1: "categorie", 2: "groupe", 3: "sous_groupe", 4: "terme"}
 
@@ -123,11 +124,12 @@ def build(index_rows: list[dict], terme_rows: list[dict]):
         )
         sg_nodes[sg]["termes"].append(node)
 
-    # Champs relations (remplis par merge_relations si data/listes.json existe).
+    # Champs relations/multilingues (remplis par merge_relations / merge_zthes).
     for n in flat:
-        n.setdefault("synonymes", "")
-        n.setdefault("terme_generique_code", "")
-        n.setdefault("termes_specifiques_codes", "")
+        for champ in ("synonymes", "terme_generique_code", "termes_specifiques_codes",
+                      "libelle_en", "definition_en", "synonymes_en",
+                      "termes_associes_codes"):
+            n.setdefault(champ, "")
 
     # dicts -> listes pour le JSON final.
     def as_tree() -> list[dict]:
@@ -142,8 +144,10 @@ def build(index_rows: list[dict], terme_rows: list[dict]):
                     s = {k: sg[k] for k in ("code", "libelle", "url")}
                     s["termes"] = [
                         {k: t.get(k, "") for k in
-                         ("code", "libelle", "definition", "source", "url",
-                          "synonymes", "terme_generique_code", "termes_specifiques_codes")}
+                         ("code", "libelle", "libelle_en", "definition",
+                          "definition_en", "source", "url", "synonymes",
+                          "synonymes_en", "terme_generique_code",
+                          "termes_specifiques_codes", "termes_associes_codes")}
                         for t in sg["termes"]
                     ]
                     g["sous_groupes"].append(s)
@@ -220,6 +224,81 @@ def merge_relations(flat: list[dict], add_term, listes_path: str) -> dict:
     return stats
 
 
+def merge_zthes(flat: list[dict], zthes_path: str) -> dict:
+    """Fusionne l'export officiel Zthes (source d'autorité) :
+    - corrige les libellés FR erronés issus du scraping ;
+    - comble les définitions manquantes (FR) et ajoute les définitions EN ;
+    - ajoute libellés/synonymes anglais et termes associés (RT) ;
+    - complète synonymes (UF) et terme générique.
+    Retourne des compteurs."""
+    with open(zthes_path, encoding="utf-8") as f:
+        z = json.load(f)
+
+    def utile(note: str, nom: str) -> str:
+        """Écarte les notes qui ne font que répéter le libellé."""
+        note = (note or "").strip()
+        if note.upper().rstrip(".") == (nom or "").strip().upper().rstrip("."):
+            return ""
+        return note
+
+    stats = {"libelles_corriges": 0, "def_fr_comblees": 0, "def_en": 0,
+             "libelles_en": 0, "synonymes_ajoutes": 0, "rt": 0,
+             "absents_du_xml": 0}
+    for n in flat:
+        if n["niveau"] == 3:
+            sg = z["sous_groupes"].get(n["code"])
+            if sg:
+                n["libelle_en"] = sg["libelle_en"]
+                if not n["definition"]:
+                    n["definition"] = utile(sg["definition"], sg["libelle"])
+                n["definition_en"] = utile(sg["definition_en"], sg["libelle_en"])
+            continue
+        if n["niveau"] != 4:
+            continue
+        t = z["termes"].get(n["code"])
+        if t is None:
+            stats["absents_du_xml"] += 1
+            continue
+        # Libellé : le XML fait foi.
+        if t["libelle"] and n["libelle"].strip().upper() != t["libelle"].strip().upper():
+            stats["libelles_corriges"] += 1
+            # Le scraping avait pris la définition pour le titre : la
+            # définition scrapée est suspecte, on repart de celle du XML.
+            n["libelle"] = t["libelle"]
+            n["definition"] = ""
+            morceaux = n["chemin_libelles"].split(SEP)
+            n["chemin_libelles"] = SEP.join(morceaux[:-1] + [t["libelle"]])
+        if t["libelle_en"]:
+            n["libelle_en"] = t["libelle_en"]
+            stats["libelles_en"] += 1
+        if not n["definition"]:
+            d = utile(t["definition"], t["libelle"])
+            if d:
+                n["definition"] = d
+                stats["def_fr_comblees"] += 1
+        d_en = utile(t["definition_en"], t["libelle_en"])
+        if d_en:
+            n["definition_en"] = d_en
+            stats["def_en"] += 1
+        # Synonymes : union scraping (Employé Pour) + XML (UF).
+        existants = [s.strip() for s in n["synonymes"].split("|") if s.strip()]
+        vus = {s.upper() for s in existants}
+        for syn in t["synonymes"]:
+            if syn.strip() and syn.strip().upper() not in vus:
+                existants.append(syn.strip())
+                vus.add(syn.strip().upper())
+                stats["synonymes_ajoutes"] += 1
+        n["synonymes"] = " | ".join(existants)
+        n["synonymes_en"] = " | ".join(dict.fromkeys(
+            s.strip() for s in t["synonymes_en"] if s.strip()))
+        if not n["terme_generique_code"] and t["tg"]:
+            n["terme_generique_code"] = t["tg"][0]
+        if t["associes"]:
+            n["termes_associes_codes"] = " | ".join(t["associes"])
+            stats["rt"] += len(t["associes"])
+    return stats
+
+
 def ttl_escape(s: str) -> str:
     return s.replace("\\", "\\\\").replace('"', '\\"').replace("\n", " ").replace("\r", "")
 
@@ -248,11 +327,20 @@ def write_skos(path: str, flat: list[dict]) -> None:
     for n in flat:
         lines.append(f"<{uri(n['id'])}> a skos:Concept ;")
         lines.append(f'    skos:prefLabel "{ttl_escape(n["libelle"])}"@fr ;')
+        if n.get("libelle_en"):
+            lines.append(f'    skos:prefLabel "{ttl_escape(n["libelle_en"])}"@en ;')
         lines.append(f'    skos:notation "{ttl_escape(n["code"])}" ;')
         for alt in filter(None, (s.strip() for s in n.get("synonymes", "").split("|"))):
             lines.append(f'    skos:altLabel "{ttl_escape(alt)}"@fr ;')
+        for alt in filter(None, (s.strip() for s in n.get("synonymes_en", "").split("|"))):
+            lines.append(f'    skos:altLabel "{ttl_escape(alt)}"@en ;')
         if n["definition"]:
             lines.append(f'    skos:definition "{ttl_escape(n["definition"])}"@fr ;')
+        if n.get("definition_en"):
+            lines.append(f'    skos:definition "{ttl_escape(n["definition_en"])}"@en ;')
+        for rt in filter(None, (s.strip() for s in n.get("termes_associes_codes", "").split("|"))):
+            if f"term:{rt}" in ids:
+                lines.append(f"    skos:related <{uri('term:' + rt)}> ;")
         if n["source"]:
             lines.append(f'    dct:source "{ttl_escape(n["source"])}" ;')
         if n["parent_id"] in ids:
@@ -291,6 +379,12 @@ def write_stats(path: str, flat: list[dict]) -> None:
         f.write(f"- Termes avec synonymes (« Employé Pour ») : **{avec_syn}** "
                 f"({n_syn} synonymes au total)\n")
         f.write(f"- Termes avec terme générique (hiérarchie fine) : **{avec_tg}**\n")
+        avec_en = sum(1 for t in termes if t.get("libelle_en"))
+        avec_def_en = sum(1 for t in termes if t.get("definition_en"))
+        avec_rt = sum(1 for t in termes if t.get("termes_associes_codes"))
+        f.write(f"- Termes avec libellé anglais : **{avec_en}** "
+                f"(dont {avec_def_en} avec définition anglaise)\n")
+        f.write(f"- Termes avec termes associés (RT) : **{avec_rt}**\n")
         f.write("\n## Termes par catégorie\n\n")
         cats = {n["code"]: n["libelle"] for n in by_lvl[1]}
         for code, lib in sorted(cats.items()):
@@ -314,6 +408,13 @@ def main() -> None:
         print(f"Relations fusionnées depuis {listes_path} : {rel_stats}")
     else:
         print(f"({listes_path} absent : pas d'enrichissement synonymes/hiérarchie)")
+
+    zthes_path = os.path.join(os.path.dirname(args.input) or ".", "zthes.json")
+    if os.path.exists(zthes_path):
+        z_stats = merge_zthes(flat, zthes_path)
+        print(f"Export officiel fusionné depuis {zthes_path} : {z_stats}")
+    else:
+        print(f"({zthes_path} absent : pas d'enrichissement bilingue/officiel)")
     tree = as_tree()
 
     os.makedirs(args.output, exist_ok=True)

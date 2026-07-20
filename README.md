@@ -16,6 +16,7 @@ aciege.org ──[1. scrape_aciege.py]──> data/ ──[2. build_thesaurus.py
 |---|---|---|---|
 | 1a. Scraping schémas | `scrape_aciege.py` | index + pages `Schm/` | `data/` : hiérarchie, termes, définitions |
 | 1b. Scraping listes | `scrape_listes.py` | pages `CS/` (microthésaurus) | `data/` : relations TG/TS + synonymes « Employé Pour » |
+| 1c. Export officiel | `parse_zthes.py` | `data/Ths_Export_*.xml` (export Zthes de la base) | `data/zthes.json` : libellés EN, définitions, UF, RT |
 | 2. Structuration | `build_thesaurus.py` | `data/*.json` | `thesaurus/` (CSV pivot, JSON, SKOS) |
 | 3. Vérification corpus | `pipeline/` (PG + MinIO + Airflow) | `thesaurus/` + PDF des thèses | verdicts bien classé / à reclasser + revue |
 
@@ -122,15 +123,21 @@ Sorties dans `thesaurus/` :
   annotateurs humains, ou base d'une pré-annotation automatique (matching
   embeddings / LLM entre résumé de thèse et définitions du thésaurus).
 
-## État des données (scrape du 2026-07-09)
+## État des données (scrape 2026-07-09, fusion export officiel du 2026-01-15)
 
-- 68 sous-groupes (53 avec schéma, tous avec liste), **0 erreur** de scraping.
-- 2 388 termes : 1 858 depuis les schémas (avec définitions) + 530 depuis les
-  listes seules (langues, géographie, organisations…).
-- 661 termes ont des synonymes (1 124 synonymes « Employé Pour » au total) ;
-  la quasi-totalité ont un terme générique (hiérarchie fine).
-- 871 termes sans définition (principalement ceux issus des listes) ; leurs
-  pages `Dct/` pourraient les fournir — passe complémentaire possible.
+Trois sources fusionnées : les schémas du site, les listes (microthésaurus)
+et **l'export officiel Zthes de la base** (`data/Ths_Export_20260115.xml`),
+qui fait foi pour les libellés.
+
+- 68 sous-groupes, 2 388 termes, **0 erreur** de scraping ; couverture
+  vérifiée à 100 % contre le site et l'export officiel (1 seul terme absent
+  de l'export : 362_19 DOCTRINE, conservé depuis les listes).
+- **Bilingue** : 2 387 termes ont leur libellé anglais.
+- 139 libellés corrigés grâce à l'export officiel (le scraping avait pris la
+  définition pour le titre, ex. OPA, IMAGE DE MARQUE).
+- 725 termes avec synonymes (1 312 au total : « Employé Pour » du site + UF
+  de l'export) ; 2 320 avec terme générique ; 873 avec termes associés (RT).
+- 581 termes sans définition (surtout géographie/langues, auto-descriptifs).
 - Voir `thesaurus/stats.md` pour le détail à jour.
 
 ## Fichiers annexes

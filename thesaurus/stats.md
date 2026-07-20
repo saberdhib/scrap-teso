@@ -7,10 +7,12 @@
 | 3 | sous_groupe | 68 |
 | 4 | terme | 2388 |
 
-- Termes sans définition : **871** / 2388
+- Termes sans définition : **581** / 2388
 - Termes sans source : **1008** / 2388
-- Termes avec synonymes (« Employé Pour ») : **661** (1124 synonymes au total)
-- Termes avec terme générique (hiérarchie fine) : **2072**
+- Termes avec synonymes (« Employé Pour ») : **725** (1312 synonymes au total)
+- Termes avec terme générique (hiérarchie fine) : **2320**
+- Termes avec libellé anglais : **2387** (dont 262 avec définition anglaise)
+- Termes avec termes associés (RT) : **873**
 
 ## Termes par catégorie
 
