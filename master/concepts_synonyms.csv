@@ -1,0 +1,2620 @@
+﻿concept_id;label_fr;synonym;lang;relation;source
+001_02;GRAND EST;Alsace;fr;altLabel;zthes_UF
+001_02;GRAND EST;Champagne-Ardenne;fr;altLabel;zthes_UF
+001_02;GRAND EST;Lorraine;fr;altLabel;zthes_UF
+001_02;GRAND EST;Alsace;en;altLabel;zthes_UF
+001_02;GRAND EST;Champagne-Ardenne;en;altLabel;zthes_UF
+001_02;GRAND EST;Lorraine;en;altLabel;zthes_UF
+001_04;OCCITANIE;Languedoc-Roussillon;fr;altLabel;zthes_UF
+001_04;OCCITANIE;Midi-Pyrenees;fr;altLabel;zthes_UF
+001_04;OCCITANIE;Languedoc-Roussillon;en;altLabel;zthes_UF
+001_04;OCCITANIE;Midi-Pyrenees;en;altLabel;zthes_UF
+001_16;AUVERGNE-RHÔNE-ALPES;Auvergne;fr;altLabel;zthes_UF
+001_16;AUVERGNE-RHÔNE-ALPES;Rhône-Alpes;fr;altLabel;zthes_UF
+001_16;AUVERGNE-RHÔNE-ALPES;Auvergne;en;altLabel;zthes_UF
+001_16;AUVERGNE-RHÔNE-ALPES;Rhône-Alpes;en;altLabel;zthes_UF
+001_30;NOUVELLE-AQUITAINE;Limousin;fr;altLabel;zthes_UF
+001_30;NOUVELLE-AQUITAINE;Poitou-Charentes;fr;altLabel;zthes_UF
+001_30;NOUVELLE-AQUITAINE;Aquitaine;fr;altLabel;zthes_UF
+001_30;NOUVELLE-AQUITAINE;Limousin;en;altLabel;zthes_UF
+001_30;NOUVELLE-AQUITAINE;Poitou-Charentes;en;altLabel;zthes_UF
+001_30;NOUVELLE-AQUITAINE;Aquitaine;en;altLabel;zthes_UF
+001_44;CENTRE-VAL DE LOIRE;Centre;fr;altLabel;zthes_UF
+001_44;CENTRE-VAL DE LOIRE;Center;en;altLabel;zthes_UF
+001_57;BOURGOGNE-FRANCHE-COMTE;Franche-Comté;fr;altLabel;zthes_UF
+001_57;BOURGOGNE-FRANCHE-COMTE;Bourgogne;fr;altLabel;zthes_UF
+001_57;BOURGOGNE-FRANCHE-COMTE;Franche-Comté;en;altLabel;zthes_UF
+001_57;BOURGOGNE-FRANCHE-COMTE;Burgundy;en;altLabel;zthes_UF
+001_92;NORMANDIE;Haute-Normandie;fr;altLabel;zthes_UF
+001_92;NORMANDIE;Basse-Normandie;fr;altLabel;zthes_UF
+001_92;NORMANDIE;upper Normandy;en;altLabel;zthes_UF
+001_92;NORMANDIE;Lower Normandy;en;altLabel;zthes_UF
+001_96;HAUT-DE-FRANCE;Nord-Pas-de Calais;fr;altLabel;zthes_UF
+001_96;HAUT-DE-FRANCE;Picardie;fr;altLabel;zthes_UF
+001_96;HAUT-DE-FRANCE;Nord-Pas-de Calais;en;altLabel;zthes_UF
+001_96;HAUT-DE-FRANCE;Picardy;en;altLabel;zthes_UF
+002_05;TERRES AUSTRALES ET ANTARCTIQUES;Iles Amsterdam;fr;altLabel;zthes_UF
+002_05;TERRES AUSTRALES ET ANTARCTIQUES;Ile Saint Paul;fr;altLabel;zthes_UF
+002_05;TERRES AUSTRALES ET ANTARCTIQUES;Iles Crozet;fr;altLabel;zthes_UF
+002_05;TERRES AUSTRALES ET ANTARCTIQUES;Iles Kerguelen;fr;altLabel;zthes_UF
+002_05;TERRES AUSTRALES ET ANTARCTIQUES;Amsterdam Islands;en;altLabel;zthes_UF
+002_05;TERRES AUSTRALES ET ANTARCTIQUES;Saint Paul Island;en;altLabel;zthes_UF
+002_05;TERRES AUSTRALES ET ANTARCTIQUES;Crozet Islands;en;altLabel;zthes_UF
+002_05;TERRES AUSTRALES ET ANTARCTIQUES;Kerguelen Islands;en;altLabel;zthes_UF
+002_34;ILE DE LA REUNION;Ile Bassas da India;fr;altLabel;zthes_UF
+002_34;ILE DE LA REUNION;Ile Juan de Nova;fr;altLabel;zthes_UF
+002_34;ILE DE LA REUNION;Iles Europe;fr;altLabel;zthes_UF
+002_34;ILE DE LA REUNION;Iles Glorieuses;fr;altLabel;zthes_UF
+002_34;ILE DE LA REUNION;Ile Tromelin;fr;altLabel;zthes_UF
+002_34;ILE DE LA REUNION;Bassas da India Island;en;altLabel;zthes_UF
+002_34;ILE DE LA REUNION;Juan de Nova Island;en;altLabel;zthes_UF
+002_34;ILE DE LA REUNION;Europe Islands;en;altLabel;zthes_UF
+002_34;ILE DE LA REUNION;Glorioso Islands;en;altLabel;zthes_UF
+002_34;ILE DE LA REUNION;Tromelin Island;en;altLabel;zthes_UF
+002_37;NOUVELLE CALEDONIE;Iles Bélep;fr;altLabel;zthes_UF
+002_37;NOUVELLE CALEDONIE;Iles Chesterfield;fr;altLabel;zthes_UF
+002_37;NOUVELLE CALEDONIE;Ile des pins;fr;altLabel;zthes_UF
+002_37;NOUVELLE CALEDONIE;Iles Huon;fr;altLabel;zthes_UF
+002_37;NOUVELLE CALEDONIE;Iles Loyauté;fr;altLabel;zthes_UF
+002_37;NOUVELLE CALEDONIE;Ile Walpole;fr;altLabel;zthes_UF
+002_37;NOUVELLE CALEDONIE;Belep Islands;en;altLabel;zthes_UF
+002_37;NOUVELLE CALEDONIE;Chesterfield Islands;en;altLabel;zthes_UF
+002_37;NOUVELLE CALEDONIE;Isle of Pines;en;altLabel;zthes_UF
+002_37;NOUVELLE CALEDONIE;Huon Islands;en;altLabel;zthes_UF
+002_37;NOUVELLE CALEDONIE;Loyalty Islands;en;altLabel;zthes_UF
+002_37;NOUVELLE CALEDONIE;Walpole Island;en;altLabel;zthes_UF
+002_44;MAYOTTE;Grande-Terre;fr;altLabel;zthes_UF
+002_44;MAYOTTE;Pamanzi;fr;altLabel;zthes_UF
+002_44;MAYOTTE;Grande Terre;en;altLabel;zthes_UF
+002_44;MAYOTTE;Pamanzi;en;altLabel;zthes_UF
+002_48;WALLIS ET FUTUNA;Ile Alofi;fr;altLabel;zthes_UF
+002_48;WALLIS ET FUTUNA;Alofi Island;en;altLabel;zthes_UF
+002_49;POLYNESIE FRANCAISE;Archipel des Tuamotu;fr;altLabel;zthes_UF
+002_49;POLYNESIE FRANCAISE;Ile de Clipperton;fr;altLabel;zthes_UF
+002_49;POLYNESIE FRANCAISE;Iles de la Société;fr;altLabel;zthes_UF
+002_49;POLYNESIE FRANCAISE;Iles Gambier;fr;altLabel;zthes_UF
+002_49;POLYNESIE FRANCAISE;Iles Marquises;fr;altLabel;zthes_UF
+002_49;POLYNESIE FRANCAISE;Ile Tubuaï;fr;altLabel;zthes_UF
+002_49;POLYNESIE FRANCAISE;Tahiti;fr;altLabel;zthes_UF
+002_49;POLYNESIE FRANCAISE;Tuamotu Archipelago;en;altLabel;zthes_UF
+002_49;POLYNESIE FRANCAISE;Clipperton Island;en;altLabel;zthes_UF
+002_49;POLYNESIE FRANCAISE;Society Islands;en;altLabel;zthes_UF
+002_49;POLYNESIE FRANCAISE;Gambier Islands;en;altLabel;zthes_UF
+002_49;POLYNESIE FRANCAISE;Marquesas Islands;en;altLabel;zthes_UF
+002_49;POLYNESIE FRANCAISE;Tubuaï Island;en;altLabel;zthes_UF
+002_49;POLYNESIE FRANCAISE;Tahiti;en;altLabel;zthes_UF
+002_71;GUADELOUPE;La Désirade;fr;altLabel;zthes_UF
+002_71;GUADELOUPE;Marie Galante;fr;altLabel;zthes_UF
+002_71;GUADELOUPE;Partie septentrionale de Saint-Martin;fr;altLabel;zthes_UF
+002_71;GUADELOUPE;La Petite Terre;fr;altLabel;zthes_UF
+002_71;GUADELOUPE;Saint Barthélémy;fr;altLabel;zthes_UF
+002_71;GUADELOUPE;Les Saintes;fr;altLabel;zthes_UF
+002_71;GUADELOUPE;La Désirade;en;altLabel;zthes_UF
+002_71;GUADELOUPE;Marie Galante;en;altLabel;zthes_UF
+002_71;GUADELOUPE;Northern part of Saint Martin;en;altLabel;zthes_UF
+002_71;GUADELOUPE;La Petite Terre;en;altLabel;zthes_UF
+002_71;GUADELOUPE;Saint Barthélémy;en;altLabel;zthes_UF
+002_71;GUADELOUPE;Les Saintes;en;altLabel;zthes_UF
+011_06;MALTE;Comino;fr;altLabel;zthes_UF
+011_06;MALTE;Gozo;fr;altLabel;zthes_UF
+011_06;MALTE;Comino;en;altLabel;zthes_UF
+011_06;MALTE;Gozo;en;altLabel;zthes_UF
+011_10;PORTUGAL;Açores;fr;altLabel;zthes_UF
+011_10;PORTUGAL;Macao;fr;altLabel;zthes_UF
+011_10;PORTUGAL;Madère;fr;altLabel;zthes_UF
+011_10;PORTUGAL;Azores;en;altLabel;zthes_UF
+011_10;PORTUGAL;Macao;en;altLabel;zthes_UF
+011_10;PORTUGAL;Madeira;en;altLabel;zthes_UF
+011_11;ESPAGNE;Baléares;fr;altLabel;zthes_UF
+011_11;ESPAGNE;Canaries;fr;altLabel;zthes_UF
+011_11;ESPAGNE;Ceuta et Melilla;fr;altLabel;zthes_UF
+011_11;ESPAGNE;Balearic Islands;en;altLabel;zthes_UF
+011_11;ESPAGNE;Canary Islands;en;altLabel;zthes_UF
+011_11;ESPAGNE;Ceuta and Melilla;en;altLabel;zthes_UF
+011_25;ITALIE;Saint Marin;fr;altLabel;zthes_UF
+011_25;ITALIE;San Marino;en;altLabel;zthes_UF
+011_44;SUISSE;Commune italienne de Campione d'Italia;fr;altLabel;zthes_UF
+011_44;SUISSE;Territoire allemand de Büsingen;fr;altLabel;zthes_UF
+011_44;SUISSE;Italian commune of Campione d' Italia;en;altLabel;zthes_UF
+011_44;SUISSE;German territory of Büsingen;en;altLabel;zthes_UF
+011_65;ALLEMAGNE;Territoires autrichiens de Jungholz et Mittelberg;fr;altLabel;zthes_UF
+011_65;ALLEMAGNE;Austrian territories of Jungholz and Mittelberg;en;altLabel;zthes_UF
+011_71;ROYAUME UNI;Archipel des Chagos;fr;altLabel;zthes_UF
+011_71;ROYAUME UNI;Grande-Bretagne;fr;altLabel;zthes_UF
+011_71;ROYAUME UNI;Ile de l'Ascension;fr;altLabel;zthes_UF
+011_71;ROYAUME UNI;Ile de Man;fr;altLabel;zthes_UF
+011_71;ROYAUME UNI;Ile de Sainte Hélène;fr;altLabel;zthes_UF
+011_71;ROYAUME UNI;Iles anglo-normandes;fr;altLabel;zthes_UF
+011_71;ROYAUME UNI;Iles Cayman;fr;altLabel;zthes_UF
+011_71;ROYAUME UNI;Iles Pitcairn;fr;altLabel;zthes_UF
+011_71;ROYAUME UNI;Iles Turks et Caïcos;fr;altLabel;zthes_UF
+011_71;ROYAUME UNI;Irlande du Nord;fr;altLabel;zthes_UF
+011_71;ROYAUME UNI;Tristan da Cunha;fr;altLabel;zthes_UF
+011_71;ROYAUME UNI;Chagos Archipelago;en;altLabel;zthes_UF
+011_71;ROYAUME UNI;Great Britain;en;altLabel;zthes_UF
+011_71;ROYAUME UNI;Ascension Island;en;altLabel;zthes_UF
+011_71;ROYAUME UNI;Isle of Man;en;altLabel;zthes_UF
+011_71;ROYAUME UNI;Sainte Hélène Island;en;altLabel;zthes_UF
+011_71;ROYAUME UNI;Channel Islands;en;altLabel;zthes_UF
+011_71;ROYAUME UNI;Cayman Islands;en;altLabel;zthes_UF
+011_71;ROYAUME UNI;Pitcairn Islands;en;altLabel;zthes_UF
+011_71;ROYAUME UNI;Turks and Caïcos Islands;en;altLabel;zthes_UF
+011_71;ROYAUME UNI;Northern Ireland;en;altLabel;zthes_UF
+011_71;ROYAUME UNI;Tristan da Cunha;en;altLabel;zthes_UF
+011_84;DANEMARK;Groënland;fr;altLabel;zthes_UF
+011_84;DANEMARK;Greenland;en;altLabel;zthes_UF
+011_95;NORVEGE;Archipel du Svalbard;fr;altLabel;zthes_UF
+011_95;NORVEGE;Ile Bouvet;fr;altLabel;zthes_UF
+011_95;NORVEGE;Ile Jean Mayen;fr;altLabel;zthes_UF
+011_95;NORVEGE;Svalbard Archipelago;en;altLabel;zthes_UF
+011_95;NORVEGE;Bouvet Island;en;altLabel;zthes_UF
+011_95;NORVEGE;Jean Mayen Island;en;altLabel;zthes_UF
+011_98;FINLANDE;Iles Aland;fr;altLabel;zthes_UF
+011_98;FINLANDE;Aland Islands;en;altLabel;zthes_UF
+021_01;ANTIGUA ET BARBUDA;Redonda;fr;altLabel;zthes_UF
+021_01;ANTIGUA ET BARBUDA;Redonda;en;altLabel;zthes_UF
+021_02;ANTILLES NEERLANDAISES;Aruba;fr;altLabel;zthes_UF
+021_02;ANTILLES NEERLANDAISES;Bonaire;fr;altLabel;zthes_UF
+021_02;ANTILLES NEERLANDAISES;Curaçao;fr;altLabel;zthes_UF
+021_02;ANTILLES NEERLANDAISES;Partie méridionale de Saint-Martin;fr;altLabel;zthes_UF
+021_02;ANTILLES NEERLANDAISES;Saba;fr;altLabel;zthes_UF
+021_02;ANTILLES NEERLANDAISES;Saint Eustache;fr;altLabel;zthes_UF
+021_02;ANTILLES NEERLANDAISES;Aruba;en;altLabel;zthes_UF
+021_02;ANTILLES NEERLANDAISES;Bonaire;en;altLabel;zthes_UF
+021_02;ANTILLES NEERLANDAISES;Curaçao;en;altLabel;zthes_UF
+021_02;ANTILLES NEERLANDAISES;Southernmost part of Saint Martin;en;altLabel;zthes_UF
+021_02;ANTILLES NEERLANDAISES;Saba;en;altLabel;zthes_UF
+021_02;ANTILLES NEERLANDAISES;Saint Eustache;en;altLabel;zthes_UF
+021_15;EQUATEUR;Iles Galapagos;fr;altLabel;zthes_UF
+021_15;EQUATEUR;Galapagos Islands;en;altLabel;zthes_UF
+021_17;GRENADE;Iles Grenadines du Sud;fr;altLabel;zthes_UF
+021_17;GRENADE;Southern Grenadines;en;altLabel;zthes_UF
+021_21;HONDURAS;Iles Swan;fr;altLabel;zthes_UF
+021_21;HONDURAS;Swan Islands;en;altLabel;zthes_UF
+021_22;ILES FALKLAND;Géorgie du Sud;fr;altLabel;zthes_UF
+021_22;ILES FALKLAND;Iles Sandwich du Sud;fr;altLabel;zthes_UF
+021_22;ILES FALKLAND;South Georgia;en;altLabel;zthes_UF
+021_22;ILES FALKLAND;Southern Sandwich Islands;en;altLabel;zthes_UF
+021_23;INDES-OCCIDENTALES;Anguilla;fr;altLabel;zthes_UF
+021_23;INDES-OCCIDENTALES;Iles Vierges britanniques;fr;altLabel;zthes_UF
+021_23;INDES-OCCIDENTALES;Montserrat;fr;altLabel;zthes_UF
+021_23;INDES-OCCIDENTALES;Nevis;fr;altLabel;zthes_UF
+021_23;INDES-OCCIDENTALES;Saint Christophe;fr;altLabel;zthes_UF
+021_23;INDES-OCCIDENTALES;Saint Kitts;fr;altLabel;zthes_UF
+021_23;INDES-OCCIDENTALES;Anguilla;en;altLabel;zthes_UF
+021_23;INDES-OCCIDENTALES;British Virgin Islands;en;altLabel;zthes_UF
+021_23;INDES-OCCIDENTALES;Montserrat;en;altLabel;zthes_UF
+021_23;INDES-OCCIDENTALES;Nevis;en;altLabel;zthes_UF
+021_23;INDES-OCCIDENTALES;Saint Christopher;en;altLabel;zthes_UF
+021_23;INDES-OCCIDENTALES;Saint Kitts;en;altLabel;zthes_UF
+021_27;NICARAGUA;Iles Corn;fr;altLabel;zthes_UF
+021_27;NICARAGUA;Corn Islands;en;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Guam;fr;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Ile Kingman Reef;fr;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Ile Marshall;fr;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Ile Midway;fr;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Ile Wake;fr;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Iles Carolines;fr;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Iles Howland et Baker;fr;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Iles Mariannes;fr;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Iles Palmyra et Jarvis;fr;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Iles Samoa américaines;fr;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Iles Vierges américaines;fr;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Porto Rico;fr;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Guam;en;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Kingman Reef Island;en;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Marshall Island;en;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Midway Island;en;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Wake Island;en;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Carolines Islands;en;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Howland and Baker Islands;en;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Northern Marianna Islands;en;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Palmyra and Jarvis Islands;en;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;American Samoa Islands;en;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;American Virgin Islands;en;altLabel;zthes_UF
+021_32;ETATS-UNIS D'AMERIQUE;Puerto Rico;en;altLabel;zthes_UF
+021_33;SAINT VINCENT;Iles Grenadines du Nord;fr;altLabel;zthes_UF
+021_33;SAINT VINCENT;Northern Grenadines;en;altLabel;zthes_UF
+021_62;CANADA;Québec;fr;altLabel;zthes_UF
+021_62;CANADA;Quebec;en;altLabel;zthes_UF
+031_03;ANGOLA;Cabinda;fr;altLabel;zthes_UF
+031_03;ANGOLA;Cabinda;en;altLabel;zthes_UF
+031_10;COMORES;Anjouan;fr;altLabel;zthes_UF
+031_10;COMORES;Grande Comore;fr;altLabel;zthes_UF
+031_10;COMORES;Mohéli;fr;altLabel;zthes_UF
+031_10;COMORES;Anjouan;en;altLabel;zthes_UF
+031_10;COMORES;Large Comore;en;altLabel;zthes_UF
+031_10;COMORES;Mohéli;en;altLabel;zthes_UF
+031_29;MAURICE;Iles Agaléga;fr;altLabel;zthes_UF
+031_29;MAURICE;Ile Rodrigues;fr;altLabel;zthes_UF
+031_29;MAURICE;Iles Saint-Brandon;fr;altLabel;zthes_UF
+031_29;MAURICE;Agalega Islands;en;altLabel;zthes_UF
+031_29;MAURICE;Rodrigues Island;en;altLabel;zthes_UF
+031_29;MAURICE;Saint Brandon Rocks;en;altLabel;zthes_UF
+031_40;SEYCHELLES;Ile de Frégate;fr;altLabel;zthes_UF
+031_40;SEYCHELLES;Ile Aldabra;fr;altLabel;zthes_UF
+031_40;SEYCHELLES;Ile Alphonse;fr;altLabel;zthes_UF
+031_40;SEYCHELLES;Ile Providence;fr;altLabel;zthes_UF
+031_40;SEYCHELLES;Iles Amirante;fr;altLabel;zthes_UF
+031_40;SEYCHELLES;Iles Bird et Denis;fr;altLabel;zthes_UF
+031_40;SEYCHELLES;Ile Mahé;fr;altLabel;zthes_UF
+031_40;SEYCHELLES;Iles Mamelles et Récifs;fr;altLabel;zthes_UF
+031_40;SEYCHELLES;Iles Plate et Coëtivy;fr;altLabel;zthes_UF
+031_40;SEYCHELLES;Ile Praslin;fr;altLabel;zthes_UF
+031_40;SEYCHELLES;Ile Silhouette;fr;altLabel;zthes_UF
+031_40;SEYCHELLES;La Digue;fr;altLabel;zthes_UF
+031_40;SEYCHELLES;Frégate Island;en;altLabel;zthes_UF
+031_40;SEYCHELLES;Aldabra Island;en;altLabel;zthes_UF
+031_40;SEYCHELLES;Alphonse Island;en;altLabel;zthes_UF
+031_40;SEYCHELLES;Providence Island;en;altLabel;zthes_UF
+031_40;SEYCHELLES;Amirante Islands;en;altLabel;zthes_UF
+031_40;SEYCHELLES;Bird and Denis Islands;en;altLabel;zthes_UF
+031_40;SEYCHELLES;Mahé Island;en;altLabel;zthes_UF
+031_40;SEYCHELLES;Mamelles and Récifs Islands;en;altLabel;zthes_UF
+031_40;SEYCHELLES;Plate and Coëtivy Islands;en;altLabel;zthes_UF
+031_40;SEYCHELLES;Praslin Island;en;altLabel;zthes_UF
+031_40;SEYCHELLES;Silhouette Island;en;altLabel;zthes_UF
+031_40;SEYCHELLES;La Digue;en;altLabel;zthes_UF
+031_45;TANZANIE;Pemba;fr;altLabel;zthes_UF
+031_45;TANZANIE;Tanganika;fr;altLabel;zthes_UF
+031_45;TANZANIE;Zanzibar;fr;altLabel;zthes_UF
+031_45;TANZANIE;Pemba;en;altLabel;zthes_UF
+031_45;TANZANIE;Tanganika;en;altLabel;zthes_UF
+031_45;TANZANIE;Zanzibar;en;altLabel;zthes_UF
+041_07;MYANMAR;Birmanie;fr;altLabel;zthes_UF
+041_07;MYANMAR;Burma;en;altLabel;zthes_UF
+041_11;CHINE;Tibet;fr;altLabel;zthes_UF
+041_11;CHINE;Tibet;en;altLabel;zthes_UF
+041_17;EMIRATS ARABES UNIS;Abou Dhabi;fr;altLabel;zthes_UF
+041_17;EMIRATS ARABES UNIS;Adjman;fr;altLabel;zthes_UF
+041_17;EMIRATS ARABES UNIS;Chardja;fr;altLabel;zthes_UF
+041_17;EMIRATS ARABES UNIS;Doubaï;fr;altLabel;zthes_UF
+041_17;EMIRATS ARABES UNIS;Foudayra;fr;altLabel;zthes_UF
+041_17;EMIRATS ARABES UNIS;Rais al Khaimah;fr;altLabel;zthes_UF
+041_17;EMIRATS ARABES UNIS;Umm al Qaiwain;fr;altLabel;zthes_UF
+041_17;EMIRATS ARABES UNIS;Abu Dhabi;en;altLabel;zthes_UF
+041_17;EMIRATS ARABES UNIS;Adjman;en;altLabel;zthes_UF
+041_17;EMIRATS ARABES UNIS;Chardja;en;altLabel;zthes_UF
+041_17;EMIRATS ARABES UNIS;Dubai;en;altLabel;zthes_UF
+041_17;EMIRATS ARABES UNIS;Foudayra;en;altLabel;zthes_UF
+041_17;EMIRATS ARABES UNIS;Ray Al Khaimah;en;altLabel;zthes_UF
+041_17;EMIRATS ARABES UNIS;Umm Al Qaiwain;en;altLabel;zthes_UF
+041_20;INDE;Sikkim;fr;altLabel;zthes_UF
+041_20;INDE;Sikkim;en;altLabel;zthes_UF
+041_32;MALAISIE;Malaysia;fr;altLabel;zthes_UF
+041_32;MALAISIE;Sabah;fr;altLabel;zthes_UF
+041_32;MALAISIE;Sarawak;fr;altLabel;zthes_UF
+041_32;MALAISIE;Malaysia;en;altLabel;zthes_UF
+041_32;MALAISIE;Sabah;en;altLabel;zthes_UF
+041_32;MALAISIE;Sarawak;en;altLabel;zthes_UF
+051_16;NOUVELLE ZELANDE;Ile Niué;fr;altLabel;zthes_UF
+051_16;NOUVELLE ZELANDE;Iles Cook;fr;altLabel;zthes_UF
+051_16;NOUVELLE ZELANDE;Iles Tokolau;fr;altLabel;zthes_UF
+051_16;NOUVELLE ZELANDE;Niué Island;en;altLabel;zthes_UF
+051_16;NOUVELLE ZELANDE;Cook Islands;en;altLabel;zthes_UF
+051_16;NOUVELLE ZELANDE;Tokolau Islands;en;altLabel;zthes_UF
+051_42;AUSTRALIE;Ile Christmas;fr;altLabel;zthes_UF
+051_42;AUSTRALIE;Ile Norfolk;fr;altLabel;zthes_UF
+051_42;AUSTRALIE;Iles Cocos;fr;altLabel;zthes_UF
+051_42;AUSTRALIE;Iles Heard et McDonald;fr;altLabel;zthes_UF
+051_42;AUSTRALIE;Christmas Island;en;altLabel;zthes_UF
+051_42;AUSTRALIE;Norfolk Island;en;altLabel;zthes_UF
+051_42;AUSTRALIE;Cocos Islands;en;altLabel;zthes_UF
+051_42;AUSTRALIE;Heard and McDonald Islands;en;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;Archipel de la Louisiade et dépendances;fr;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;Bougainville;fr;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;Buka;fr;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;Iles de l'Amirauté;fr;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;Iles d'Entrecasteaux;fr;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;Iles Green;fr;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;Lavongai;fr;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;Nouvelle Bretagne;fr;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;Nouvelle-Irlande;fr;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;Trobriand;fr;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;Woodlark;fr;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;Louisiade Archipelago;en;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;Bougainville;en;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;Buka;en;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;Admiralty Islands;en;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;Entrecasteaux Islands;en;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;Green Islands;en;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;Lavongai;en;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;New Britain;en;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;New Ireland;en;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;Trobriand;en;altLabel;zthes_UF
+051_73;PAPOUASIE NOUVELLE GUINEE;Woodlark;en;altLabel;zthes_UF
+051_97;KIRIBATI;Canton;fr;altLabel;zthes_UF
+051_97;KIRIBATI;Enderbury;fr;altLabel;zthes_UF
+051_97;KIRIBATI;Iles de la Ligne;fr;altLabel;zthes_UF
+051_97;KIRIBATI;Canton;en;altLabel;zthes_UF
+051_97;KIRIBATI;Enderbury;en;altLabel;zthes_UF
+051_97;KIRIBATI;Line Islands;en;altLabel;zthes_UF
+061_01;ANTARCTIQUE;Pôle sud;fr;altLabel;zthes_UF
+061_01;ANTARCTIQUE;South pole;en;altLabel;zthes_UF
+061_02;ARCTIQUE;Pôle nord;fr;altLabel;zthes_UF
+061_02;ARCTIQUE;North pole;en;altLabel;zthes_UF
+111_01;DELEGATION DE RESPONSABILITE;Délégation de l'autorité;fr;altLabel;site_employe_pour
+111_01;DELEGATION DE RESPONSABILITE;Delegation of authority;en;altLabel;zthes_UF
+111_02;CHEF D'ENTREPRISE;Entrepreneur;fr;altLabel;site_employe_pour
+111_02;CHEF D'ENTREPRISE;Entrepreneur;en;altLabel;zthes_UF
+111_12;DIRECTION GENERALE;Comité de direction;fr;altLabel;site_employe_pour
+111_12;DIRECTION GENERALE;Executive committee;en;altLabel;zthes_UF
+111_13;CONSEIL D'ADMINISTRATION;Administrateur;fr;altLabel;site_employe_pour
+111_13;CONSEIL D'ADMINISTRATION;Administrator;en;altLabel;zthes_UF
+111_25;COMPETITIVITE;Avantage Concurrentiel;fr;altLabel;site_employe_pour
+111_25;COMPETITIVITE;Competitive Advantage;en;altLabel;zthes_UF
+111_43;STRUCTURE DE L'ENTREPRISE;Centralisation;fr;altLabel;site_employe_pour
+111_43;STRUCTURE DE L'ENTREPRISE;Morphologie de l'entreprise;fr;altLabel;site_employe_pour
+111_43;STRUCTURE DE L'ENTREPRISE;Restructuration;fr;altLabel;site_employe_pour
+111_43;STRUCTURE DE L'ENTREPRISE;Corporate morphology;en;altLabel;zthes_UF
+111_43;STRUCTURE DE L'ENTREPRISE;Reorganization;en;altLabel;zthes_UF
+111_43;STRUCTURE DE L'ENTREPRISE;Centralization;en;altLabel;zthes_UF
+111_46;THEORIE DES ORGANISATIONS;Théorie de la firme;fr;altLabel;site_employe_pour
+111_46;THEORIE DES ORGANISATIONS;Theory of the firm;en;altLabel;zthes_UF
+111_55;ORGANISATION;Organisation de l'entreprise;fr;altLabel;site_employe_pour
+111_55;ORGANISATION;Business structure;en;altLabel;zthes_UF
+111_58;CHANGEMENT ORGANISATIONNEL;Agilité de l'entreprise;fr;altLabel;site_employe_pour
+111_58;CHANGEMENT ORGANISATIONNEL;Reengineering;fr;altLabel;site_employe_pour
+111_58;CHANGEMENT ORGANISATIONNEL;Réforme de l'entreprise;fr;altLabel;site_employe_pour
+111_58;CHANGEMENT ORGANISATIONNEL;Company reform;en;altLabel;zthes_UF
+111_58;CHANGEMENT ORGANISATIONNEL;Business agility;en;altLabel;zthes_UF
+111_58;CHANGEMENT ORGANISATIONNEL;Reengineering;en;altLabel;zthes_UF
+111_65;MANAGEMENT;Administration des affaires;fr;altLabel;site_employe_pour
+111_65;MANAGEMENT;Gestion de l'entreprise;fr;altLabel;site_employe_pour
+111_65;MANAGEMENT;Management opérationnel;fr;altLabel;site_employe_pour
+111_65;MANAGEMENT;Théorie du management;fr;altLabel;site_employe_pour
+111_65;MANAGEMENT;Operational management;en;altLabel;zthes_UF
+111_65;MANAGEMENT;Business administration;en;altLabel;zthes_UF
+111_65;MANAGEMENT;Corporate management;en;altLabel;zthes_UF
+111_65;MANAGEMENT;Management theory;en;altLabel;zthes_UF
+111_68;APPRENTISSAGE ORGANISATIONNEL;Organisation apprenante;fr;altLabel;site_employe_pour
+111_68;APPRENTISSAGE ORGANISATIONNEL;Learning organization;en;altLabel;zthes_UF
+111_75;RESPONSABILITE SOCIALE DE L'ENTREPRISE;Entreprise citoyenne;fr;altLabel;site_employe_pour
+111_75;RESPONSABILITE SOCIALE DE L'ENTREPRISE;Corporate citizen;en;altLabel;zthes_UF
+111_76;STYLE DE MANAGEMENT;Management par projet;fr;altLabel;site_employe_pour
+111_76;STYLE DE MANAGEMENT;Management participatif;fr;altLabel;site_employe_pour
+111_76;STYLE DE MANAGEMENT;Participative management;en;altLabel;zthes_UF
+111_76;STYLE DE MANAGEMENT;Management by project;en;altLabel;zthes_UF
+111_77;MANAGEMENT DES CONNAISSANCES;Gestion des savoirs;fr;altLabel;site_employe_pour
+111_77;MANAGEMENT DES CONNAISSANCES;KM;en;altLabel;zthes_UF
+111_82;MANAGEMENT TECHNOLOGIQUE;Management de la technologie;fr;altLabel;site_employe_pour
+111_82;MANAGEMENT TECHNOLOGIQUE;Management of technology;en;altLabel;zthes_UF
+111_83;MANAGEMENT DU RISQUE;Principe de précaution;fr;altLabel;site_employe_pour
+111_83;MANAGEMENT DU RISQUE;Precautionary principle;en;altLabel;zthes_UF
+111_85;ETHIQUE PROFESSIONNELLE;Déontologie;fr;altLabel;site_employe_pour
+111_85;ETHIQUE PROFESSIONNELLE;Ethique de l'entreprise;fr;altLabel;site_employe_pour
+111_85;ETHIQUE PROFESSIONNELLE;Deontology;en;altLabel;zthes_UF
+111_85;ETHIQUE PROFESSIONNELLE;Business ethics;en;altLabel;zthes_UF
+111_87;CULTURE ORGANISATIONNELLE;Culture d'entreprise;fr;altLabel;site_employe_pour
+111_87;CULTURE ORGANISATIONNELLE;Identité organisationnelle;fr;altLabel;site_employe_pour
+111_87;CULTURE ORGANISATIONNELLE;Corporate culture;en;altLabel;zthes_UF
+111_87;CULTURE ORGANISATIONNELLE;Organizational identity;en;altLabel;zthes_UF
+112_02;ENTREPRISE DE SERVICES;Prestation de service;fr;altLabel;site_employe_pour
+112_02;ENTREPRISE DE SERVICES;Service delivery;en;altLabel;zthes_UF
+112_04;EXPLOITATION AGRICOLE;Agriculteur;fr;altLabel;site_employe_pour
+112_04;EXPLOITATION AGRICOLE;Paysan;fr;altLabel;site_employe_pour
+112_04;EXPLOITATION AGRICOLE;Farmer;en;altLabel;zthes_UF
+112_04;EXPLOITATION AGRICOLE;Peasant;en;altLabel;zthes_UF
+112_05;ENTREPRISE ARTISANALE;Artisan;fr;altLabel;site_employe_pour
+112_05;ENTREPRISE ARTISANALE;Chambre des métiers;fr;altLabel;site_employe_pour
+112_05;ENTREPRISE ARTISANALE;Craftsman;en;altLabel;zthes_UF
+112_05;ENTREPRISE ARTISANALE;Guild chamber;en;altLabel;zthes_UF
+112_06;ENTREPRISE INDIVIDUELLE;EIRL;fr;altLabel;site_employe_pour
+112_06;ENTREPRISE INDIVIDUELLE;TPE;fr;altLabel;site_employe_pour
+112_06;ENTREPRISE INDIVIDUELLE;Très petite entreprise;fr;altLabel;site_employe_pour
+112_06;ENTREPRISE INDIVIDUELLE;Very small company;en;altLabel;zthes_UF
+112_06;ENTREPRISE INDIVIDUELLE;EIRL;en;altLabel;zthes_UF
+112_06;ENTREPRISE INDIVIDUELLE;Very small business;en;altLabel;zthes_UF
+112_16;PME;PMI;fr;altLabel;site_employe_pour
+112_16;PME;Petite et moyenne entreprise;fr;altLabel;site_employe_pour
+112_16;PME;Petite et moyenne industrie;fr;altLabel;site_employe_pour
+112_16;PME;Small and medium sized enterprise;en;altLabel;zthes_UF
+112_16;PME;Small and medium sized industrial firm;en;altLabel;zthes_UF
+112_16;PME;SMI;en;altLabel;zthes_UF
+112_17;ETI;Entreprise de taille intermédiaire;fr;altLabel;site_employe_pour
+112_17;ETI;Intermediate sized company;en;altLabel;zthes_UF
+112_19;FILIALE A L'ETRANGER;Filiale de production à l'étranger;fr;altLabel;site_employe_pour
+112_19;FILIALE A L'ETRANGER;Filiale de vente à l'étranger;fr;altLabel;site_employe_pour
+112_19;FILIALE A L'ETRANGER;Foreign production subsidiary;en;altLabel;zthes_UF
+112_19;FILIALE A L'ETRANGER;Foreign sales subsidiary;en;altLabel;zthes_UF
+112_26;DIMENSION DE L'ENTREPRISE;Taille de l'entreprise;fr;altLabel;site_employe_pour
+112_26;DIMENSION DE L'ENTREPRISE;Company size;en;altLabel;zthes_UF
+112_27;GRANDE ENTREPRISE;Groupe;fr;altLabel;site_employe_pour
+112_27;GRANDE ENTREPRISE;Group;en;altLabel;zthes_UF
+112_37;ENTREPRISE MULTINATIONALE;Entreprise internationale;fr;altLabel;site_employe_pour
+112_37;ENTREPRISE MULTINATIONALE;Gestion de l'entreprise internationale;fr;altLabel;site_employe_pour
+112_37;ENTREPRISE MULTINATIONALE;Internationalisation des entreprises;fr;altLabel;site_employe_pour
+112_37;ENTREPRISE MULTINATIONALE;Corporate internationalization;en;altLabel;zthes_UF
+112_37;ENTREPRISE MULTINATIONALE;International company management;en;altLabel;zthes_UF
+112_37;ENTREPRISE MULTINATIONALE;International company;en;altLabel;zthes_UF
+112_41;SECTEUR PUBLIC;Entreprise publique;fr;altLabel;site_employe_pour
+112_41;SECTEUR PUBLIC;Nationalisation;fr;altLabel;site_employe_pour
+112_41;SECTEUR PUBLIC;Nationalization;en;altLabel;zthes_UF
+112_41;SECTEUR PUBLIC;Public enterprise;en;altLabel;zthes_UF
+112_51;SECTEUR PRIVE;Entreprise privée;fr;altLabel;site_employe_pour
+112_51;SECTEUR PRIVE;Privatisation;fr;altLabel;site_employe_pour
+112_51;SECTEUR PRIVE;Private company;en;altLabel;zthes_UF
+112_51;SECTEUR PRIVE;Privatization;en;altLabel;zthes_UF
+112_58;ENTREPRISE LOCALE;Entreprise régionale;fr;altLabel;site_employe_pour
+112_58;ENTREPRISE LOCALE;Regional company;en;altLabel;zthes_UF
+112_66;COLLABORATION INTER ENTREPRISES;Réseau d'entreprises;fr;altLabel;site_employe_pour
+112_66;COLLABORATION INTER ENTREPRISES;Network of enterprises;en;altLabel;zthes_UF
+112_70;ENTREPRISE EN DIFFICULTE;Redressement d'entreprise;fr;altLabel;site_employe_pour
+112_70;ENTREPRISE EN DIFFICULTE;Business turnaround;en;altLabel;zthes_UF
+112_71;PEPINIERE D'ENTREPRISES;Incubateur;fr;altLabel;site_employe_pour
+112_71;PEPINIERE D'ENTREPRISES;Incubator;en;altLabel;zthes_UF
+112_78;SOUS TRAITANCE;Externalisation;fr;altLabel;site_employe_pour
+112_78;SOUS TRAITANCE;Facilities management;fr;altLabel;site_employe_pour
+112_78;SOUS TRAITANCE;Réinternalisation;fr;altLabel;site_employe_pour
+112_78;SOUS TRAITANCE;Outsourcing;en;altLabel;zthes_UF
+112_78;SOUS TRAITANCE;Facilities management;en;altLabel;zthes_UF
+112_78;SOUS TRAITANCE;Backsourcing;en;altLabel;zthes_UF
+112_80;CESSATION D'ACTIVITE;Fermeture de l'entreprise;fr;altLabel;site_employe_pour
+112_80;CESSATION D'ACTIVITE;Corporate closure;en;altLabel;zthes_UF
+112_82;INTRAPRENEURIAT;Essaimage;fr;altLabel;site_employe_pour
+112_82;INTRAPRENEURIAT;Spin off;en;altLabel;zthes_UF
+112_84;FUSION ACQUISITION;Absorption;fr;altLabel;site_employe_pour
+112_84;FUSION ACQUISITION;Absorption;en;altLabel;zthes_UF
+112_85;ALLIANCE STRATEGIQUE;Groupement d'entreprises;fr;altLabel;site_employe_pour
+112_85;ALLIANCE STRATEGIQUE;Consortium;en;altLabel;zthes_UF
+112_86;CLUSTER;District industriel;fr;altLabel;site_employe_pour
+112_86;CLUSTER;Pôle de compétitivité;fr;altLabel;site_employe_pour
+112_86;CLUSTER;Système productif local;fr;altLabel;site_employe_pour
+112_86;CLUSTER;Industrial district;en;altLabel;zthes_UF
+112_86;CLUSTER;Industrial cluster;en;altLabel;zthes_UF
+112_86;CLUSTER;Local production system;en;altLabel;zthes_UF
+112_89;SPECIALISATION;Division du travail;fr;altLabel;site_employe_pour
+112_89;SPECIALISATION;Division of labor;en;altLabel;zthes_UF
+112_91;TRANSMISSION D'ENTREPRISE;RES;fr;altLabel;site_employe_pour
+112_91;TRANSMISSION D'ENTREPRISE;Rachat d'entreprise;fr;altLabel;site_employe_pour
+112_91;TRANSMISSION D'ENTREPRISE;Reprise d'entreprise par les salariés;fr;altLabel;site_employe_pour
+112_91;TRANSMISSION D'ENTREPRISE;Corporate repurchase;en;altLabel;zthes_UF
+112_91;TRANSMISSION D'ENTREPRISE;Employees buy out;en;altLabel;zthes_UF
+112_91;TRANSMISSION D'ENTREPRISE;LMBO;en;altLabel;zthes_UF
+112_94;LBO;Achat avec effet de levier;fr;altLabel;site_employe_pour
+112_94;LBO;Acquisition par emprunt;fr;altLabel;site_employe_pour
+112_94;LBO;Leveraged buyout;en;altLabel;zthes_UF
+112_94;LBO;Leverage Buy Out;en;altLabel;zthes_UF
+113_18;TABLEAU DE BORD;Balance score card;fr;altLabel;site_employe_pour
+113_18;TABLEAU DE BORD;Balance score card;en;altLabel;zthes_UF
+113_37;PLAN DE DEVELOPPEMENT;Plan d'affaires;fr;altLabel;site_employe_pour
+113_37;PLAN DE DEVELOPPEMENT;Business plan;en;altLabel;zthes_UF
+113_43;OBJECTIF DE L'ENTREPRISE;Programme de l'entreprise;fr;altLabel;site_employe_pour
+113_43;OBJECTIF DE L'ENTREPRISE;Projet d'entreprise;fr;altLabel;site_employe_pour
+113_43;OBJECTIF DE L'ENTREPRISE;Corporate project;en;altLabel;zthes_UF
+113_43;OBJECTIF DE L'ENTREPRISE;Corporate program;en;altLabel;zthes_UF
+113_51;GESTION DE LA QUALITE;Cercle de qualité;fr;altLabel;site_employe_pour
+113_51;GESTION DE LA QUALITE;Qualité totale;fr;altLabel;site_employe_pour
+113_51;GESTION DE LA QUALITE;TQM;fr;altLabel;site_employe_pour
+113_51;GESTION DE LA QUALITE;Total quality;en;altLabel;zthes_UF
+113_51;GESTION DE LA QUALITE;TQM;en;altLabel;zthes_UF
+113_51;GESTION DE LA QUALITE;Quality circle;en;altLabel;zthes_UF
+113_55;STRATEGIE;Management stratégique;fr;altLabel;site_employe_pour
+113_55;STRATEGIE;Strategie d'entreprise;fr;altLabel;site_employe_pour
+113_55;STRATEGIE;Strategic management;en;altLabel;zthes_UF
+113_55;STRATEGIE;Corporate strategy;en;altLabel;zthes_UF
+113_63;DIAGNOSTIC STRATEGIQUE;Audit;fr;altLabel;site_employe_pour
+113_63;DIAGNOSTIC STRATEGIQUE;Autodiagnostic;fr;altLabel;site_employe_pour
+113_63;DIAGNOSTIC STRATEGIQUE;Contrôle interne;fr;altLabel;site_employe_pour
+113_63;DIAGNOSTIC STRATEGIQUE;Diagnostic d'entreprise;fr;altLabel;site_employe_pour
+113_63;DIAGNOSTIC STRATEGIQUE;Internal control;en;altLabel;zthes_UF
+113_63;DIAGNOSTIC STRATEGIQUE;Self diagnostic;en;altLabel;zthes_UF
+113_63;DIAGNOSTIC STRATEGIQUE;Company diagnosis;en;altLabel;zthes_UF
+113_63;DIAGNOSTIC STRATEGIQUE;Audit;en;altLabel;zthes_UF
+113_75;INTELLIGENCE ECONOMIQUE;Veille concurrentielle;fr;altLabel;site_employe_pour
+113_75;INTELLIGENCE ECONOMIQUE;Competitive intelligence;en;altLabel;zthes_UF
+113_77;PROSPECTIVE;Futurologie;fr;altLabel;site_employe_pour
+113_77;PROSPECTIVE;Futurology;en;altLabel;zthes_UF
+121_02;BIEN DURABLE;Bien de consommation durable;fr;altLabel;site_employe_pour
+121_02;BIEN DURABLE;Marché de renouvellement;fr;altLabel;site_employe_pour
+121_02;BIEN DURABLE;Consumer durable good;en;altLabel;zthes_UF
+121_02;BIEN DURABLE;Renewal market;en;altLabel;zthes_UF
+121_06;MARKETING ACHAT;Marketing amont;fr;altLabel;site_employe_pour
+121_06;MARKETING ACHAT;Upstream marketing;en;altLabel;zthes_UF
+121_09;MARKETING POLITIQUE;Marketing territorial;fr;altLabel;site_employe_pour
+121_09;MARKETING POLITIQUE;Territorial marketing;en;altLabel;zthes_UF
+121_11;CYCLE DE VIE DE PRODUIT;Eco-conception;fr;altLabel;site_employe_pour
+121_11;CYCLE DE VIE DE PRODUIT;Ecodesign;en;altLabel;zthes_UF
+121_14;BIEN DE GRANDE CONSOMMATION;Bien de consommation courante;fr;altLabel;site_employe_pour
+121_14;BIEN DE GRANDE CONSOMMATION;Current consumer good;en;altLabel;zthes_UF
+121_16;MARKETING INDUSTRIEL;Marketing business to business;fr;altLabel;site_employe_pour
+121_16;MARKETING INDUSTRIEL;Marketing d'affaires;fr;altLabel;site_employe_pour
+121_16;MARKETING INDUSTRIEL;Marketing de projet;fr;altLabel;site_employe_pour
+121_16;MARKETING INDUSTRIEL;Business to business marketing;en;altLabel;zthes_UF
+121_16;MARKETING INDUSTRIEL;Project marketing;en;altLabel;zthes_UF
+121_16;MARKETING INDUSTRIEL;Business marketing;en;altLabel;zthes_UF
+121_18;MARKETING FINANCIER;Marketing bancaire;fr;altLabel;site_employe_pour
+121_18;MARKETING FINANCIER;Marketing en assurance;fr;altLabel;site_employe_pour
+121_18;MARKETING FINANCIER;Bank marketing;en;altLabel;zthes_UF
+121_18;MARKETING FINANCIER;Insurance marketing;en;altLabel;zthes_UF
+121_19;MARKETING ENVIRONNEMENTAL;Marketing vert;fr;altLabel;site_employe_pour
+121_19;MARKETING ENVIRONNEMENTAL;Green marketing;en;altLabel;zthes_UF
+121_23;BIEN DE CONSOMMATION;Bien d'usage;fr;altLabel;site_employe_pour
+121_23;BIEN DE CONSOMMATION;Right to use;en;altLabel;zthes_UF
+121_26;MARKETING EXPERIENTIEL;Expérience de consommation;fr;altLabel;site_employe_pour
+121_26;MARKETING EXPERIENTIEL;Consumption experience;en;altLabel;zthes_UF
+121_27;MARKETING SENSORIEL;Marketing polysensoriel;fr;altLabel;site_employe_pour
+121_27;MARKETING SENSORIEL;Neuromarketing;fr;altLabel;site_employe_pour
+121_27;MARKETING SENSORIEL;Polysensorial marketing;en;altLabel;zthes_UF
+121_27;MARKETING SENSORIEL;Neuromarketing;en;altLabel;zthes_UF
+121_29;MARKETING SOCIAL;Marketing sociétal;fr;altLabel;site_employe_pour
+121_29;MARKETING SOCIAL;Societal marketing;en;altLabel;zthes_UF
+121_31;GESTION PAR CATEGORIE;Category management;fr;altLabel;site_employe_pour
+121_31;GESTION PAR CATEGORIE;Category management;en;altLabel;zthes_UF
+121_34;BIEN INDUSTRIEL;Bien d'équipement;fr;altLabel;site_employe_pour
+121_34;BIEN INDUSTRIEL;Bien de consommation intermédiaire;fr;altLabel;site_employe_pour
+121_34;BIEN INDUSTRIEL;Bien de production;fr;altLabel;site_employe_pour
+121_34;BIEN INDUSTRIEL;Bien intermédiaire;fr;altLabel;site_employe_pour
+121_34;BIEN INDUSTRIEL;Intermediate consumer good;en;altLabel;zthes_UF
+121_34;BIEN INDUSTRIEL;Capital good;en;altLabel;zthes_UF
+121_34;BIEN INDUSTRIEL;Capital equipment;en;altLabel;zthes_UF
+121_34;BIEN INDUSTRIEL;Intermediate goods;en;altLabel;zthes_UF
+121_36;MARKETING DE LA DISTRIBUTION;ECR;fr;altLabel;site_employe_pour
+121_36;MARKETING DE LA DISTRIBUTION;Trade marketing;fr;altLabel;site_employe_pour
+121_36;MARKETING DE LA DISTRIBUTION;ECR;en;altLabel;zthes_UF
+121_36;MARKETING DE LA DISTRIBUTION;Trade marketing;en;altLabel;zthes_UF
+121_37;MARKETING PARTICIPATIF;Crowdsourcing;fr;altLabel;site_employe_pour
+121_37;MARKETING PARTICIPATIF;Crowdsourcing;en;altLabel;zthes_UF
+121_38;RESEAU COMMERCIAL;Relations d'affaires;fr;altLabel;site_employe_pour
+121_38;RESEAU COMMERCIAL;Business relations;en;altLabel;zthes_UF
+121_47;WEBMARKETING;Emarketing;fr;altLabel;site_employe_pour
+121_47;WEBMARKETING;Marketing digital;fr;altLabel;site_employe_pour
+121_47;WEBMARKETING;Marketing mobile;fr;altLabel;site_employe_pour
+121_47;WEBMARKETING;Emarketing;en;altLabel;zthes_UF
+121_47;WEBMARKETING;Mobile marketing;en;altLabel;zthes_UF
+121_47;WEBMARKETING;Digital marketing;en;altLabel;zthes_UF
+121_52;POLITIQUE DE PRODUIT;Chef de produit;fr;altLabel;site_employe_pour
+121_52;POLITIQUE DE PRODUIT;Product manager;en;altLabel;zthes_UF
+121_53;POLITIQUE COMMERCIALE;Politique de distribution;fr;altLabel;site_employe_pour
+121_53;POLITIQUE COMMERCIALE;Politique de marché;fr;altLabel;site_employe_pour
+121_53;POLITIQUE COMMERCIALE;Distribution policy;en;altLabel;zthes_UF
+121_53;POLITIQUE COMMERCIALE;Market policy;en;altLabel;zthes_UF
+121_54;GESTION DE LA RELATION CLIENT;GRC;fr;altLabel;site_employe_pour
+121_54;GESTION DE LA RELATION CLIENT;CRM;en;altLabel;zthes_UF
+121_55;GESTION DU MARKETING;Gestion commerciale;fr;altLabel;site_employe_pour
+121_55;GESTION DU MARKETING;Marketing aval;fr;altLabel;site_employe_pour
+121_55;GESTION DU MARKETING;Mercatique;fr;altLabel;site_employe_pour
+121_55;GESTION DU MARKETING;Commercial management;en;altLabel;zthes_UF
+121_55;GESTION DU MARKETING;Downstream marketing;en;altLabel;zthes_UF
+121_55;GESTION DU MARKETING;Marketing;en;altLabel;zthes_UF
+121_57;MARKETING VIRAL;Bouche à oreille;fr;altLabel;site_employe_pour
+121_57;MARKETING VIRAL;Buzz marketing;fr;altLabel;site_employe_pour
+121_57;MARKETING VIRAL;Word of mouth marketing;en;altLabel;zthes_UF
+121_57;MARKETING VIRAL;Marketing buzz;en;altLabel;zthes_UF
+121_67;MARKETING STRATEGIQUE;Strategie marketing;fr;altLabel;site_employe_pour
+121_67;MARKETING STRATEGIQUE;Marketing strategy;en;altLabel;zthes_UF
+121_71;LANCEMENT DE PRODUIT;Concept de produit;fr;altLabel;site_employe_pour
+121_71;LANCEMENT DE PRODUIT;Product concept;en;altLabel;zthes_UF
+121_74;POLITIQUE DES PRIX;Prix imposé;fr;altLabel;site_employe_pour
+121_74;POLITIQUE DES PRIX;Imposed price;en;altLabel;zthes_UF
+121_76;THEORIE DU MARKETING;Concept du marketing;fr;altLabel;site_employe_pour
+121_76;THEORIE DU MARKETING;Marketing concept;en;altLabel;zthes_UF
+121_80;TEST DE PRODUIT;Blind test;fr;altLabel;site_employe_pour
+121_80;TEST DE PRODUIT;Test de conditionnement;fr;altLabel;site_employe_pour
+121_80;TEST DE PRODUIT;Blind test;en;altLabel;zthes_UF
+121_80;TEST DE PRODUIT;Conditioning test;en;altLabel;zthes_UF
+121_81;TEST DE MARCHE;Marché témoin;fr;altLabel;site_employe_pour
+121_81;TEST DE MARCHE;Mini marché;fr;altLabel;site_employe_pour
+121_81;TEST DE MARCHE;Pilot market;en;altLabel;zthes_UF
+121_81;TEST DE MARCHE;Mini market;en;altLabel;zthes_UF
+121_91;IMAGE DE MARQUE;E-réputation;fr;altLabel;site_employe_pour
+121_91;IMAGE DE MARQUE;Image de l'entreprise;fr;altLabel;site_employe_pour
+121_91;IMAGE DE MARQUE;Notoriété;fr;altLabel;site_employe_pour
+121_91;IMAGE DE MARQUE;Réputation;fr;altLabel;site_employe_pour
+121_91;IMAGE DE MARQUE;Corporate image;en;altLabel;zthes_UF
+121_91;IMAGE DE MARQUE;Awareness;en;altLabel;zthes_UF
+121_91;IMAGE DE MARQUE;Reputation;en;altLabel;zthes_UF
+121_91;IMAGE DE MARQUE;E-reputation;en;altLabel;zthes_UF
+121_92;MARQUE;Extension de marque;fr;altLabel;site_employe_pour
+121_92;MARQUE;Logo;fr;altLabel;site_employe_pour
+121_92;MARQUE;Brand stretching;en;altLabel;zthes_UF
+121_92;MARQUE;Logo;en;altLabel;zthes_UF
+121_94;FIXATION DES PRIX;Prix psychologique;fr;altLabel;site_employe_pour
+121_94;FIXATION DES PRIX;Revenue management;fr;altLabel;site_employe_pour
+121_94;FIXATION DES PRIX;Yield management;fr;altLabel;site_employe_pour
+121_94;FIXATION DES PRIX;Revenue management;en;altLabel;zthes_UF
+121_94;FIXATION DES PRIX;Yield management;en;altLabel;zthes_UF
+121_94;FIXATION DES PRIX;Psychological price;en;altLabel;zthes_UF
+121_95;PRIX DE DETAIL;Prix d'achat;fr;altLabel;site_employe_pour
+121_95;PRIX DE DETAIL;Purchase price;en;altLabel;zthes_UF
+122_14;CONSOMMATEUR INDUSTRIEL;Compte clé;fr;altLabel;site_employe_pour
+122_14;CONSOMMATEUR INDUSTRIEL;Grand compte;fr;altLabel;site_employe_pour
+122_14;CONSOMMATEUR INDUSTRIEL;Key account;en;altLabel;zthes_UF
+122_14;CONSOMMATEUR INDUSTRIEL;Large account;en;altLabel;zthes_UF
+122_28;PANEL;Sondage permanent;fr;altLabel;site_employe_pour
+122_28;PANEL;Sample group;en;altLabel;zthes_UF
+122_50;CONSUMERISME;Association de consommateurs;fr;altLabel;site_employe_pour
+122_50;CONSUMERISME;Défense des consommateurs;fr;altLabel;site_employe_pour
+122_50;CONSUMERISME;Consumer association;en;altLabel;zthes_UF
+122_50;CONSUMERISME;Consumer protection;en;altLabel;zthes_UF
+122_59;SEGMENTATION;Choix de la clientèle;fr;altLabel;site_employe_pour
+122_59;SEGMENTATION;Niche;fr;altLabel;site_employe_pour
+122_59;SEGMENTATION;Market niche;en;altLabel;zthes_UF
+122_59;SEGMENTATION;Customer choice;en;altLabel;zthes_UF
+122_70;INFORMATION DU CONSOMMATEUR;Aide au consommateur;fr;altLabel;site_employe_pour
+122_70;INFORMATION DU CONSOMMATEUR;Consumer assistance;en;altLabel;zthes_UF
+122_75;AGENCE D'ETUDE DE MARCHE;Cabinet d'étude de marché;fr;altLabel;site_employe_pour
+122_75;AGENCE D'ETUDE DE MARCHE;Market research office;en;altLabel;zthes_UF
+122_77;MARCHE;Marché de l'offre;fr;altLabel;site_employe_pour
+122_77;MARCHE;Marché potentiel;fr;altLabel;site_employe_pour
+122_77;MARCHE;Marché réel;fr;altLabel;site_employe_pour
+122_77;MARCHE;Seller's market;en;altLabel;zthes_UF
+122_77;MARCHE;Potential market;en;altLabel;zthes_UF
+122_77;MARCHE;Real market;en;altLabel;zthes_UF
+122_94;COMPORTEMENT DU CONSOMMATEUR;Avis consommateur;fr;altLabel;site_employe_pour
+122_94;COMPORTEMENT DU CONSOMMATEUR;Comportement d'achat;fr;altLabel;site_employe_pour
+122_94;COMPORTEMENT DU CONSOMMATEUR;Habitude de consommation;fr;altLabel;site_employe_pour
+122_94;COMPORTEMENT DU CONSOMMATEUR;Customer review;en;altLabel;zthes_UF
+122_94;COMPORTEMENT DU CONSOMMATEUR;Purchase behavior;en;altLabel;zthes_UF
+122_94;COMPORTEMENT DU CONSOMMATEUR;Consumer habits;en;altLabel;zthes_UF
+123_01;CENTRALE D'ACHAT;Groupement d'achat;fr;altLabel;site_employe_pour
+123_01;CENTRALE D'ACHAT;Centralized purchasing;en;altLabel;zthes_UF
+123_16;COMMERCE TRADITIONNEL;Commerce indépendant;fr;altLabel;site_employe_pour
+123_16;COMMERCE TRADITIONNEL;Independent trade;en;altLabel;zthes_UF
+123_31;COMMERCE DE GROS;Grossiste;fr;altLabel;site_employe_pour
+123_31;COMMERCE DE GROS;Halles;fr;altLabel;site_employe_pour
+123_31;COMMERCE DE GROS;Wholesaler;en;altLabel;zthes_UF
+123_31;COMMERCE DE GROS;Covered market;en;altLabel;zthes_UF
+123_33;COMMERCE DE DETAIL;Commerce ambulant;fr;altLabel;site_employe_pour
+123_33;COMMERCE DE DETAIL;Détaillant;fr;altLabel;site_employe_pour
+123_33;COMMERCE DE DETAIL;Vente au détail;fr;altLabel;site_employe_pour
+123_33;COMMERCE DE DETAIL;Travelling sales;en;altLabel;zthes_UF
+123_33;COMMERCE DE DETAIL;Retailer;en;altLabel;zthes_UF
+123_33;COMMERCE DE DETAIL;Retailing;en;altLabel;zthes_UF
+123_42;CANAL DE DISTRIBUTION;Canal industriel;fr;altLabel;site_employe_pour
+123_42;CANAL DE DISTRIBUTION;Canal pour bien de consommation;fr;altLabel;site_employe_pour
+123_42;CANAL DE DISTRIBUTION;Circuit de distribution court;fr;altLabel;site_employe_pour
+123_42;CANAL DE DISTRIBUTION;Short distribution channel;en;altLabel;zthes_UF
+123_42;CANAL DE DISTRIBUTION;Industrial channel;en;altLabel;zthes_UF
+123_42;CANAL DE DISTRIBUTION;Consumer goods channel;en;altLabel;zthes_UF
+123_50;DISTRIBUTION PHYSIQUE;Distribution totale;fr;altLabel;site_employe_pour
+123_50;DISTRIBUTION PHYSIQUE;Total distribution;en;altLabel;zthes_UF
+123_55;DISTRIBUTION;Commerce;fr;altLabel;site_employe_pour
+123_55;DISTRIBUTION;Référencement;fr;altLabel;site_employe_pour
+123_55;DISTRIBUTION;Trade;en;altLabel;zthes_UF
+123_55;DISTRIBUTION;Referencing;en;altLabel;zthes_UF
+123_57;ENTREPRISE DE DISTRIBUTION;Distributeur;fr;altLabel;site_employe_pour
+123_57;ENTREPRISE DE DISTRIBUTION;Gestion de l'entreprise de distribution;fr;altLabel;site_employe_pour
+123_57;ENTREPRISE DE DISTRIBUTION;Distributor;en;altLabel;zthes_UF
+123_57;ENTREPRISE DE DISTRIBUTION;Distribution company management;en;altLabel;zthes_UF
+123_59;DISCOMPTEUR;Hard-discount;fr;altLabel;site_employe_pour
+123_59;DISCOMPTEUR;Magasin de dégriffés;fr;altLabel;site_employe_pour
+123_59;DISCOMPTEUR;Hard-discount;en;altLabel;zthes_UF
+123_59;DISCOMPTEUR;Designer seconds store;en;altLabel;zthes_UF
+123_62;POINT DE VENTE;Eclairage de magasin;fr;altLabel;site_employe_pour
+123_62;POINT DE VENTE;Protection de magasin;fr;altLabel;site_employe_pour
+123_62;POINT DE VENTE;Sonorisation de magasin;fr;altLabel;site_employe_pour
+123_62;POINT DE VENTE;Store lighting;en;altLabel;zthes_UF
+123_62;POINT DE VENTE;Store protection;en;altLabel;zthes_UF
+123_62;POINT DE VENTE;Store sound system;en;altLabel;zthes_UF
+123_74;MOBILIER DE MAGASIN;Comptoir;fr;altLabel;site_employe_pour
+123_74;MOBILIER DE MAGASIN;Gondole;fr;altLabel;site_employe_pour
+123_74;MOBILIER DE MAGASIN;Présentoir;fr;altLabel;site_employe_pour
+123_74;MOBILIER DE MAGASIN;Counter;en;altLabel;zthes_UF
+123_74;MOBILIER DE MAGASIN;Shelf;en;altLabel;zthes_UF
+123_74;MOBILIER DE MAGASIN;Display unit;en;altLabel;zthes_UF
+123_80;PLV;Publicite sur le lieu de vente;fr;altLabel;site_employe_pour
+123_80;PLV;Vitrine;fr;altLabel;site_employe_pour
+123_80;PLV;Point of sale advertising;en;altLabel;zthes_UF
+123_80;PLV;Store window;en;altLabel;zthes_UF
+123_81;MERCHANDISING;Agencement de rayon;fr;altLabel;site_employe_pour
+123_81;MERCHANDISING;Etalage;fr;altLabel;site_employe_pour
+123_81;MERCHANDISING;Mise en rayon;fr;altLabel;site_employe_pour
+123_81;MERCHANDISING;Aisle arrangement;en;altLabel;zthes_UF
+123_81;MERCHANDISING;Display;en;altLabel;zthes_UF
+123_81;MERCHANDISING;Shelf filling;en;altLabel;zthes_UF
+123_84;IMPLANTATION DE MAGASIN;Création de magasin;fr;altLabel;site_employe_pour
+123_84;IMPLANTATION DE MAGASIN;Localisation de magasin;fr;altLabel;site_employe_pour
+123_84;IMPLANTATION DE MAGASIN;Zone d'achalandage;fr;altLabel;site_employe_pour
+123_84;IMPLANTATION DE MAGASIN;Store creation;en;altLabel;zthes_UF
+123_84;IMPLANTATION DE MAGASIN;Store localization;en;altLabel;zthes_UF
+123_84;IMPLANTATION DE MAGASIN;Trading area;en;altLabel;zthes_UF
+123_86;CENTRE COMMERCIAL;Centre commercial régional;fr;altLabel;site_employe_pour
+123_86;CENTRE COMMERCIAL;Galerie commerciale;fr;altLabel;site_employe_pour
+123_86;CENTRE COMMERCIAL;Shopping arcade;en;altLabel;zthes_UF
+123_86;CENTRE COMMERCIAL;Regional shopping center;en;altLabel;zthes_UF
+123_90;ETIQUETAGE;Etiquette;fr;altLabel;site_employe_pour
+123_90;ETIQUETAGE;Price tag;en;altLabel;zthes_UF
+124_02;ENCHERE;Vente aux enchères;fr;altLabel;site_employe_pour
+124_02;ENCHERE;Auction sale;en;altLabel;zthes_UF
+124_11;VENTE PROMOTIONNELLE;Vente en solde;fr;altLabel;site_employe_pour
+124_11;VENTE PROMOTIONNELLE;Vente à perte;fr;altLabel;site_employe_pour
+124_11;VENTE PROMOTIONNELLE;Sale at a loss;en;altLabel;zthes_UF
+124_11;VENTE PROMOTIONNELLE;Clearance sale;en;altLabel;zthes_UF
+124_24;EXPORTATION;Incoterm;fr;altLabel;site_employe_pour
+124_24;EXPORTATION;Incoterm;en;altLabel;zthes_UF
+124_31;VENTE AUTOMATIQUE;Distributeur automatique;fr;altLabel;site_employe_pour
+124_31;VENTE AUTOMATIQUE;Vending machine;en;altLabel;zthes_UF
+124_34;COMPENSATION;Troc;fr;altLabel;site_employe_pour
+124_34;COMPENSATION;Barter;en;altLabel;zthes_UF
+124_37;SERVICE CLIENT;Aide au distributeur;fr;altLabel;site_employe_pour
+124_37;SERVICE CLIENT;Réclamation;fr;altLabel;site_employe_pour
+124_37;SERVICE CLIENT;Complaint;en;altLabel;zthes_UF
+124_37;SERVICE CLIENT;Distributor assistance;en;altLabel;zthes_UF
+124_40;VENTE GROUPEE;Vente couplée;fr;altLabel;site_employe_pour
+124_40;VENTE GROUPEE;Tie-in-sale;en;altLabel;zthes_UF
+124_46;VENTE ILLICITE;Vente illégale;fr;altLabel;site_employe_pour
+124_46;VENTE ILLICITE;Vente parallèle;fr;altLabel;site_employe_pour
+124_46;VENTE ILLICITE;Illegal sale;en;altLabel;zthes_UF
+124_46;VENTE ILLICITE;Parallel sale;en;altLabel;zthes_UF
+124_51;VENTE DIRECTE;Magasin d'usine;fr;altLabel;site_employe_pour
+124_51;VENTE DIRECTE;Factory store;en;altLabel;zthes_UF
+124_53;TECHNIQUE DE VENTE;Prospection commerciale;fr;altLabel;site_employe_pour
+124_53;TECHNIQUE DE VENTE;Vente d'occasion;fr;altLabel;site_employe_pour
+124_53;TECHNIQUE DE VENTE;Vente sur entrepôt;fr;altLabel;site_employe_pour
+124_53;TECHNIQUE DE VENTE;Commercial prospecting;en;altLabel;zthes_UF
+124_53;TECHNIQUE DE VENTE;Warehouse sale;en;altLabel;zthes_UF
+124_55;VENTE;Vente locale;fr;altLabel;site_employe_pour
+124_55;VENTE;Local sale;en;altLabel;zthes_UF
+124_57;DIRECTION DES VENTES;Inspection des ventes;fr;altLabel;site_employe_pour
+124_57;DIRECTION DES VENTES;Stimulation du réseau;fr;altLabel;site_employe_pour
+124_57;DIRECTION DES VENTES;Sales inspection;en;altLabel;zthes_UF
+124_57;DIRECTION DES VENTES;Network stimulation;en;altLabel;zthes_UF
+124_62;MARKETING DIRECT;Marketing interactif;fr;altLabel;site_employe_pour
+124_62;MARKETING DIRECT;Marketing one to one;fr;altLabel;site_employe_pour
+124_62;MARKETING DIRECT;Marketing relationnel;fr;altLabel;site_employe_pour
+124_62;MARKETING DIRECT;Relationship marketing;en;altLabel;zthes_UF
+124_62;MARKETING DIRECT;One to one marketing;en;altLabel;zthes_UF
+124_62;MARKETING DIRECT;Interactive marketing;en;altLabel;zthes_UF
+124_67;CONDITION DE VENTE;Bon de réduction;fr;altLabel;site_employe_pour
+124_67;CONDITION DE VENTE;Ristourne;fr;altLabel;site_employe_pour
+124_67;CONDITION DE VENTE;Vente à prime;fr;altLabel;site_employe_pour
+124_67;CONDITION DE VENTE;Coupon;en;altLabel;zthes_UF
+124_67;CONDITION DE VENTE;Rebate;en;altLabel;zthes_UF
+124_67;CONDITION DE VENTE;Sale with premium;en;altLabel;zthes_UF
+124_71;VENTE A DISTANCE;Téléachat;fr;altLabel;site_employe_pour
+124_71;VENTE A DISTANCE;VPC;fr;altLabel;site_employe_pour
+124_71;VENTE A DISTANCE;Vente par correspondance;fr;altLabel;site_employe_pour
+124_71;VENTE A DISTANCE;Teleshopping;en;altLabel;zthes_UF
+124_71;VENTE A DISTANCE;Mail order selling;en;altLabel;zthes_UF
+124_71;VENTE A DISTANCE;Direct mail sales;en;altLabel;zthes_UF
+124_77;PRIX DE VENTE;Prix du marché;fr;altLabel;site_employe_pour
+124_77;PRIX DE VENTE;Tarif;fr;altLabel;site_employe_pour
+124_77;PRIX DE VENTE;Market price;en;altLabel;zthes_UF
+124_77;PRIX DE VENTE;Tariff;en;altLabel;zthes_UF
+124_79;VENTE A CREDIT;Crédit scoring;fr;altLabel;site_employe_pour
+124_79;VENTE A CREDIT;Vente à tempérament;fr;altLabel;site_employe_pour
+124_79;VENTE A CREDIT;Credit scoring;en;altLabel;zthes_UF
+124_79;VENTE A CREDIT;Installment plan (Hire-purchase);en;altLabel;zthes_UF
+124_82;COMMERCE ELECTRONIQUE;Achat en ligne;fr;altLabel;site_employe_pour
+124_82;COMMERCE ELECTRONIQUE;E-commerce;fr;altLabel;site_employe_pour
+124_82;COMMERCE ELECTRONIQUE;M-commerce;fr;altLabel;site_employe_pour
+124_82;COMMERCE ELECTRONIQUE;Pure player;fr;altLabel;site_employe_pour
+124_82;COMMERCE ELECTRONIQUE;Pure player;en;altLabel;zthes_UF
+124_82;COMMERCE ELECTRONIQUE;Online purchase;en;altLabel;zthes_UF
+124_82;COMMERCE ELECTRONIQUE;E-commerce;en;altLabel;zthes_UF
+124_82;COMMERCE ELECTRONIQUE;M-commerce;en;altLabel;zthes_UF
+124_85;AGENT COMMERCIAL;Agent exclusif;fr;altLabel;site_employe_pour
+124_85;AGENT COMMERCIAL;Commissionnaire;fr;altLabel;site_employe_pour
+124_85;AGENT COMMERCIAL;Représentant;fr;altLabel;site_employe_pour
+124_85;AGENT COMMERCIAL;VRP;fr;altLabel;site_employe_pour
+124_85;AGENT COMMERCIAL;Sole agent;en;altLabel;zthes_UF
+124_85;AGENT COMMERCIAL;Sales representative;en;altLabel;zthes_UF
+124_85;AGENT COMMERCIAL;Travelling salesperson;en;altLabel;zthes_UF
+124_85;AGENT COMMERCIAL;Representative;en;altLabel;zthes_UF
+124_94;QUOTA DE VENTE;Objectif de vente;fr;altLabel;site_employe_pour
+124_94;QUOTA DE VENTE;Sales target;en;altLabel;zthes_UF
+125_04;SALON;Exposition;fr;altLabel;site_employe_pour
+125_04;SALON;Foire;fr;altLabel;site_employe_pour
+125_04;SALON;Exhibition;en;altLabel;zthes_UF
+125_04;SALON;Fair;en;altLabel;zthes_UF
+125_20;PUBLICITE COOPERATIVE;Publicité collective;fr;altLabel;site_employe_pour
+125_20;PUBLICITE COOPERATIVE;Collective advertising;en;altLabel;zthes_UF
+125_34;PROMOTION DES VENTES;Cadeau publicitaire;fr;altLabel;site_employe_pour
+125_34;PROMOTION DES VENTES;Concours publicitaire;fr;altLabel;site_employe_pour
+125_34;PROMOTION DES VENTES;Démonstration;fr;altLabel;site_employe_pour
+125_34;PROMOTION DES VENTES;Jeu publicitaire;fr;altLabel;site_employe_pour
+125_34;PROMOTION DES VENTES;Free gift;en;altLabel;zthes_UF
+125_34;PROMOTION DES VENTES;Advertising contest;en;altLabel;zthes_UF
+125_34;PROMOTION DES VENTES;Demonstration;en;altLabel;zthes_UF
+125_34;PROMOTION DES VENTES;Promotional game;en;altLabel;zthes_UF
+125_39;PUBLICITE EXTERIEURE;Publicité lumineuse;fr;altLabel;site_employe_pour
+125_39;PUBLICITE EXTERIEURE;Publicité sur véhicule;fr;altLabel;site_employe_pour
+125_39;PUBLICITE EXTERIEURE;Neon sign;en;altLabel;zthes_UF
+125_39;PUBLICITE EXTERIEURE;Advertisements on vehicles;en;altLabel;zthes_UF
+125_40;PUBLICITE DIRECTE;Mailing;fr;altLabel;site_employe_pour
+125_40;PUBLICITE DIRECTE;Publipostage;fr;altLabel;site_employe_pour
+125_40;PUBLICITE DIRECTE;Mailing;en;altLabel;zthes_UF
+125_40;PUBLICITE DIRECTE;Direct mail advertising;en;altLabel;zthes_UF
+125_45;BUDGET PUBLICITAIRE;Dépense publicitaire;fr;altLabel;site_employe_pour
+125_45;BUDGET PUBLICITAIRE;Advertising expenditure;en;altLabel;zthes_UF
+125_46;PLAN MEDIA;Media planning;fr;altLabel;site_employe_pour
+125_46;PLAN MEDIA;Media schedule;en;altLabel;zthes_UF
+125_55;PUBLICITE;Publicité internationale;fr;altLabel;site_employe_pour
+125_55;PUBLICITE;Publicité nationale;fr;altLabel;site_employe_pour
+125_55;PUBLICITE;Publicité régionale;fr;altLabel;site_employe_pour
+125_55;PUBLICITE;International advertising;en;altLabel;zthes_UF
+125_55;PUBLICITE;National advertising;en;altLabel;zthes_UF
+125_55;PUBLICITE;Regional advertising;en;altLabel;zthes_UF
+125_63;SPONSORING;Parrainage;fr;altLabel;site_employe_pour
+125_63;SPONSORING;Patronage;en;altLabel;zthes_UF
+125_68;EMBALLAGE;Consignation;fr;altLabel;site_employe_pour
+125_68;EMBALLAGE;Consignment;en;altLabel;zthes_UF
+125_70;CAMPAGNE PUBLICITAIRE;Campagne pilote;fr;altLabel;site_employe_pour
+125_70;CAMPAGNE PUBLICITAIRE;Pilot campaign;en;altLabel;zthes_UF
+125_72;CREATION PUBLICITAIRE;Conception publicitaire;fr;altLabel;site_employe_pour
+125_72;CREATION PUBLICITAIRE;Dessin publicitaire;fr;altLabel;site_employe_pour
+125_72;CREATION PUBLICITAIRE;Fabrication publicitaire;fr;altLabel;site_employe_pour
+125_72;CREATION PUBLICITAIRE;Advertising conception;en;altLabel;zthes_UF
+125_72;CREATION PUBLICITAIRE;Advertisement design;en;altLabel;zthes_UF
+125_72;CREATION PUBLICITAIRE;Advertising production;en;altLabel;zthes_UF
+125_83;AGENCE DE PUBLICITE;Relations client agence;fr;altLabel;site_employe_pour
+125_83;AGENCE DE PUBLICITE;Rémunération de l'agence de publicité;fr;altLabel;site_employe_pour
+125_83;AGENCE DE PUBLICITE;Client agency relations;en;altLabel;zthes_UF
+125_83;AGENCE DE PUBLICITE;Remuneration of the advertisement agency;en;altLabel;zthes_UF
+125_91;PUBLICITE MENSONGERE;Ecoblanchiment;fr;altLabel;site_employe_pour
+125_91;PUBLICITE MENSONGERE;Greenwashing;en;altLabel;zthes_UF
+125_92;MESSAGE PUBLICITAIRE;Copie publicitaire;fr;altLabel;site_employe_pour
+125_92;MESSAGE PUBLICITAIRE;Couleur en publicité;fr;altLabel;site_employe_pour
+125_92;MESSAGE PUBLICITAIRE;Graphique publicitaire;fr;altLabel;site_employe_pour
+125_92;MESSAGE PUBLICITAIRE;Rédaction publicitaire;fr;altLabel;site_employe_pour
+125_92;MESSAGE PUBLICITAIRE;Thème publicitaire;fr;altLabel;site_employe_pour
+125_92;MESSAGE PUBLICITAIRE;Copy advertising;en;altLabel;zthes_UF
+125_92;MESSAGE PUBLICITAIRE;Color in advertising;en;altLabel;zthes_UF
+125_92;MESSAGE PUBLICITAIRE;Advertising graphics;en;altLabel;zthes_UF
+125_92;MESSAGE PUBLICITAIRE;Advertising drafting;en;altLabel;zthes_UF
+125_92;MESSAGE PUBLICITAIRE;Advertising topic;en;altLabel;zthes_UF
+125_93;ANNONCE;Annonceur;fr;altLabel;site_employe_pour
+125_93;ANNONCE;Advertiser;en;altLabel;zthes_UF
+131_14;GESTION DE TRESORERIE;Prévision de trésorerie;fr;altLabel;site_employe_pour
+131_14;GESTION DE TRESORERIE;Recouvrement;fr;altLabel;site_employe_pour
+131_14;GESTION DE TRESORERIE;Cash flow forecast;en;altLabel;zthes_UF
+131_14;GESTION DE TRESORERIE;Recovery;en;altLabel;zthes_UF
+131_36;PLACEMENT;Core satellite;fr;altLabel;site_employe_pour
+131_36;PLACEMENT;Core satellite;en;altLabel;zthes_UF
+131_39;RENTABILITE;Rate of return;fr;altLabel;site_employe_pour
+131_39;RENTABILITE;Rate of return;en;altLabel;zthes_UF
+131_40;EFFET DE COMMERCE;Effet à recevoir;fr;altLabel;site_employe_pour
+131_40;EFFET DE COMMERCE;Impayé;fr;altLabel;site_employe_pour
+131_40;EFFET DE COMMERCE;Traite;fr;altLabel;site_employe_pour
+131_40;EFFET DE COMMERCE;Bills receivable;en;altLabel;zthes_UF
+131_40;EFFET DE COMMERCE;Unpaid;en;altLabel;zthes_UF
+131_40;EFFET DE COMMERCE;Draft;en;altLabel;zthes_UF
+131_42;CREDIT A COURT TERME;Crédit inter entreprises;fr;altLabel;site_employe_pour
+131_42;CREDIT A COURT TERME;Credit between firms;en;altLabel;zthes_UF
+131_55;FINANCE D'ENTREPRISE;Direction financière;fr;altLabel;site_employe_pour
+131_55;FINANCE D'ENTREPRISE;Gestion financière;fr;altLabel;site_employe_pour
+131_55;FINANCE D'ENTREPRISE;Financial management;en;altLabel;zthes_UF
+131_55;FINANCE D'ENTREPRISE;Chief Financial Officer;en;altLabel;zthes_UF
+131_56;RISQUE FINANCIER;Valeur à risque;fr;altLabel;site_employe_pour
+131_56;RISQUE FINANCIER;Value at risk;en;altLabel;zthes_UF
+131_60;MICROFINANCE;Microcrédit;fr;altLabel;site_employe_pour
+131_60;MICROFINANCE;Microcredit;en;altLabel;zthes_UF
+131_65;FINANCEMENT;Crédit;fr;altLabel;site_employe_pour
+131_65;FINANCEMENT;Crédit d'acceptation;fr;altLabel;site_employe_pour
+131_65;FINANCEMENT;Source de financement;fr;altLabel;site_employe_pour
+131_65;FINANCEMENT;Credit;en;altLabel;zthes_UF
+131_65;FINANCEMENT;Acceptance credit;en;altLabel;zthes_UF
+131_65;FINANCEMENT;Source of financing;en;altLabel;zthes_UF
+131_68;INVESTISSEMENT SOCIALEMENT RESPONSABLE;ISR;fr;altLabel;site_employe_pour
+131_68;INVESTISSEMENT SOCIALEMENT RESPONSABLE;SRI;en;altLabel;zthes_UF
+131_72;SYSTEME BANCAIRE PARALLELE;Banque de l'ombre;fr;altLabel;site_employe_pour
+131_72;SYSTEME BANCAIRE PARALLELE;Shadow banking;en;altLabel;zthes_UF
+131_75;PLAN DE FINANCEMENT;Tableau de financement;fr;altLabel;site_employe_pour
+131_75;PLAN DE FINANCEMENT;Statement of source and application of funds;en;altLabel;zthes_UF
+131_78;CRITERE D'INVESTISSEMENT;Capital budgeting;fr;altLabel;site_employe_pour
+131_78;CRITERE D'INVESTISSEMENT;Méthode MAPI;fr;altLabel;site_employe_pour
+131_78;CRITERE D'INVESTISSEMENT;Capital budgeting;en;altLabel;zthes_UF
+131_78;CRITERE D'INVESTISSEMENT;MAPI method;en;altLabel;zthes_UF
+131_88;VALEUR ACTUALISEE;Actualisation des valeurs;fr;altLabel;site_employe_pour
+131_88;VALEUR ACTUALISEE;Value updating;en;altLabel;zthes_UF
+131_89;ROI;Rentabilité d'un investissement;fr;altLabel;site_employe_pour
+131_89;ROI;Retour sur investissement;fr;altLabel;site_employe_pour
+131_89;ROI;Return on investment;en;altLabel;zthes_UF
+131_89;ROI;Profitability of an investment;en;altLabel;zthes_UF
+131_90;HYPOTHEQUE;Crédit hypothécaire;fr;altLabel;site_employe_pour
+131_90;HYPOTHEQUE;Mortgage loan;en;altLabel;zthes_UF
+132_00;EVALUATION D'UNE ENTREPRISE;Comparaison inter-entreprises;fr;altLabel;site_employe_pour
+132_00;EVALUATION D'UNE ENTREPRISE;Juste valeur;fr;altLabel;site_employe_pour
+132_00;EVALUATION D'UNE ENTREPRISE;Notation de l'entreprise;fr;altLabel;site_employe_pour
+132_00;EVALUATION D'UNE ENTREPRISE;Rating;fr;altLabel;site_employe_pour
+132_00;EVALUATION D'UNE ENTREPRISE;Valeur d'une entreprise;fr;altLabel;site_employe_pour
+132_00;EVALUATION D'UNE ENTREPRISE;Comparison between firms;en;altLabel;zthes_UF
+132_00;EVALUATION D'UNE ENTREPRISE;Corporate rating;en;altLabel;zthes_UF
+132_00;EVALUATION D'UNE ENTREPRISE;Rating;en;altLabel;zthes_UF
+132_00;EVALUATION D'UNE ENTREPRISE;Value of a company;en;altLabel;zthes_UF
+132_00;EVALUATION D'UNE ENTREPRISE;Fair value;en;altLabel;zthes_UF
+132_07;MARGE COMPTABLE;Marge commerciale;fr;altLabel;site_employe_pour
+132_07;MARGE COMPTABLE;Profit margin;en;altLabel;zthes_UF
+132_10;PER;Price earning ratio;fr;altLabel;site_employe_pour
+132_10;PER;Price earning ratio;en;altLabel;zthes_UF
+132_11;CAPITALISATION BOURSIERE;Valorisation boursière;fr;altLabel;site_employe_pour
+132_11;CAPITALISATION BOURSIERE;Stock value;en;altLabel;zthes_UF
+132_13;RESULTAT DE L'EXERCICE;Résultat comptable;fr;altLabel;site_employe_pour
+132_13;RESULTAT DE L'EXERCICE;Accounting income;en;altLabel;zthes_UF
+132_15;CASH FLOW;Trésorerie disponible;fr;altLabel;site_employe_pour
+132_15;CASH FLOW;Cash in hand;en;altLabel;zthes_UF
+132_21;DCF;Discounted cash flow;fr;altLabel;site_employe_pour
+132_21;DCF;Discounted cash flow;en;altLabel;zthes_UF
+132_25;SOLDES INTERMEDIAIRES DE GESTION;Résultat d'exploitation;fr;altLabel;site_employe_pour
+132_25;SOLDES INTERMEDIAIRES DE GESTION;Operating income;en;altLabel;zthes_UF
+132_44;INFORMATION FINANCIERE;Rapport annuel;fr;altLabel;site_employe_pour
+132_44;INFORMATION FINANCIERE;Rapport de gestion;fr;altLabel;site_employe_pour
+132_44;INFORMATION FINANCIERE;Rapport financier;fr;altLabel;site_employe_pour
+132_44;INFORMATION FINANCIERE;Financial report;en;altLabel;zthes_UF
+132_44;INFORMATION FINANCIERE;Business report;en;altLabel;zthes_UF
+132_44;INFORMATION FINANCIERE;Annual report;en;altLabel;zthes_UF
+132_50;RATIO DE LIQUIDITE;Taux de liquidité;fr;altLabel;site_employe_pour
+132_50;RATIO DE LIQUIDITE;Liquidity ratio;en;altLabel;zthes_UF
+132_55;COMPTABILITE;Comptabilité en partie double;fr;altLabel;site_employe_pour
+132_55;COMPTABILITE;Comptabilité générale;fr;altLabel;site_employe_pour
+132_55;COMPTABILITE;Double entry bookkeeping;en;altLabel;zthes_UF
+132_55;COMPTABILITE;Financial accounting;en;altLabel;zthes_UF
+132_63;COMPTABILITE ENVIRONNEMENTALE;Comptabilité verte;fr;altLabel;site_employe_pour
+132_63;COMPTABILITE ENVIRONNEMENTALE;Green accounting;en;altLabel;zthes_UF
+132_69;EXPERTISE COMPTABLE;Centre de gestion agréé;fr;altLabel;site_employe_pour
+132_69;EXPERTISE COMPTABLE;Certified public accountants firm;en;altLabel;zthes_UF
+132_75;BILAN;Compte financier;fr;altLabel;site_employe_pour
+132_75;BILAN;Financial account;en;altLabel;zthes_UF
+132_83;IMMOBILISATION;Compte de valeurs immobilisées;fr;altLabel;site_employe_pour
+132_83;IMMOBILISATION;Fixed assets account;en;altLabel;zthes_UF
+132_87;PASSIF;Compte de capitaux permanents;fr;altLabel;site_employe_pour
+132_87;PASSIF;Long term capital account;en;altLabel;zthes_UF
+132_91;CREANCE;Condition de paiement;fr;altLabel;site_employe_pour
+132_91;CREANCE;Term of payment;en;altLabel;zthes_UF
+132_92;DISPONIBILITES;Réalisable et disponible;fr;altLabel;site_employe_pour
+132_92;DISPONIBILITES;Realizable and available;en;altLabel;zthes_UF
+132_99;CAPITAUX PROPRES;Capital actions;fr;altLabel;site_employe_pour
+132_99;CAPITAUX PROPRES;Shareholders' capital;en;altLabel;zthes_UF
+133_04;FRAIS GENERAUX;Charges de structures;fr;altLabel;site_employe_pour
+133_04;FRAIS GENERAUX;Administration expenses;en;altLabel;zthes_UF
+133_08;SEUIL DE RENTABILITE;Point mort;fr;altLabel;site_employe_pour
+133_08;SEUIL DE RENTABILITE;Break even point;en;altLabel;zthes_UF
+133_22;BUDGET;BBZ;fr;altLabel;site_employe_pour
+133_22;BUDGET;Budget Base Zéro;fr;altLabel;site_employe_pour
+133_22;BUDGET;Engagement budgétaire;fr;altLabel;site_employe_pour
+133_22;BUDGET;Liquidation budgétaire;fr;altLabel;site_employe_pour
+133_22;BUDGET;ZBB;en;altLabel;zthes_UF
+133_22;BUDGET;Zero base budgeting;en;altLabel;zthes_UF
+133_22;BUDGET;Budget commitment;en;altLabel;zthes_UF
+133_22;BUDGET;Budgetary liquidation;en;altLabel;zthes_UF
+133_24;CHARGES FIXES;Frais fixes;fr;altLabel;site_employe_pour
+133_24;CHARGES FIXES;Standing expenses;en;altLabel;zthes_UF
+133_25;CHARGES INDIRECTES;Frais indirects;fr;altLabel;site_employe_pour
+133_25;CHARGES INDIRECTES;Indirect expenses;en;altLabel;zthes_UF
+133_33;CHARGES VARIABLES;Frais variables;fr;altLabel;site_employe_pour
+133_33;CHARGES VARIABLES;Variable expenses;en;altLabel;zthes_UF
+133_34;CHARGES DIRECTES;Frais directs;fr;altLabel;site_employe_pour
+133_34;CHARGES DIRECTES;Direct expenses;en;altLabel;zthes_UF
+133_36;COUT DE REVIENT;Prix de revient;fr;altLabel;site_employe_pour
+133_36;COUT DE REVIENT;Cost price;en;altLabel;zthes_UF
+133_39;COUT MARGINAL;Comptabilité marginale;fr;altLabel;site_employe_pour
+133_39;COUT MARGINAL;Marginal accounting;en;altLabel;zthes_UF
+133_40;RCB;Rationalisation des choix budgétaires;fr;altLabel;site_employe_pour
+133_40;RCB;Rationalization of budgetary choices;en;altLabel;zthes_UF
+133_42;CONTROLE BUDGETAIRE;Gestion budgétaire;fr;altLabel;site_employe_pour
+133_42;CONTROLE BUDGETAIRE;Prévision budgétaire;fr;altLabel;site_employe_pour
+133_42;CONTROLE BUDGETAIRE;Budgetary management;en;altLabel;zthes_UF
+133_42;CONTROLE BUDGETAIRE;Budget forecast;en;altLabel;zthes_UF
+133_57;COMPTABILITE DE GESTION;Activity Based Costing;fr;altLabel;site_employe_pour
+133_57;COMPTABILITE DE GESTION;Activity Based Management;fr;altLabel;site_employe_pour
+133_57;COMPTABILITE DE GESTION;Comptabilité analytique;fr;altLabel;site_employe_pour
+133_57;COMPTABILITE DE GESTION;Economie d'échelle;fr;altLabel;site_employe_pour
+133_57;COMPTABILITE DE GESTION;Méthode ABC;fr;altLabel;site_employe_pour
+133_57;COMPTABILITE DE GESTION;Méthode ABM;fr;altLabel;site_employe_pour
+133_57;COMPTABILITE DE GESTION;Economy of scale;en;altLabel;zthes_UF
+133_57;COMPTABILITE DE GESTION;ABC Method;en;altLabel;zthes_UF
+133_57;COMPTABILITE DE GESTION;ABM Method;en;altLabel;zthes_UF
+133_57;COMPTABILITE DE GESTION;Activity Based Costing;en;altLabel;zthes_UF
+133_57;COMPTABILITE DE GESTION;Activity Based Management;en;altLabel;zthes_UF
+133_57;COMPTABILITE DE GESTION;Cost accounting;en;altLabel;zthes_UF
+133_59;PRIX DE CESSION INTERNE;Prestation interne;fr;altLabel;site_employe_pour
+133_59;PRIX DE CESSION INTERNE;Prix de transfert;fr;altLabel;site_employe_pour
+133_59;PRIX DE CESSION INTERNE;Internal service;en;altLabel;zthes_UF
+133_59;PRIX DE CESSION INTERNE;Transfer price;en;altLabel;zthes_UF
+133_85;ANALYSE DES ECARTS;Ecart comptable;fr;altLabel;site_employe_pour
+133_85;ANALYSE DES ECARTS;Absolute difference;en;altLabel;zthes_UF
+133_87;CENTRE D'ANALYSE;Centre de coût;fr;altLabel;site_employe_pour
+133_87;CENTRE D'ANALYSE;Centre de frais;fr;altLabel;site_employe_pour
+133_87;CENTRE D'ANALYSE;Section comptable;fr;altLabel;site_employe_pour
+133_87;CENTRE D'ANALYSE;Cost center;en;altLabel;zthes_UF
+133_87;CENTRE D'ANALYSE;Expenses center;en;altLabel;zthes_UF
+133_87;CENTRE D'ANALYSE;Accounting department;en;altLabel;zthes_UF
+133_94;ANALYSE COUT BENEFICE;Analyse coût efficacité;fr;altLabel;site_employe_pour
+133_94;ANALYSE COUT BENEFICE;Cost effectiveness analysis;en;altLabel;zthes_UF
+134_02;OBLIGATION CONVERTIBLE;Conversion;fr;altLabel;site_employe_pour
+134_02;OBLIGATION CONVERTIBLE;Conversion;en;altLabel;zthes_UF
+134_03;OPTION;CAP;fr;altLabel;site_employe_pour
+134_03;OPTION;FLOOR;fr;altLabel;site_employe_pour
+134_03;OPTION;MONEP;fr;altLabel;site_employe_pour
+134_03;OPTION;CAP;en;altLabel;zthes_UF
+134_03;OPTION;FLOOR;en;altLabel;zthes_UF
+134_03;OPTION;MONEP;en;altLabel;zthes_UF
+134_04;MATIF;Marché à terme international de France;fr;altLabel;site_employe_pour
+134_04;MATIF;French international futures and options exchange;en;altLabel;zthes_UF
+134_06;MARCHE DERIVE;Instrument dérivé;fr;altLabel;site_employe_pour
+134_06;MARCHE DERIVE;Derivative instrument;en;altLabel;zthes_UF
+134_15;SOCIETE DE BOURSE;Agent de change;fr;altLabel;site_employe_pour
+134_15;SOCIETE DE BOURSE;Stockbroker;en;altLabel;zthes_UF
+134_16;MARCHE A TERME;Contrat à terme;fr;altLabel;site_employe_pour
+134_16;MARCHE A TERME;Opération à terme;fr;altLabel;site_employe_pour
+134_16;MARCHE A TERME;Forward transaction;en;altLabel;zthes_UF
+134_16;MARCHE A TERME;Transaction for forward delivery;en;altLabel;zthes_UF
+134_20;COTATION DES TITRES;Société cotée;fr;altLabel;site_employe_pour
+134_20;COTATION DES TITRES;Listed company;en;altLabel;zthes_UF
+134_25;TECHNIQUE BOURSIERE;Règlement mensuel;fr;altLabel;site_employe_pour
+134_25;TECHNIQUE BOURSIERE;Second marché;fr;altLabel;site_employe_pour
+134_25;TECHNIQUE BOURSIERE;Monthly payment;en;altLabel;zthes_UF
+134_25;TECHNIQUE BOURSIERE;Unlisted securities market;en;altLabel;zthes_UF
+134_27;PRISE DE PARTICIPATION;Prise de contrôle;fr;altLabel;site_employe_pour
+134_27;PRISE DE PARTICIPATION;Takeover;en;altLabel;zthes_UF
+134_30;INDICE BOURSIER;CAC;fr;altLabel;site_employe_pour
+134_30;INDICE BOURSIER;CAC;en;altLabel;zthes_UF
+134_34;SPECULATION;Trading;fr;altLabel;site_employe_pour
+134_34;SPECULATION;Trading;en;altLabel;zthes_UF
+134_35;BOURSE DES VALEURS;Opération de bourse;fr;altLabel;site_employe_pour
+134_35;BOURSE DES VALEURS;Stock exchange quotation;en;altLabel;zthes_UF
+134_36;OPE;Offre publique d'échange;fr;altLabel;site_employe_pour
+134_36;OPE;Public offer of exchange;en;altLabel;zthes_UF
+134_37;OPA;Offre publique d'achat;fr;altLabel;site_employe_pour
+134_37;OPA;Initial Public Offering;en;altLabel;zthes_UF
+134_58;RISQUE DE MARCHE;Volatilité du marché;fr;altLabel;site_employe_pour
+134_58;RISQUE DE MARCHE;Market volatility;en;altLabel;zthes_UF
+134_59;MODELE DEVALUATION DES ACTIFS FINANCIERS;MEDAF;fr;altLabel;site_employe_pour
+134_59;MODELE DEVALUATION DES ACTIFS FINANCIERS;CAPM;en;altLabel;zthes_UF
+134_63;SOCIETE D'INVESTISSEMENT;Société de crédit-bail;fr;altLabel;site_employe_pour
+134_63;SOCIETE D'INVESTISSEMENT;Leasing company;en;altLabel;zthes_UF
+134_72;OPCVM;Organisme de placement collectif en valeurs mobilières;fr;altLabel;site_employe_pour
+134_72;OPCVM;Undertakings for collective investment in transferable securities;en;altLabel;zthes_UF
+134_73;FONDS D'INVESTISSEMENT;Fonds alternatif;fr;altLabel;site_employe_pour
+134_73;FONDS D'INVESTISSEMENT;Fonds spéculatif;fr;altLabel;site_employe_pour
+134_73;FONDS D'INVESTISSEMENT;Fonds éthique;fr;altLabel;site_employe_pour
+134_73;FONDS D'INVESTISSEMENT;Alternative fund;en;altLabel;zthes_UF
+134_73;FONDS D'INVESTISSEMENT;Hedge fund;en;altLabel;zthes_UF
+134_73;FONDS D'INVESTISSEMENT;Ethical fund;en;altLabel;zthes_UF
+134_77;GESTION DE PORTEFEUILLE;Gestion d'actifs;fr;altLabel;site_employe_pour
+134_77;GESTION DE PORTEFEUILLE;Portefeuille;fr;altLabel;site_employe_pour
+134_77;GESTION DE PORTEFEUILLE;Assets management;en;altLabel;zthes_UF
+134_77;GESTION DE PORTEFEUILLE;Portfolio;en;altLabel;zthes_UF
+134_84;FONDS SOUVERAIN;Fonds d'Etat;fr;altLabel;site_employe_pour
+134_84;FONDS SOUVERAIN;Fonds d'investissement souverain;fr;altLabel;site_employe_pour
+134_84;FONDS SOUVERAIN;Government security;en;altLabel;zthes_UF
+134_84;FONDS SOUVERAIN;Sovereign wealth investment fund;en;altLabel;zthes_UF
+134_92;SICAV;Société d'investissement à capital variable;fr;altLabel;site_employe_pour
+134_92;SICAV;Open end investment company;en;altLabel;zthes_UF
+134_93;FONDS COMMUN DE PLACEMENT;FCP;fr;altLabel;site_employe_pour
+134_93;FONDS COMMUN DE PLACEMENT;Mutual investment fund;en;altLabel;zthes_UF
+141_16;ORGANISATION DU TRAVAIL;Equipe autonome;fr;altLabel;site_employe_pour
+141_16;ORGANISATION DU TRAVAIL;Méthode d'organisation;fr;altLabel;site_employe_pour
+141_16;ORGANISATION DU TRAVAIL;Organisation scientifique du travail;fr;altLabel;site_employe_pour
+141_16;ORGANISATION DU TRAVAIL;Taylorisme;fr;altLabel;site_employe_pour
+141_16;ORGANISATION DU TRAVAIL;Autonomous team;en;altLabel;zthes_UF
+141_16;ORGANISATION DU TRAVAIL;Organization method;en;altLabel;zthes_UF
+141_16;ORGANISATION DU TRAVAIL;Scientific organization of work;en;altLabel;zthes_UF
+141_16;ORGANISATION DU TRAVAIL;Taylorism;en;altLabel;zthes_UF
+141_22;ACHAT;Acheteur;fr;altLabel;site_employe_pour
+141_22;ACHAT;Approvisionnement;fr;altLabel;site_employe_pour
+141_22;ACHAT;Fonction achat;fr;altLabel;site_employe_pour
+141_22;ACHAT;Procurement;en;altLabel;zthes_UF
+141_22;ACHAT;Purchasing function;en;altLabel;zthes_UF
+141_22;ACHAT;Purchaser;en;altLabel;zthes_UF
+141_31;APPEL D'OFFRES;Adjudication;fr;altLabel;site_employe_pour
+141_31;APPEL D'OFFRES;Adjudication;en;altLabel;zthes_UF
+141_33;ORDONNANCEMENT;Diagramme de Gantt;fr;altLabel;site_employe_pour
+141_33;ORDONNANCEMENT;PERT;fr;altLabel;site_employe_pour
+141_33;ORDONNANCEMENT;Planning de la production;fr;altLabel;site_employe_pour
+141_33;ORDONNANCEMENT;Tableau d'ordonnancement;fr;altLabel;site_employe_pour
+141_33;ORDONNANCEMENT;Gantt diagram;en;altLabel;zthes_UF
+141_33;ORDONNANCEMENT;CPM;en;altLabel;zthes_UF
+141_33;ORDONNANCEMENT;Production scheduling;en;altLabel;zthes_UF
+141_33;ORDONNANCEMENT;Scheduling table;en;altLabel;zthes_UF
+141_34;CHAINE LOGISTIQUE;Logistique intégrée;fr;altLabel;site_employe_pour
+141_34;CHAINE LOGISTIQUE;Supply chain management;fr;altLabel;site_employe_pour
+141_34;CHAINE LOGISTIQUE;Integrated logistics;en;altLabel;zthes_UF
+141_34;CHAINE LOGISTIQUE;Supply chain management;en;altLabel;zthes_UF
+141_41;MANUTENTION;Palette;fr;altLabel;site_employe_pour
+141_41;MANUTENTION;Pallet;en;altLabel;zthes_UF
+141_55;GESTION DE LA PRODUCTION;Management des opérations;fr;altLabel;site_employe_pour
+141_55;GESTION DE LA PRODUCTION;Operations management;en;altLabel;zthes_UF
+141_57;EQUIPEMENT;Outil de production;fr;altLabel;site_employe_pour
+141_57;EQUIPEMENT;Production equipment;en;altLabel;zthes_UF
+141_59;USURE;Usure technique;fr;altLabel;site_employe_pour
+141_59;USURE;Technical wear;en;altLabel;zthes_UF
+141_61;CFAO;Conception et fabrication assistées par ordinateur;fr;altLabel;site_employe_pour
+141_61;CFAO;Computer aided design and manufacturing;en;altLabel;zthes_UF
+141_63;GPAO;Atelier flexible;fr;altLabel;site_employe_pour
+141_63;GPAO;Gestion de la production assistée par ordinateur;fr;altLabel;site_employe_pour
+141_63;GPAO;Flexible manufacturing system;en;altLabel;zthes_UF
+141_63;GPAO;Computer assisted production management;en;altLabel;zthes_UF
+141_76;ETUDE DE PRODUIT;Prototype;fr;altLabel;site_employe_pour
+141_76;ETUDE DE PRODUIT;Prototype;en;altLabel;zthes_UF
+141_86;CAO;Conception assistée par ordinateur;fr;altLabel;site_employe_pour
+141_86;CAO;DAO;fr;altLabel;site_employe_pour
+141_86;CAO;Infographie;fr;altLabel;site_employe_pour
+141_86;CAO;Computer aided design;en;altLabel;zthes_UF
+141_86;CAO;CAD;en;altLabel;zthes_UF
+141_86;CAO;Computer graphics;en;altLabel;zthes_UF
+141_98;ESTHETIQUE INDUSTRIELLE;Design;fr;altLabel;site_employe_pour
+141_98;ESTHETIQUE INDUSTRIELLE;Design;en;altLabel;zthes_UF
+142_45;AUTOMATISATION;Analyse automatique;fr;altLabel;site_employe_pour
+142_45;AUTOMATISATION;Automatic analysis;en;altLabel;zthes_UF
+142_46;AUTOMATISME;Asservissement;fr;altLabel;site_employe_pour
+142_46;AUTOMATISME;Slave control;en;altLabel;zthes_UF
+142_48;CERTIFICATION;Accréditation;fr;altLabel;site_employe_pour
+142_48;CERTIFICATION;Accreditation;en;altLabel;zthes_UF
+142_58;ASSURANCE QUALITE;Labellisation;fr;altLabel;site_employe_pour
+142_58;ASSURANCE QUALITE;Certification label;en;altLabel;zthes_UF
+142_61;COMMANDE NUMERIQUE;Commande électronique;fr;altLabel;site_employe_pour
+142_61;COMMANDE NUMERIQUE;Electronic control;en;altLabel;zthes_UF
+142_63;COMMANDE;Commande de machine;fr;altLabel;site_employe_pour
+142_63;COMMANDE;Machine controls;en;altLabel;zthes_UF
+142_68;CONTROLE QUALITE;Hygiène;fr;altLabel;site_employe_pour
+142_68;CONTROLE QUALITE;Hygiene;en;altLabel;zthes_UF
+142_70;ASSEMBLAGE;Montage;fr;altLabel;site_employe_pour
+142_70;ASSEMBLAGE;Assembly;en;altLabel;zthes_UF
+143_12;TRANSPORT FERROVIAIRE;Compagnie de chemin de fer;fr;altLabel;site_employe_pour
+143_12;TRANSPORT FERROVIAIRE;Transport par chemin de fer;fr;altLabel;site_employe_pour
+143_12;TRANSPORT FERROVIAIRE;Railroad company;en;altLabel;zthes_UF
+143_12;TRANSPORT FERROVIAIRE;Rail transportation;en;altLabel;zthes_UF
+143_21;TRANSPORT ROUTIER;Réseau routier;fr;altLabel;site_employe_pour
+143_21;TRANSPORT ROUTIER;Road network;en;altLabel;zthes_UF
+143_23;TRANSPORT DE MARCHANDISE;Frêt;fr;altLabel;site_employe_pour
+143_23;TRANSPORT DE MARCHANDISE;Freight;en;altLabel;zthes_UF
+143_25;NAVIRE;Minéralier;fr;altLabel;site_employe_pour
+143_25;NAVIRE;Méthanier;fr;altLabel;site_employe_pour
+143_25;NAVIRE;Navire porte conteneurs;fr;altLabel;site_employe_pour
+143_25;NAVIRE;Pétrolier;fr;altLabel;site_employe_pour
+143_25;NAVIRE;Methane tanker;en;altLabel;zthes_UF
+143_25;NAVIRE;Ore tanker;en;altLabel;zthes_UF
+143_25;NAVIRE;Container ship;en;altLabel;zthes_UF
+143_25;NAVIRE;Tanker;en;altLabel;zthes_UF
+143_38;NAVIGATION INTERIEURE;Gabarit;fr;altLabel;site_employe_pour
+143_38;NAVIGATION INTERIEURE;Navigation fluviale;fr;altLabel;site_employe_pour
+143_38;NAVIGATION INTERIEURE;Navigation par canaux;fr;altLabel;site_employe_pour
+143_38;NAVIGATION INTERIEURE;Size;en;altLabel;zthes_UF
+143_38;NAVIGATION INTERIEURE;River navigation;en;altLabel;zthes_UF
+143_38;NAVIGATION INTERIEURE;Canal navigation;en;altLabel;zthes_UF
+143_40;VOITURE PARTICULIERE;Automobile;fr;altLabel;site_employe_pour
+143_40;VOITURE PARTICULIERE;Car;en;altLabel;zthes_UF
+143_61;TRANSPORT EN COMMUN;Transport public;fr;altLabel;site_employe_pour
+143_61;TRANSPORT EN COMMUN;Public transportation;en;altLabel;zthes_UF
+143_74;MOBILITE DURABLE;Ecomobilité;fr;altLabel;zthes_UF
+143_74;MOBILITE DURABLE;Sustainable transport;en;altLabel;zthes_UF
+143_82;GESTION DES TRANSPORTS;Management des transports;fr;altLabel;site_employe_pour
+143_82;GESTION DES TRANSPORTS;Tournée de distribution;fr;altLabel;site_employe_pour
+143_82;GESTION DES TRANSPORTS;Transport management;en;altLabel;zthes_UF
+143_82;GESTION DES TRANSPORTS;Distribution rounds;en;altLabel;zthes_UF
+143_85;TRANSPORT PAR CANALISATION;Aqueduc;fr;altLabel;site_employe_pour
+143_85;TRANSPORT PAR CANALISATION;Gazoduc;fr;altLabel;site_employe_pour
+143_85;TRANSPORT PAR CANALISATION;Oléoduc;fr;altLabel;site_employe_pour
+143_85;TRANSPORT PAR CANALISATION;Pipe-line;fr;altLabel;site_employe_pour
+143_85;TRANSPORT PAR CANALISATION;Transport par pipe-line;fr;altLabel;site_employe_pour
+143_85;TRANSPORT PAR CANALISATION;Aqueduct;en;altLabel;zthes_UF
+143_85;TRANSPORT PAR CANALISATION;Gas pipeline;en;altLabel;zthes_UF
+143_85;TRANSPORT PAR CANALISATION;Pipeline;en;altLabel;zthes_UF
+143_85;TRANSPORT PAR CANALISATION;Transportation by pipeline;en;altLabel;zthes_UF
+143_90;ENTREPRISE DE TRANSPORT;Transitaire;fr;altLabel;site_employe_pour
+143_90;ENTREPRISE DE TRANSPORT;Forwarding agent;en;altLabel;zthes_UF
+151_66;CREATIVITE;Créatique;fr;altLabel;site_employe_pour
+151_66;CREATIVITE;Synectique;fr;altLabel;site_employe_pour
+151_66;CREATIVITE;Creatics;en;altLabel;zthes_UF
+151_66;CREATIVITE;Synectics;en;altLabel;zthes_UF
+151_75;RECHERCHE;Recherche académique;fr;altLabel;site_employe_pour
+151_75;RECHERCHE;Academic research;en;altLabel;zthes_UF
+151_77;TECHNOLOGIE DE RUPTURE;Disruption;fr;altLabel;site_employe_pour
+151_77;TECHNOLOGIE DE RUPTURE;Innovation de rupture;fr;altLabel;site_employe_pour
+151_77;TECHNOLOGIE DE RUPTURE;Innovation radicale;fr;altLabel;site_employe_pour
+151_77;TECHNOLOGIE DE RUPTURE;Disruption;en;altLabel;zthes_UF
+151_77;TECHNOLOGIE DE RUPTURE;Disruptive innovation;en;altLabel;zthes_UF
+151_77;TECHNOLOGIE DE RUPTURE;Discontinuous innovation;en;altLabel;zthes_UF
+151_84;CENTRE DE RECHERCHE;Laboratoire de recherche;fr;altLabel;site_employe_pour
+151_84;CENTRE DE RECHERCHE;Research laboratory;en;altLabel;zthes_UF
+151_86;RECHERCHE APPLIQUEE;Recherche-action;fr;altLabel;site_employe_pour
+151_86;RECHERCHE APPLIQUEE;Action research;en;altLabel;zthes_UF
+152_47;COMPOSANT;Circuit intégré;fr;altLabel;site_employe_pour
+152_47;COMPOSANT;Composant discret;fr;altLabel;site_employe_pour
+152_47;COMPOSANT;Integrated circuit;en;altLabel;zthes_UF
+152_47;COMPOSANT;Discrete component;en;altLabel;zthes_UF
+161_00;MANAGER;Directeur;fr;altLabel;site_employe_pour
+161_00;MANAGER;Director;en;altLabel;zthes_UF
+161_19;OUVRIER SPECIALISE;OS;fr;altLabel;site_employe_pour
+161_19;OUVRIER SPECIALISE;Trained worker;en;altLabel;zthes_UF
+161_22;CADRE;Cadre intermédiaire;fr;altLabel;site_employe_pour
+161_22;CADRE;Middle manager;en;altLabel;zthes_UF
+161_35;PROFESSION;Métier;fr;altLabel;site_employe_pour
+161_35;PROFESSION;Occupation;en;altLabel;zthes_UF
+161_43;CAPITAL SOCIAL;Réseau personnel;fr;altLabel;site_employe_pour
+161_43;CAPITAL SOCIAL;Personal Network;en;altLabel;zthes_UF
+161_44;CAPITAL HUMAIN;Ressources humaines;fr;altLabel;site_employe_pour
+161_44;CAPITAL HUMAIN;Human resources;en;altLabel;zthes_UF
+161_48;TRAVAIL A DISTANCE;Télétravail;fr;altLabel;site_employe_pour
+161_48;TRAVAIL A DISTANCE;Telecommuting;en;altLabel;zthes_UF
+161_53;EVALUATION DU PERSONNEL;Entretien d'évaluation;fr;altLabel;site_employe_pour
+161_53;EVALUATION DU PERSONNEL;Appraisal interview;en;altLabel;zthes_UF
+161_55;GESTION DES RESSOURCES HUMAINES;Gestion du personnel;fr;altLabel;site_employe_pour
+161_55;GESTION DES RESSOURCES HUMAINES;Gestion internationale du personnel;fr;altLabel;site_employe_pour
+161_55;GESTION DES RESSOURCES HUMAINES;Mutation du personnel;fr;altLabel;site_employe_pour
+161_55;GESTION DES RESSOURCES HUMAINES;Politique du personnel;fr;altLabel;site_employe_pour
+161_55;GESTION DES RESSOURCES HUMAINES;Personnel policy;en;altLabel;zthes_UF
+161_55;GESTION DES RESSOURCES HUMAINES;Staff management;en;altLabel;zthes_UF
+161_55;GESTION DES RESSOURCES HUMAINES;International personnel management;en;altLabel;zthes_UF
+161_55;GESTION DES RESSOURCES HUMAINES;Personnel transfer;en;altLabel;zthes_UF
+161_58;TRAVAIL TEMPORAIRE;Intérim;fr;altLabel;site_employe_pour
+161_58;TRAVAIL TEMPORAIRE;Main d'oeuvre temporaire;fr;altLabel;site_employe_pour
+161_58;TRAVAIL TEMPORAIRE;Interim;en;altLabel;zthes_UF
+161_58;TRAVAIL TEMPORAIRE;Temporary employee;en;altLabel;zthes_UF
+161_64;CAPITAL INTELLECTUEL;Ressource intellectuelle;fr;altLabel;site_employe_pour
+161_64;CAPITAL INTELLECTUEL;Intellectual resource;en;altLabel;zthes_UF
+161_67;RECHERCHE D'EMPLOI;CV;fr;altLabel;site_employe_pour
+161_67;RECHERCHE D'EMPLOI;Curriculum vitae;fr;altLabel;site_employe_pour
+161_67;RECHERCHE D'EMPLOI;Lettre de candidature;fr;altLabel;site_employe_pour
+161_67;RECHERCHE D'EMPLOI;Curriculum vitae;en;altLabel;zthes_UF
+161_67;RECHERCHE D'EMPLOI;Resume;en;altLabel;zthes_UF
+161_67;RECHERCHE D'EMPLOI;Application for vacancy;en;altLabel;zthes_UF
+161_70;SALAIRE GARANTI;SMIC;fr;altLabel;site_employe_pour
+161_70;SALAIRE GARANTI;Minimum wage;en;altLabel;zthes_UF
+161_71;REMUNERATION;Salaire;fr;altLabel;site_employe_pour
+161_71;REMUNERATION;Wage;en;altLabel;zthes_UF
+161_75;CARRIERE;Ancienneté;fr;altLabel;site_employe_pour
+161_75;CARRIERE;Changement de métier;fr;altLabel;site_employe_pour
+161_75;CARRIERE;Plan de carrière;fr;altLabel;site_employe_pour
+161_75;CARRIERE;Projet professionnel;fr;altLabel;site_employe_pour
+161_75;CARRIERE;Reconversion professionnelle;fr;altLabel;site_employe_pour
+161_75;CARRIERE;Career objectives;en;altLabel;zthes_UF
+161_75;CARRIERE;Seniority;en;altLabel;zthes_UF
+161_75;CARRIERE;Change of occupation;en;altLabel;zthes_UF
+161_75;CARRIERE;Career planning;en;altLabel;zthes_UF
+161_75;CARRIERE;Vocational retraining;en;altLabel;zthes_UF
+161_78;EMBAUCHE;Méthode d'embauche;fr;altLabel;site_employe_pour
+161_78;EMBAUCHE;Questionnaire d'embauche;fr;altLabel;site_employe_pour
+161_78;EMBAUCHE;Recrutement;fr;altLabel;site_employe_pour
+161_78;EMBAUCHE;Recruiting method;en;altLabel;zthes_UF
+161_78;EMBAUCHE;Recruiting questionnaire;en;altLabel;zthes_UF
+161_78;EMBAUCHE;Recruitment;en;altLabel;zthes_UF
+161_79;INSERTION PROFESSIONNELLE;Intégration du personnel;fr;altLabel;site_employe_pour
+161_79;INSERTION PROFESSIONNELLE;Staff integration;en;altLabel;zthes_UF
+161_85;GESTION PREVISIONNELLE DES EMPLOIS;GPEC;fr;altLabel;site_employe_pour
+161_85;GESTION PREVISIONNELLE DES EMPLOIS;Forward planning of careers and skills management;en;altLabel;zthes_UF
+161_86;LICENCIEMENT;Out placement;fr;altLabel;site_employe_pour
+161_86;LICENCIEMENT;Plan social;fr;altLabel;site_employe_pour
+161_86;LICENCIEMENT;Social plan;en;altLabel;zthes_UF
+161_86;LICENCIEMENT;Out placement;en;altLabel;zthes_UF
+161_87;ROTATION DU PERSONNEL;Turnover;fr;altLabel;site_employe_pour
+161_87;ROTATION DU PERSONNEL;Turnover;en;altLabel;zthes_UF
+161_88;SELECTION PROFESSIONNELLE;Organisme de sélection professionnelle;fr;altLabel;site_employe_pour
+161_88;SELECTION PROFESSIONNELLE;Test d'embauche;fr;altLabel;site_employe_pour
+161_88;SELECTION PROFESSIONNELLE;Professional recruitment organization;en;altLabel;zthes_UF
+161_88;SELECTION PROFESSIONNELLE;Recruitment test;en;altLabel;zthes_UF
+161_89;DEFINITION DES TACHES;Description de poste;fr;altLabel;site_employe_pour
+161_89;DEFINITION DES TACHES;Job description;en;altLabel;zthes_UF
+161_91;ENRICHISSEMENT DES TACHES;Elargissement des tâches;fr;altLabel;site_employe_pour
+161_91;ENRICHISSEMENT DES TACHES;Job enlargement;en;altLabel;zthes_UF
+162_06;OEUVRES SOCIALES;Coopérative du personnel;fr;altLabel;site_employe_pour
+162_06;OEUVRES SOCIALES;Fonds de retraite;fr;altLabel;site_employe_pour
+162_06;OEUVRES SOCIALES;Personnel co operative;en;altLabel;zthes_UF
+162_06;OEUVRES SOCIALES;Retirement funds;en;altLabel;zthes_UF
+162_14;ARBITRAGE;Médiation;fr;altLabel;site_employe_pour
+162_14;ARBITRAGE;Mediation;en;altLabel;zthes_UF
+162_17;COGESTION;Autogestion;fr;altLabel;site_employe_pour
+162_17;COGESTION;Self management;en;altLabel;zthes_UF
+162_37;EXPRESSION DES SALARIES;Participation des salariés;fr;altLabel;site_employe_pour
+162_37;EXPRESSION DES SALARIES;Employee profit sharing;en;altLabel;zthes_UF
+162_38;REPRESENTATION DES SALARIES;Comité d'hygiène, de sécurité et des conditions de travail;fr;altLabel;site_employe_pour
+162_38;REPRESENTATION DES SALARIES;HEALTH AND SECURITY COMMITTEE;en;altLabel;zthes_UF
+162_39;DELEGUE DU PERSONNEL;Délégué syndical;fr;altLabel;site_employe_pour
+162_39;DELEGUE DU PERSONNEL;Union representative;en;altLabel;zthes_UF
+162_44;CONFLIT DU TRAVAIL;Lockout;fr;altLabel;site_employe_pour
+162_44;CONFLIT DU TRAVAIL;Lockout;en;altLabel;zthes_UF
+162_54;REGLEMENT INTERIEUR;Discipline;fr;altLabel;site_employe_pour
+162_54;REGLEMENT INTERIEUR;Règlement d'atelier;fr;altLabel;site_employe_pour
+162_54;REGLEMENT INTERIEUR;Discipline;en;altLabel;zthes_UF
+162_54;REGLEMENT INTERIEUR;Workshop rules;en;altLabel;zthes_UF
+162_63;CONDITIONS DE TRAVAIL;Ambiance;fr;altLabel;site_employe_pour
+162_63;CONDITIONS DE TRAVAIL;Chauffage;fr;altLabel;site_employe_pour
+162_63;CONDITIONS DE TRAVAIL;Conditionnement d'air;fr;altLabel;site_employe_pour
+162_63;CONDITIONS DE TRAVAIL;Couleur;fr;altLabel;site_employe_pour
+162_63;CONDITIONS DE TRAVAIL;Eclairage;fr;altLabel;site_employe_pour
+162_63;CONDITIONS DE TRAVAIL;Sonorisation;fr;altLabel;site_employe_pour
+162_63;CONDITIONS DE TRAVAIL;Atmosphere;en;altLabel;zthes_UF
+162_63;CONDITIONS DE TRAVAIL;Heating;en;altLabel;zthes_UF
+162_63;CONDITIONS DE TRAVAIL;Air conditioning;en;altLabel;zthes_UF
+162_63;CONDITIONS DE TRAVAIL;Color;en;altLabel;zthes_UF
+162_63;CONDITIONS DE TRAVAIL;Lighting;en;altLabel;zthes_UF
+162_63;CONDITIONS DE TRAVAIL;Sound;en;altLabel;zthes_UF
+162_68;SYNDICALISME;Syndicat professionnel;fr;altLabel;site_employe_pour
+162_68;SYNDICALISME;Professional union;en;altLabel;zthes_UF
+162_75;QUALITE DE VIE AU TRAVAIL;Bien-être au travail;fr;altLabel;site_employe_pour
+162_75;QUALITE DE VIE AU TRAVAIL;QVT;fr;altLabel;site_employe_pour
+162_75;QUALITE DE VIE AU TRAVAIL;Satisfaction au travail;fr;altLabel;site_employe_pour
+162_75;QUALITE DE VIE AU TRAVAIL;Job satisfaction;en;altLabel;zthes_UF
+162_75;QUALITE DE VIE AU TRAVAIL;Well-being at work;en;altLabel;zthes_UF
+162_75;QUALITE DE VIE AU TRAVAIL;QWL;en;altLabel;zthes_UF
+162_97;BILAN SOCIAL;Bilan humain;fr;altLabel;site_employe_pour
+162_97;BILAN SOCIAL;Comptabilité sociale;fr;altLabel;site_employe_pour
+162_97;BILAN SOCIAL;Human assessment;en;altLabel;zthes_UF
+162_97;BILAN SOCIAL;Social accounting;en;altLabel;zthes_UF
+162_98;SYNDICAT DE SALARIES;Syndicat de cadres;fr;altLabel;site_employe_pour
+162_98;SYNDICAT DE SALARIES;Syndicat ouvrier;fr;altLabel;site_employe_pour
+162_98;SYNDICAT DE SALARIES;Executives' syndicate;en;altLabel;zthes_UF
+162_98;SYNDICAT DE SALARIES;Trade union;en;altLabel;zthes_UF
+163_27;GRANDE ECOLE;Business school;fr;altLabel;site_employe_pour
+163_27;GRANDE ECOLE;ESCAE;fr;altLabel;site_employe_pour
+163_27;GRANDE ECOLE;Business school;en;altLabel;zthes_UF
+163_27;GRANDE ECOLE;ESCAE;en;altLabel;zthes_UF
+163_43;COACHING;Tutorat;fr;altLabel;site_employe_pour
+163_43;COACHING;Tutorship;en;altLabel;zthes_UF
+163_53;METHODE DE FORMATION;NTE;fr;altLabel;site_employe_pour
+163_53;METHODE DE FORMATION;Nouvelle technologie éducative;fr;altLabel;site_employe_pour
+163_53;METHODE DE FORMATION;New educational technology;en;altLabel;zthes_UF
+163_53;METHODE DE FORMATION;NTE;en;altLabel;zthes_UF
+163_55;FORMATION;Type de formation;fr;altLabel;site_employe_pour
+163_55;FORMATION;Type of training;en;altLabel;zthes_UF
+163_56;EXAMEN;Concours;fr;altLabel;site_employe_pour
+163_56;EXAMEN;Competitive examination;en;altLabel;zthes_UF
+163_59;FORMATION AGRICOLE;Enseignement agricole;fr;altLabel;site_employe_pour
+163_59;FORMATION AGRICOLE;Agricultural education;en;altLabel;zthes_UF
+163_60;EAO;Enseignement assisté par ordinateur;fr;altLabel;site_employe_pour
+163_60;EAO;Computer assisted learning;en;altLabel;zthes_UF
+163_69;FORMATION COMMERCIALE;Enseignement commercial;fr;altLabel;site_employe_pour
+163_69;FORMATION COMMERCIALE;Commercial teaching;en;altLabel;zthes_UF
+163_76;FORMATION CONTINUE;Formation dans l'entreprise;fr;altLabel;site_employe_pour
+163_76;FORMATION CONTINUE;Formation permanente;fr;altLabel;site_employe_pour
+163_76;FORMATION CONTINUE;Continuous training;en;altLabel;zthes_UF
+163_76;FORMATION CONTINUE;In company training;en;altLabel;zthes_UF
+163_79;FORMATION TECHNIQUE;Enseignement technique;fr;altLabel;site_employe_pour
+163_79;FORMATION TECHNIQUE;Technical teaching;en;altLabel;zthes_UF
+163_80;ENSEIGNEMENT A DISTANCE;E learning;fr;altLabel;site_employe_pour
+163_80;ENSEIGNEMENT A DISTANCE;Enseignement par correspondance;fr;altLabel;site_employe_pour
+163_80;ENSEIGNEMENT A DISTANCE;Téléenseignement;fr;altLabel;site_employe_pour
+163_80;ENSEIGNEMENT A DISTANCE;E learning;en;altLabel;zthes_UF
+163_80;ENSEIGNEMENT A DISTANCE;Correspondence learning;en;altLabel;zthes_UF
+163_80;ENSEIGNEMENT A DISTANCE;Educational television;en;altLabel;zthes_UF
+163_88;FORMATION EN ALTERNANCE;Contrat d'apprentissage;fr;altLabel;site_employe_pour
+163_88;FORMATION EN ALTERNANCE;Contrat de professionnalisation;fr;altLabel;site_employe_pour
+163_88;FORMATION EN ALTERNANCE;Apprenticeship;en;altLabel;zthes_UF
+163_88;FORMATION EN ALTERNANCE;Professionalization contract;en;altLabel;zthes_UF
+163_93;ENSEIGNEMENT DES LANGUES;FLE;fr;altLabel;zthes_UF
+163_93;ENSEIGNEMENT DES LANGUES;Français Langue Etrangère;fr;altLabel;zthes_UF
+163_93;ENSEIGNEMENT DES LANGUES;FLE;en;altLabel;zthes_UF
+163_93;ENSEIGNEMENT DES LANGUES;French as a foreign language;en;altLabel;zthes_UF
+163_97;VALIDATION DES ACQUIS DE L'EXPERIENCE;VAE;fr;altLabel;site_employe_pour
+163_97;VALIDATION DES ACQUIS DE L'EXPERIENCE;VAP;fr;altLabel;site_employe_pour
+163_97;VALIDATION DES ACQUIS DE L'EXPERIENCE;VAE;en;altLabel;zthes_UF
+163_97;VALIDATION DES ACQUIS DE L'EXPERIENCE;VAP;en;altLabel;zthes_UF
+164_22;SOCIOLOGIE DES ORGANISATIONS;Comportement organisationnel;fr;altLabel;site_employe_pour
+164_22;SOCIOLOGIE DES ORGANISATIONS;Organizational behavior;en;altLabel;zthes_UF
+164_36;RELATIONS INTERPERSONNELLES;Analyse transactionnelle;fr;altLabel;site_employe_pour
+164_36;RELATIONS INTERPERSONNELLES;PNL;fr;altLabel;site_employe_pour
+164_36;RELATIONS INTERPERSONNELLES;Progammation neuro-linguistique;fr;altLabel;site_employe_pour
+164_36;RELATIONS INTERPERSONNELLES;transactional analysis;en;altLabel;zthes_UF
+164_36;RELATIONS INTERPERSONNELLES;NLP;en;altLabel;zthes_UF
+164_36;RELATIONS INTERPERSONNELLES;Neuro-linguistic programming;en;altLabel;zthes_UF
+164_37;CONFLIT SOCIAL;Mouvement social;fr;altLabel;site_employe_pour
+164_37;CONFLIT SOCIAL;Social movement;en;altLabel;zthes_UF
+164_43;SOCIOLOGIE;Sociodrame;fr;altLabel;site_employe_pour
+164_43;SOCIOLOGIE;Sociologie comparée;fr;altLabel;site_employe_pour
+164_43;SOCIOLOGIE;Sociodrama;en;altLabel;zthes_UF
+164_43;SOCIOLOGIE;Compared sociology;en;altLabel;zthes_UF
+164_47;GROUPE SOCIAL;Classe sociale;fr;altLabel;site_employe_pour
+164_47;GROUPE SOCIAL;Social class;en;altLabel;zthes_UF
+164_53;HARCELEMENT;Harcèlement moral;fr;altLabel;site_employe_pour
+164_53;HARCELEMENT;Harcèlement sexuel;fr;altLabel;site_employe_pour
+164_53;HARCELEMENT;Psychological harassment;en;altLabel;zthes_UF
+164_53;HARCELEMENT;Sexual harassment;en;altLabel;zthes_UF
+164_56;PSYCHOLOGIE SOCIALE;Psychosociologie;fr;altLabel;site_employe_pour
+164_56;PSYCHOLOGIE SOCIALE;Psychosociology;en;altLabel;zthes_UF
+164_59;POUVOIR;Autorité;fr;altLabel;site_employe_pour
+164_59;POUVOIR;Authority;en;altLabel;zthes_UF
+164_63;PSYCHOLOGIE;Désir;fr;altLabel;site_employe_pour
+164_63;PSYCHOLOGIE;Imaginaire;fr;altLabel;site_employe_pour
+164_63;PSYCHOLOGIE;Parapsychologie;fr;altLabel;site_employe_pour
+164_63;PSYCHOLOGIE;Psycholinguistique;fr;altLabel;site_employe_pour
+164_63;PSYCHOLOGIE;Psychologie infantile;fr;altLabel;site_employe_pour
+164_63;PSYCHOLOGIE;Psychopédagogie;fr;altLabel;site_employe_pour
+164_63;PSYCHOLOGIE;Psychothérapie;fr;altLabel;site_employe_pour
+164_63;PSYCHOLOGIE;Parapsychology;en;altLabel;zthes_UF
+164_63;PSYCHOLOGIE;Psycholinguistics;en;altLabel;zthes_UF
+164_63;PSYCHOLOGIE;Child psychology;en;altLabel;zthes_UF
+164_63;PSYCHOLOGIE;Psychopedagogy;en;altLabel;zthes_UF
+164_63;PSYCHOLOGIE;Psychotherapy;en;altLabel;zthes_UF
+164_63;PSYCHOLOGIE;Imaginary;en;altLabel;zthes_UF
+164_63;PSYCHOLOGIE;Desire;en;altLabel;zthes_UF
+164_67;DYNAMIQUE DE GROUPE;T Group;fr;altLabel;site_employe_pour
+164_67;DYNAMIQUE DE GROUPE;T Group;en;altLabel;zthes_UF
+164_69;LEADERSHIP;Animation de groupe;fr;altLabel;site_employe_pour
+164_69;LEADERSHIP;Group Leadership;en;altLabel;zthes_UF
+164_73;MOTIVATION;Implication au travail;fr;altLabel;site_employe_pour
+164_73;MOTIVATION;Work involvement;en;altLabel;zthes_UF
+164_75;EXPERIENCE DE VIE;Témoignage;fr;altLabel;site_employe_pour
+164_75;EXPERIENCE DE VIE;Testimony;en;altLabel;zthes_UF
+164_76;ENQUETE;Enquête pilote;fr;altLabel;site_employe_pour
+164_76;ENQUETE;Enquêteur;fr;altLabel;site_employe_pour
+164_76;ENQUETE;Interprétation d'enquête;fr;altLabel;site_employe_pour
+164_76;ENQUETE;Pilot inquiry;en;altLabel;zthes_UF
+164_76;ENQUETE;Pollster;en;altLabel;zthes_UF
+164_76;ENQUETE;Interpretation study;en;altLabel;zthes_UF
+164_79;GROUPE DE TRAVAIL;Travail collaboratif;fr;altLabel;site_employe_pour
+164_79;GROUPE DE TRAVAIL;Peer production;en;altLabel;zthes_UF
+164_80;TEST PSYCHOTECHNIQUE;Test psychologique;fr;altLabel;site_employe_pour
+164_80;TEST PSYCHOTECHNIQUE;Psychological test;en;altLabel;zthes_UF
+164_83;COMPORTEMENT;Attitude;fr;altLabel;site_employe_pour
+164_83;COMPORTEMENT;Ethologie;fr;altLabel;site_employe_pour
+164_83;COMPORTEMENT;Sexualité;fr;altLabel;site_employe_pour
+164_83;COMPORTEMENT;Attitude;en;altLabel;zthes_UF
+164_83;COMPORTEMENT;Ethology;en;altLabel;zthes_UF
+164_98;ENTRETIEN;Entretien de groupe;fr;altLabel;site_employe_pour
+164_98;ENTRETIEN;Entretien en profondeur;fr;altLabel;site_employe_pour
+164_98;ENTRETIEN;Entretien exploratoire;fr;altLabel;site_employe_pour
+164_98;ENTRETIEN;Group interview;en;altLabel;zthes_UF
+164_98;ENTRETIEN;In depth interview;en;altLabel;zthes_UF
+164_98;ENTRETIEN;Exploratory interview;en;altLabel;zthes_UF
+211_25;PROGRAMMATION MATHEMATIQUE;Programmation convexe;fr;altLabel;site_employe_pour
+211_25;PROGRAMMATION MATHEMATIQUE;Programmation par nombres entiers;fr;altLabel;site_employe_pour
+211_25;PROGRAMMATION MATHEMATIQUE;Programmation quadratique;fr;altLabel;site_employe_pour
+211_25;PROGRAMMATION MATHEMATIQUE;Convex programming;en;altLabel;zthes_UF
+211_25;PROGRAMMATION MATHEMATIQUE;Whole number programming;en;altLabel;zthes_UF
+211_25;PROGRAMMATION MATHEMATIQUE;Quadratic programming;en;altLabel;zthes_UF
+211_28;AIDE A LA DECISION;Heuristique;fr;altLabel;site_employe_pour
+211_28;AIDE A LA DECISION;Résolution de problème;fr;altLabel;site_employe_pour
+211_28;AIDE A LA DECISION;Heuristic;en;altLabel;zthes_UF
+211_28;AIDE A LA DECISION;Problem solving;en;altLabel;zthes_UF
+211_35;RECHERCHE OPERATIONNELLE;Modèle mathématique;fr;altLabel;site_employe_pour
+211_35;RECHERCHE OPERATIONNELLE;Mathematical model;en;altLabel;zthes_UF
+211_55;MATHEMATIQUES;Fonction mathématique;fr;altLabel;site_employe_pour
+211_55;MATHEMATIQUES;Mathématiques modernes;fr;altLabel;site_employe_pour
+211_55;MATHEMATIQUES;Théorie des ensembles;fr;altLabel;site_employe_pour
+211_55;MATHEMATIQUES;Mathematical function;en;altLabel;zthes_UF
+211_55;MATHEMATIQUES;Modern mathematics;en;altLabel;zthes_UF
+211_55;MATHEMATIQUES;Set theory;en;altLabel;zthes_UF
+211_57;ALGEBRE;Algèbre de Boole;fr;altLabel;site_employe_pour
+211_57;ALGEBRE;Algèbre financière;fr;altLabel;site_employe_pour
+211_57;ALGEBRE;Algèbre linéaire;fr;altLabel;site_employe_pour
+211_57;ALGEBRE;Algèbre non linéaire;fr;altLabel;site_employe_pour
+211_57;ALGEBRE;Boolean algebra;en;altLabel;zthes_UF
+211_57;ALGEBRE;Financial algebra;en;altLabel;zthes_UF
+211_57;ALGEBRE;Linear algebra;en;altLabel;zthes_UF
+211_57;ALGEBRE;Nonlinear algebra;en;altLabel;zthes_UF
+211_62;ANALYSE NUMERIQUE;Approximation;fr;altLabel;site_employe_pour
+211_62;ANALYSE NUMERIQUE;Calcul de série;fr;altLabel;site_employe_pour
+211_62;ANALYSE NUMERIQUE;Erreur mathématique;fr;altLabel;site_employe_pour
+211_62;ANALYSE NUMERIQUE;Extrapolation;fr;altLabel;site_employe_pour
+211_62;ANALYSE NUMERIQUE;Interpolation;fr;altLabel;site_employe_pour
+211_62;ANALYSE NUMERIQUE;Itération;fr;altLabel;site_employe_pour
+211_62;ANALYSE NUMERIQUE;Approximation;en;altLabel;zthes_UF
+211_62;ANALYSE NUMERIQUE;Series calculation;en;altLabel;zthes_UF
+211_62;ANALYSE NUMERIQUE;Mathematical error;en;altLabel;zthes_UF
+211_62;ANALYSE NUMERIQUE;Extrapolation;en;altLabel;zthes_UF
+211_62;ANALYSE NUMERIQUE;Interpolation;en;altLabel;zthes_UF
+211_62;ANALYSE NUMERIQUE;Iteration;en;altLabel;zthes_UF
+211_66;ARITHMETIQUE;Equation;fr;altLabel;site_employe_pour
+211_66;ARITHMETIQUE;Logarithme;fr;altLabel;site_employe_pour
+211_66;ARITHMETIQUE;Trigonométrie;fr;altLabel;site_employe_pour
+211_66;ARITHMETIQUE;Equation;en;altLabel;zthes_UF
+211_66;ARITHMETIQUE;Logarithm;en;altLabel;zthes_UF
+211_66;ARITHMETIQUE;Trigonometry;en;altLabel;zthes_UF
+211_75;CALCUL;Calcul binaire;fr;altLabel;site_employe_pour
+211_75;CALCUL;Calcul vectoriel;fr;altLabel;site_employe_pour
+211_75;CALCUL;Vecteur;fr;altLabel;site_employe_pour
+211_75;CALCUL;Binary calculus;en;altLabel;zthes_UF
+211_75;CALCUL;Vector calculus;en;altLabel;zthes_UF
+211_75;CALCUL;Vector;en;altLabel;zthes_UF
+211_77;CALCUL MATRICIEL;Matrice;fr;altLabel;site_employe_pour
+211_77;CALCUL MATRICIEL;Matrix;en;altLabel;zthes_UF
+211_95;ANALYSE MATHEMATIQUE;Calcul différentiel;fr;altLabel;site_employe_pour
+211_95;ANALYSE MATHEMATIQUE;Calcul intégral;fr;altLabel;site_employe_pour
+211_95;ANALYSE MATHEMATIQUE;Dérivée;fr;altLabel;site_employe_pour
+211_95;ANALYSE MATHEMATIQUE;Intégrale;fr;altLabel;site_employe_pour
+211_95;ANALYSE MATHEMATIQUE;Differential calculus;en;altLabel;zthes_UF
+211_95;ANALYSE MATHEMATIQUE;Integral calculus;en;altLabel;zthes_UF
+211_95;ANALYSE MATHEMATIQUE;Derivative;en;altLabel;zthes_UF
+211_95;ANALYSE MATHEMATIQUE;Integral;en;altLabel;zthes_UF
+212_26;SERIE CHRONOLOGIQUE;Indice;fr;altLabel;site_employe_pour
+212_26;SERIE CHRONOLOGIQUE;Variation saisonnière;fr;altLabel;site_employe_pour
+212_26;SERIE CHRONOLOGIQUE;Index;en;altLabel;zthes_UF
+212_26;SERIE CHRONOLOGIQUE;Seasonal variation;en;altLabel;zthes_UF
+212_53;PROBABILITES;Ajustement à une loi;fr;altLabel;site_employe_pour
+212_53;PROBABILITES;Loi des grands nombres;fr;altLabel;site_employe_pour
+212_53;PROBABILITES;Méthode de Monte Carlo;fr;altLabel;site_employe_pour
+212_53;PROBABILITES;Théorie de Bayes;fr;altLabel;site_employe_pour
+212_53;PROBABILITES;Adjustment with a law;en;altLabel;zthes_UF
+212_53;PROBABILITES;Big numbers law;en;altLabel;zthes_UF
+212_53;PROBABILITES;Monte Carlo method;en;altLabel;zthes_UF
+212_53;PROBABILITES;Bayes Theory;en;altLabel;zthes_UF
+212_61;DISTRIBUTION STATISTIQUE;Distribution binomiale;fr;altLabel;site_employe_pour
+212_61;DISTRIBUTION STATISTIQUE;Distribution de Gauss;fr;altLabel;site_employe_pour
+212_61;DISTRIBUTION STATISTIQUE;Distribution de Poisson;fr;altLabel;site_employe_pour
+212_61;DISTRIBUTION STATISTIQUE;Binomial distribution;en;altLabel;zthes_UF
+212_61;DISTRIBUTION STATISTIQUE;Gaussian distribution;en;altLabel;zthes_UF
+212_61;DISTRIBUTION STATISTIQUE;Poisson distribution;en;altLabel;zthes_UF
+212_67;STATISTIQUE DESCRIPTIVE;Analyse en grappe;fr;altLabel;site_employe_pour
+212_67;STATISTIQUE DESCRIPTIVE;Analyse statistique;fr;altLabel;site_employe_pour
+212_67;STATISTIQUE DESCRIPTIVE;Corrélation;fr;altLabel;site_employe_pour
+212_67;STATISTIQUE DESCRIPTIVE;Covariance;fr;altLabel;site_employe_pour
+212_67;STATISTIQUE DESCRIPTIVE;Moyenne;fr;altLabel;site_employe_pour
+212_67;STATISTIQUE DESCRIPTIVE;Observation statistique;fr;altLabel;site_employe_pour
+212_67;STATISTIQUE DESCRIPTIVE;Relation statistique;fr;altLabel;site_employe_pour
+212_67;STATISTIQUE DESCRIPTIVE;Régression;fr;altLabel;site_employe_pour
+212_67;STATISTIQUE DESCRIPTIVE;Variance;fr;altLabel;site_employe_pour
+212_67;STATISTIQUE DESCRIPTIVE;Group analysis;en;altLabel;zthes_UF
+212_67;STATISTIQUE DESCRIPTIVE;Statistical analysis;en;altLabel;zthes_UF
+212_67;STATISTIQUE DESCRIPTIVE;Correlation;en;altLabel;zthes_UF
+212_67;STATISTIQUE DESCRIPTIVE;Covariance;en;altLabel;zthes_UF
+212_67;STATISTIQUE DESCRIPTIVE;Average;en;altLabel;zthes_UF
+212_67;STATISTIQUE DESCRIPTIVE;Statistical observation;en;altLabel;zthes_UF
+212_67;STATISTIQUE DESCRIPTIVE;Regression;en;altLabel;zthes_UF
+212_67;STATISTIQUE DESCRIPTIVE;Statistical relation;en;altLabel;zthes_UF
+212_67;STATISTIQUE DESCRIPTIVE;Variance;en;altLabel;zthes_UF
+212_68;ANALYSE DES DONNEES;ACP;fr;altLabel;site_employe_pour
+212_68;ANALYSE DES DONNEES;Analyse canonique;fr;altLabel;site_employe_pour
+212_68;ANALYSE DES DONNEES;Analyse de variance;fr;altLabel;site_employe_pour
+212_68;ANALYSE DES DONNEES;Analyse des correspondances;fr;altLabel;site_employe_pour
+212_68;ANALYSE DES DONNEES;Analyse discriminante;fr;altLabel;site_employe_pour
+212_68;ANALYSE DES DONNEES;Analyse en composantes principales;fr;altLabel;site_employe_pour
+212_68;ANALYSE DES DONNEES;Analyse factorielle;fr;altLabel;site_employe_pour
+212_68;ANALYSE DES DONNEES;Analyse multidimensionnelle;fr;altLabel;site_employe_pour
+212_68;ANALYSE DES DONNEES;Analyse multivariance;fr;altLabel;site_employe_pour
+212_68;ANALYSE DES DONNEES;Analyse séquentielle;fr;altLabel;site_employe_pour
+212_68;ANALYSE DES DONNEES;PCA;en;altLabel;zthes_UF
+212_68;ANALYSE DES DONNEES;Canonical analysis;en;altLabel;zthes_UF
+212_68;ANALYSE DES DONNEES;Variance analysis;en;altLabel;zthes_UF
+212_68;ANALYSE DES DONNEES;Correspondence analysis;en;altLabel;zthes_UF
+212_68;ANALYSE DES DONNEES;Discriminant analysis;en;altLabel;zthes_UF
+212_68;ANALYSE DES DONNEES;Principal components analysis;en;altLabel;zthes_UF
+212_68;ANALYSE DES DONNEES;Factor analysis;en;altLabel;zthes_UF
+212_68;ANALYSE DES DONNEES;Multidimensional analysis;en;altLabel;zthes_UF
+212_68;ANALYSE DES DONNEES;Multivariance analysis;en;altLabel;zthes_UF
+212_68;ANALYSE DES DONNEES;Sequential analysis;en;altLabel;zthes_UF
+212_81;PROCESSUS STOCHASTIQUE;Chaîne de Markov;fr;altLabel;site_employe_pour
+212_81;PROCESSUS STOCHASTIQUE;Chain of Markov;en;altLabel;zthes_UF
+212_84;ECHANTILLONNAGE;Dispersion;fr;altLabel;site_employe_pour
+212_84;ECHANTILLONNAGE;Homogénéité;fr;altLabel;site_employe_pour
+212_84;ECHANTILLONNAGE;Hétérogénéité;fr;altLabel;site_employe_pour
+212_84;ECHANTILLONNAGE;Nombre au hasard;fr;altLabel;site_employe_pour
+212_84;ECHANTILLONNAGE;Population statistique;fr;altLabel;site_employe_pour
+212_84;ECHANTILLONNAGE;Stratification;fr;altLabel;site_employe_pour
+212_84;ECHANTILLONNAGE;Dispersion;en;altLabel;zthes_UF
+212_84;ECHANTILLONNAGE;Heterogeneity;en;altLabel;zthes_UF
+212_84;ECHANTILLONNAGE;Homogeneity;en;altLabel;zthes_UF
+212_84;ECHANTILLONNAGE;Random number;en;altLabel;zthes_UF
+212_84;ECHANTILLONNAGE;Statistical population;en;altLabel;zthes_UF
+212_84;ECHANTILLONNAGE;Stratification;en;altLabel;zthes_UF
+212_85;ESTIMATION STATISTIQUE;Erreur statistique;fr;altLabel;site_employe_pour
+212_85;ESTIMATION STATISTIQUE;Intervalle de confiance;fr;altLabel;site_employe_pour
+212_85;ESTIMATION STATISTIQUE;Risque statistique;fr;altLabel;site_employe_pour
+212_85;ESTIMATION STATISTIQUE;Statistical error;en;altLabel;zthes_UF
+212_85;ESTIMATION STATISTIQUE;Confidence interval;en;altLabel;zthes_UF
+212_85;ESTIMATION STATISTIQUE;Statistical risk;en;altLabel;zthes_UF
+213_03;BASE DE DONNEES;SGBD;fr;altLabel;site_employe_pour
+213_03;BASE DE DONNEES;Système de Gestion de Base de Données;fr;altLabel;site_employe_pour
+213_03;BASE DE DONNEES;DBMS;en;altLabel;zthes_UF
+213_03;BASE DE DONNEES;Database management system;en;altLabel;zthes_UF
+213_07;SYSTEME D'EXPLOITATION;DOS;fr;altLabel;site_employe_pour
+213_07;SYSTEME D'EXPLOITATION;Disk Operating System;fr;altLabel;site_employe_pour
+213_07;SYSTEME D'EXPLOITATION;Disk Operating System;en;altLabel;zthes_UF
+213_07;SYSTEME D'EXPLOITATION;DOS;en;altLabel;zthes_UF
+213_14;FICHIER;Fichier de données;fr;altLabel;site_employe_pour
+213_14;FICHIER;Fichier inverse;fr;altLabel;site_employe_pour
+213_14;FICHIER;Data file;en;altLabel;zthes_UF
+213_14;FICHIER;Inverted file;en;altLabel;zthes_UF
+213_16;LOGICIEL;Progiciel;fr;altLabel;site_employe_pour
+213_16;LOGICIEL;Programme informatique;fr;altLabel;site_employe_pour
+213_16;LOGICIEL;Software program;en;altLabel;zthes_UF
+213_16;LOGICIEL;Software packaging;en;altLabel;zthes_UF
+213_20;INTELLIGENCE ARTIFICIELLE;Système expert;fr;altLabel;site_employe_pour
+213_20;INTELLIGENCE ARTIFICIELLE;Assistant vocal;fr;altLabel;zthes_UF
+213_20;INTELLIGENCE ARTIFICIELLE;Apprentissage automatique;fr;altLabel;zthes_UF
+213_20;INTELLIGENCE ARTIFICIELLE;Expert system;en;altLabel;zthes_UF
+213_20;INTELLIGENCE ARTIFICIELLE;Voice assistant;en;altLabel;zthes_UF
+213_20;INTELLIGENCE ARTIFICIELLE;Machine learning;en;altLabel;zthes_UF
+213_25;PROGRAMMATION INFORMATIQUE;Ordinogramme;fr;altLabel;site_employe_pour
+213_25;PROGRAMMATION INFORMATIQUE;Process chart;en;altLabel;zthes_UF
+213_27;LANGAGE INFORMATIQUE;Assembleur;fr;altLabel;site_employe_pour
+213_27;LANGAGE INFORMATIQUE;Assembler;en;altLabel;zthes_UF
+213_33;ANALYSE INFORMATIQUE;Analyse fonctionnelle;fr;altLabel;site_employe_pour
+213_33;ANALYSE INFORMATIQUE;Analyse organique;fr;altLabel;site_employe_pour
+213_33;ANALYSE INFORMATIQUE;Functional analysis;en;altLabel;zthes_UF
+213_33;ANALYSE INFORMATIQUE;Detailed system analysis;en;altLabel;zthes_UF
+213_49;ORDINATEUR;Microprocesseur;fr;altLabel;site_employe_pour
+213_49;ORDINATEUR;Processeur;fr;altLabel;site_employe_pour
+213_49;ORDINATEUR;Unité centrale;fr;altLabel;site_employe_pour
+213_49;ORDINATEUR;Microprocessor;en;altLabel;zthes_UF
+213_49;ORDINATEUR;Processor;en;altLabel;zthes_UF
+213_49;ORDINATEUR;Central processing unit;en;altLabel;zthes_UF
+213_53;APPLICATION DE L'INFORMATIQUE;XAO;fr;altLabel;site_employe_pour
+213_53;APPLICATION DE L'INFORMATIQUE;CAX;en;altLabel;zthes_UF
+213_55;INFORMATIQUE;Service informatique;fr;altLabel;site_employe_pour
+213_55;INFORMATIQUE;Data processing department;en;altLabel;zthes_UF
+213_59;PERIPHERIQUE INFORMATIQUE;Imprimante;fr;altLabel;site_employe_pour
+213_59;PERIPHERIQUE INFORMATIQUE;Printer;en;altLabel;zthes_UF
+213_69;TERMINAL;Ecran de visualisation;fr;altLabel;site_employe_pour
+213_69;TERMINAL;Display screen;en;altLabel;zthes_UF
+213_71;INFORMATIQUE DE GESTION;ERP;fr;altLabel;site_employe_pour
+213_71;INFORMATIQUE DE GESTION;Gestion intégrée;fr;altLabel;site_employe_pour
+213_71;INFORMATIQUE DE GESTION;Progiciel de gestion intégré;fr;altLabel;site_employe_pour
+213_71;INFORMATIQUE DE GESTION;Enterprise resource planning;en;altLabel;zthes_UF
+213_71;INFORMATIQUE DE GESTION;ERP;en;altLabel;zthes_UF
+213_71;INFORMATIQUE DE GESTION;Integrated management;en;altLabel;zthes_UF
+213_73;MODE D'EXPLOITATION;Temps réel;fr;altLabel;site_employe_pour
+213_73;MODE D'EXPLOITATION;Tolérance de pannes;fr;altLabel;site_employe_pour
+213_73;MODE D'EXPLOITATION;Traitement par lots;fr;altLabel;site_employe_pour
+213_73;MODE D'EXPLOITATION;Real time;en;altLabel;zthes_UF
+213_73;MODE D'EXPLOITATION;Fault tolerance;en;altLabel;zthes_UF
+213_73;MODE D'EXPLOITATION;Batch processing;en;altLabel;zthes_UF
+213_75;SECURITE INFORMATIQUE;Cybersécurité;fr;altLabel;site_employe_pour
+213_75;SECURITE INFORMATIQUE;Cybersecurity;en;altLabel;zthes_UF
+213_77;SUPPORT INFORMATIQUE;Mémoire de masse;fr;altLabel;site_employe_pour
+213_77;SUPPORT INFORMATIQUE;Mass memory;en;altLabel;zthes_UF
+213_85;AUTHENTIFICATION;Authentification biometrique;fr;altLabel;site_employe_pour
+213_85;AUTHENTIFICATION;Signature électronique;fr;altLabel;site_employe_pour
+213_85;AUTHENTIFICATION;Biometric authentication;en;altLabel;zthes_UF
+213_85;AUTHENTIFICATION;Electronic signature;en;altLabel;zthes_UF
+213_97;DISQUE MAGNETIQUE;Disquette;fr;altLabel;site_employe_pour
+213_97;DISQUE MAGNETIQUE;Unité de disque magnétique;fr;altLabel;site_employe_pour
+213_97;DISQUE MAGNETIQUE;Diskette;en;altLabel;zthes_UF
+213_97;DISQUE MAGNETIQUE;Magnetic disk drive;en;altLabel;zthes_UF
+213_98;DISQUE OPTIQUE;CD-ROM;fr;altLabel;site_employe_pour
+213_98;DISQUE OPTIQUE;Cédérom;fr;altLabel;site_employe_pour
+213_98;DISQUE OPTIQUE;DVD;fr;altLabel;site_employe_pour
+213_98;DISQUE OPTIQUE;Disque compact;fr;altLabel;site_employe_pour
+213_98;DISQUE OPTIQUE;Disque optique numérique;fr;altLabel;site_employe_pour
+213_98;DISQUE OPTIQUE;DVD;en;altLabel;zthes_UF
+213_98;DISQUE OPTIQUE;Compact disc read-only memory;en;altLabel;zthes_UF
+213_98;DISQUE OPTIQUE;CD Rom;en;altLabel;zthes_UF
+213_98;DISQUE OPTIQUE;Compact disc;en;altLabel;zthes_UF
+213_98;DISQUE OPTIQUE;Digital optical disc;en;altLabel;zthes_UF
+213_99;CARTE A MEMOIRE;Carte magnétique;fr;altLabel;site_employe_pour
+213_99;CARTE A MEMOIRE;Carte à puce;fr;altLabel;site_employe_pour
+213_99;CARTE A MEMOIRE;Télécarte;fr;altLabel;site_employe_pour
+213_99;CARTE A MEMOIRE;Chip card;en;altLabel;zthes_UF
+213_99;CARTE A MEMOIRE;Magnetic card;en;altLabel;zthes_UF
+213_99;CARTE A MEMOIRE;Phone card;en;altLabel;zthes_UF
+222_17;DISCOURS;Argumentation;fr;altLabel;site_employe_pour
+222_17;DISCOURS;Rhétorique;fr;altLabel;site_employe_pour
+222_17;DISCOURS;Rhetoric;en;altLabel;zthes_UF
+222_17;DISCOURS;Argumentation;en;altLabel;zthes_UF
+222_22;COMMUNICATION NON VERBALE;Synergologie;fr;altLabel;site_employe_pour
+222_22;COMMUNICATION NON VERBALE;Synergology;en;altLabel;zthes_UF
+222_27;EXPOSE;Commentaire;fr;altLabel;site_employe_pour
+222_27;EXPOSE;Commentary;en;altLabel;zthes_UF
+222_30;SUGGESTION;Boîte à idées;fr;altLabel;site_employe_pour
+222_30;SUGGESTION;Suggestion box;en;altLabel;zthes_UF
+222_45;NEGOCIATION;Théorie de la négociation;fr;altLabel;site_employe_pour
+222_45;NEGOCIATION;Negotiation theory;en;altLabel;zthes_UF
+222_53;COMMUNICATION INTERNE;Marketing interne;fr;altLabel;site_employe_pour
+222_53;COMMUNICATION INTERNE;Internal marketing;en;altLabel;zthes_UF
+222_55;COMMUNICATION;Communication humaine;fr;altLabel;site_employe_pour
+222_55;COMMUNICATION;Théorie de la communication;fr;altLabel;site_employe_pour
+222_55;COMMUNICATION;Communication theory;en;altLabel;zthes_UF
+222_55;COMMUNICATION;Human communication;en;altLabel;zthes_UF
+222_59;REUNION;Réunion d'information;fr;altLabel;site_employe_pour
+222_59;REUNION;Informational meeting;en;altLabel;zthes_UF
+222_62;COMMUNICATION INSTITUTIONNELLE;Publicité institutionnelle;fr;altLabel;site_employe_pour
+222_62;COMMUNICATION INSTITUTIONNELLE;Institutional advertising;en;altLabel;zthes_UF
+222_63;POLITIQUE DE COMMUNICATION;Accueil;fr;altLabel;site_employe_pour
+222_63;POLITIQUE DE COMMUNICATION;Reception;en;altLabel;zthes_UF
+222_97;VIDEO;Vidéoclip;fr;altLabel;site_employe_pour
+222_97;VIDEO;Vidéodisque;fr;altLabel;site_employe_pour
+222_97;VIDEO;Vidéofilm;fr;altLabel;site_employe_pour
+222_97;VIDEO;Diffusion en continu;fr;altLabel;zthes_UF
+222_97;VIDEO;Streaming;en;altLabel;zthes_UF
+222_97;VIDEO;Video clip;en;altLabel;zthes_UF
+222_97;VIDEO;Video disk;en;altLabel;zthes_UF
+222_97;VIDEO;Video film;en;altLabel;zthes_UF
+223_07;DISTORSION DE L'INFORMATION;Désinformation;fr;altLabel;site_employe_pour
+223_07;DISTORSION DE L'INFORMATION;Rumeur;fr;altLabel;site_employe_pour
+223_07;DISTORSION DE L'INFORMATION;Misinformation;en;altLabel;zthes_UF
+223_07;DISTORSION DE L'INFORMATION;Rumor;en;altLabel;zthes_UF
+223_12;DOCUMENT NUMERIQUE;Document électronique;fr;altLabel;site_employe_pour
+223_12;DOCUMENT NUMERIQUE;Electronic document;en;altLabel;zthes_UF
+223_13;DOCUMENT;Littérature grise;fr;altLabel;site_employe_pour
+223_13;DOCUMENT;Publication;fr;altLabel;site_employe_pour
+223_13;DOCUMENT;Grey literature;en;altLabel;zthes_UF
+223_13;DOCUMENT;Publication;en;altLabel;zthes_UF
+223_15;SOURCE DE L'INFORMATION;Source des données;fr;altLabel;site_employe_pour
+223_15;SOURCE DE L'INFORMATION;Data source;en;altLabel;zthes_UF
+223_16;ORGANISME D'INFORMATION;Archives;fr;altLabel;site_employe_pour
+223_16;ORGANISME D'INFORMATION;Bibliothèque;fr;altLabel;site_employe_pour
+223_16;ORGANISME D'INFORMATION;Centre de documentation;fr;altLabel;site_employe_pour
+223_16;ORGANISME D'INFORMATION;Médiathèque;fr;altLabel;site_employe_pour
+223_16;ORGANISME D'INFORMATION;Archives;en;altLabel;zthes_UF
+223_16;ORGANISME D'INFORMATION;Library;en;altLabel;zthes_UF
+223_16;ORGANISME D'INFORMATION;Documentation center;en;altLabel;zthes_UF
+223_16;ORGANISME D'INFORMATION;Media library;en;altLabel;zthes_UF
+223_35;RECHERCHE DE L'INFORMATION;Recherche documentaire;fr;altLabel;site_employe_pour
+223_35;RECHERCHE DE L'INFORMATION;Documentary research;en;altLabel;zthes_UF
+223_37;TRANSMISSION DE L'INFORMATION;DSI;fr;altLabel;site_employe_pour
+223_37;TRANSMISSION DE L'INFORMATION;Diffusion sélective de l'information;fr;altLabel;site_employe_pour
+223_37;TRANSMISSION DE L'INFORMATION;Selective dissemination of information;en;altLabel;zthes_UF
+223_37;TRANSMISSION DE L'INFORMATION;SDI;en;altLabel;zthes_UF
+223_42;LECTURE OPTIQUE;Code barre;fr;altLabel;site_employe_pour
+223_42;LECTURE OPTIQUE;Scanner;fr;altLabel;site_employe_pour
+223_42;LECTURE OPTIQUE;Bar code;en;altLabel;zthes_UF
+223_42;LECTURE OPTIQUE;Scanner;en;altLabel;zthes_UF
+223_51;ANALYSE DE L'INFORMATION;Analyse documentaire;fr;altLabel;site_employe_pour
+223_51;ANALYSE DE L'INFORMATION;Indexation;fr;altLabel;site_employe_pour
+223_51;ANALYSE DE L'INFORMATION;Langage documentaire;fr;altLabel;site_employe_pour
+223_51;ANALYSE DE L'INFORMATION;Thésaurus;fr;altLabel;site_employe_pour
+223_51;ANALYSE DE L'INFORMATION;Subject analysis;en;altLabel;zthes_UF
+223_51;ANALYSE DE L'INFORMATION;Indexing;en;altLabel;zthes_UF
+223_51;ANALYSE DE L'INFORMATION;Documentary language;en;altLabel;zthes_UF
+223_51;ANALYSE DE L'INFORMATION;Thesaurus;en;altLabel;zthes_UF
+223_53;ENREGISTREMENT DE L'INFORMATION;Catalogage;fr;altLabel;site_employe_pour
+223_53;ENREGISTREMENT DE L'INFORMATION;Codage de l'information;fr;altLabel;site_employe_pour
+223_53;ENREGISTREMENT DE L'INFORMATION;Cryptage;fr;altLabel;site_employe_pour
+223_53;ENREGISTREMENT DE L'INFORMATION;Cataloguing;en;altLabel;zthes_UF
+223_53;ENREGISTREMENT DE L'INFORMATION;Information coding;en;altLabel;zthes_UF
+223_53;ENREGISTREMENT DE L'INFORMATION;Encryption;en;altLabel;zthes_UF
+223_55;SCIENCE DE L'INFORMATION;Chaîne documentaire;fr;altLabel;site_employe_pour
+223_55;SCIENCE DE L'INFORMATION;Documentation;fr;altLabel;site_employe_pour
+223_55;SCIENCE DE L'INFORMATION;Traitement de l'information;fr;altLabel;site_employe_pour
+223_55;SCIENCE DE L'INFORMATION;Information processing;en;altLabel;zthes_UF
+223_55;SCIENCE DE L'INFORMATION;Documentary chain;en;altLabel;zthes_UF
+223_55;SCIENCE DE L'INFORMATION;Documentation;en;altLabel;zthes_UF
+223_62;RFID;Radio frequency identification;fr;altLabel;site_employe_pour
+223_62;RFID;Radio frequency identification;en;altLabel;zthes_UF
+224_13;MESSAGERIE ELECTRONIQUE;Courrier électronique;fr;altLabel;site_employe_pour
+224_13;MESSAGERIE ELECTRONIQUE;E-mail;fr;altLabel;site_employe_pour
+224_13;MESSAGERIE ELECTRONIQUE;Electronic mail;en;altLabel;zthes_UF
+224_13;MESSAGERIE ELECTRONIQUE;E-mail;en;altLabel;zthes_UF
+224_21;TELEPHONIE;Messagerie vocale;fr;altLabel;site_employe_pour
+224_21;TELEPHONIE;Téléphone;fr;altLabel;site_employe_pour
+224_21;TELEPHONIE;Telephone;en;altLabel;zthes_UF
+224_21;TELEPHONIE;Voice messaging;en;altLabel;zthes_UF
+224_24;TELECONFERENCE;Audioconférence;fr;altLabel;site_employe_pour
+224_24;TELECONFERENCE;Visioconférence;fr;altLabel;site_employe_pour
+224_24;TELECONFERENCE;Audioconference;en;altLabel;zthes_UF
+224_24;TELECONFERENCE;Videoconference;en;altLabel;zthes_UF
+224_31;TELECOPIE;Fax;fr;altLabel;site_employe_pour
+224_31;TELECOPIE;Fax;en;altLabel;zthes_UF
+224_44;SERVICE DE TELECOMMUNICATION;Téléservice;fr;altLabel;site_employe_pour
+224_44;SERVICE DE TELECOMMUNICATION;Teleservice;en;altLabel;zthes_UF
+224_46;ECONOMIE NUMERIQUE;Plateforme numérique;fr;altLabel;zthes_UF
+224_46;ECONOMIE NUMERIQUE;Digital platform;en;altLabel;zthes_UF
+224_55;TIC;NTIC;fr;altLabel;site_employe_pour
+224_55;TIC;Technologie de l'information et de la communication;fr;altLabel;site_employe_pour
+224_55;TIC;Information and communication technology;en;altLabel;zthes_UF
+224_55;TIC;New information and communication technology;en;altLabel;zthes_UF
+224_72;INTRANET;Réseau social de l’entreprise;fr;altLabel;site_employe_pour
+224_72;INTRANET;Réseau social de lentreprise;fr;altLabel;zthes_UF
+224_72;INTRANET;Enterprise social network;en;altLabel;zthes_UF
+224_73;INTERNET;Web;fr;altLabel;site_employe_pour
+224_73;INTERNET;World Wide Web;en;altLabel;zthes_UF
+224_74;RESEAU DE TELECOMMUNICATION;RNIS;fr;altLabel;site_employe_pour
+224_74;RESEAU DE TELECOMMUNICATION;Réseau local;fr;altLabel;site_employe_pour
+224_74;RESEAU DE TELECOMMUNICATION;Réseau téléphonique commuté;fr;altLabel;site_employe_pour
+224_74;RESEAU DE TELECOMMUNICATION;Transpac;fr;altLabel;site_employe_pour
+224_74;RESEAU DE TELECOMMUNICATION;Local network;en;altLabel;zthes_UF
+224_74;RESEAU DE TELECOMMUNICATION;Public switched telephone network;en;altLabel;zthes_UF
+224_74;RESEAU DE TELECOMMUNICATION;ISDN;en;altLabel;zthes_UF
+224_74;RESEAU DE TELECOMMUNICATION;Transpac;en;altLabel;zthes_UF
+224_76;EDITION ELECTRONIQUE;Livre électronique;fr;altLabel;site_employe_pour
+224_76;EDITION ELECTRONIQUE;PAO;fr;altLabel;site_employe_pour
+224_76;EDITION ELECTRONIQUE;Publication assistée par ordinateur;fr;altLabel;site_employe_pour
+224_76;EDITION ELECTRONIQUE;Publication électronique;fr;altLabel;site_employe_pour
+224_76;EDITION ELECTRONIQUE;Electronic publication;en;altLabel;zthes_UF
+224_76;EDITION ELECTRONIQUE;DTP;en;altLabel;zthes_UF
+224_76;EDITION ELECTRONIQUE;Desktop publishing;en;altLabel;zthes_UF
+224_76;EDITION ELECTRONIQUE;E-book;en;altLabel;zthes_UF
+224_82;SITE INTERNET;Référencement Web;fr;altLabel;site_employe_pour
+224_82;SITE INTERNET;Site web;fr;altLabel;site_employe_pour
+224_82;SITE INTERNET;Web site;en;altLabel;zthes_UF
+224_82;SITE INTERNET;SEO;en;altLabel;zthes_UF
+224_83;INTERNET DES OBJETS;Objet connecté;fr;altLabel;site_employe_pour
+224_83;INTERNET DES OBJETS;Objet intelligent;fr;altLabel;site_employe_pour
+224_83;INTERNET DES OBJETS;Connected object;en;altLabel;zthes_UF
+224_83;INTERNET DES OBJETS;Intelligent object;en;altLabel;zthes_UF
+224_85;EDI;Echange de Données Informatisé;fr;altLabel;site_employe_pour
+224_85;EDI;Electronic data interchange;en;altLabel;zthes_UF
+224_86;GED;Archivage électronique;fr;altLabel;site_employe_pour
+224_86;GED;Gestion électronique de document;fr;altLabel;site_employe_pour
+224_86;GED;Electronic archiving;en;altLabel;zthes_UF
+224_86;GED;Electronic document management;en;altLabel;zthes_UF
+224_87;GROUPWARE;Collecticiel;fr;altLabel;site_employe_pour
+224_87;GROUPWARE;Outil collaboratif;fr;altLabel;site_employe_pour
+224_87;GROUPWARE;Teamware;en;altLabel;zthes_UF
+224_87;GROUPWARE;Collaborative tools;en;altLabel;zthes_UF
+224_92;MEDIA SOCIAL;Blog;fr;altLabel;site_employe_pour
+224_92;MEDIA SOCIAL;Wiki;fr;altLabel;site_employe_pour
+224_92;MEDIA SOCIAL;Wiki;en;altLabel;zthes_UF
+224_92;MEDIA SOCIAL;Blog;en;altLabel;zthes_UF
+311_02;COLLECTIVITE TERRITORIALE;Collectivité locale;fr;altLabel;site_employe_pour
+311_02;COLLECTIVITE TERRITORIALE;Pouvoir local;fr;altLabel;site_employe_pour
+311_02;COLLECTIVITE TERRITORIALE;Local community;en;altLabel;zthes_UF
+311_02;COLLECTIVITE TERRITORIALE;Local authority;en;altLabel;zthes_UF
+311_11;DEFENSE;Armement;fr;altLabel;site_employe_pour
+311_11;DEFENSE;Cyberdéfense;fr;altLabel;site_employe_pour
+311_11;DEFENSE;Défense nationale;fr;altLabel;site_employe_pour
+311_11;DEFENSE;Cyberdefence;en;altLabel;zthes_UF
+311_11;DEFENSE;Weapony;en;altLabel;zthes_UF
+311_11;DEFENSE;National defence;en;altLabel;zthes_UF
+311_13;JUSTICE;Pouvoir judiciaire;fr;altLabel;site_employe_pour
+311_13;JUSTICE;Judicial power;en;altLabel;zthes_UF
+311_17;CORRUPTION;Prévarication;fr;altLabel;site_employe_pour
+311_17;CORRUPTION;Corrupt practices;en;altLabel;zthes_UF
+311_23;COLONIALITE;Décolonisation;fr;altLabel;zthes_UF
+311_23;COLONIALITE;Décolonialité;fr;altLabel;zthes_UF
+311_23;COLONIALITE;Decolonization;en;altLabel;zthes_UF
+311_23;COLONIALITE;Decoloniality;en;altLabel;zthes_UF
+311_24;PARLEMENT;Pouvoir législatif;fr;altLabel;site_employe_pour
+311_24;PARLEMENT;Legislative power;en;altLabel;zthes_UF
+311_26;GROUPE DE PRESSION;Lobby;fr;altLabel;site_employe_pour
+311_26;GROUPE DE PRESSION;Lobby;en;altLabel;zthes_UF
+311_28;REGIME COMMUNISTE;Démocratie populaire;fr;altLabel;site_employe_pour
+311_28;REGIME COMMUNISTE;People's democracy;en;altLabel;zthes_UF
+311_31;GOUVERNEMENT;Pouvoir exécutif;fr;altLabel;site_employe_pour
+311_31;GOUVERNEMENT;Executive power;en;altLabel;zthes_UF
+311_33;SOUVERAINETE;Colonialisme;fr;altLabel;site_employe_pour
+311_49;DICTATURE;Fascisme;fr;altLabel;site_employe_pour
+311_49;DICTATURE;Totalitarisme;fr;altLabel;site_employe_pour
+311_49;DICTATURE;Fascism;en;altLabel;zthes_UF
+311_49;DICTATURE;Totalitarianism;en;altLabel;zthes_UF
+311_61;POLITIQUE EXTERIEURE;Politique étrangère;fr;altLabel;site_employe_pour
+311_61;POLITIQUE EXTERIEURE;Foreign policy;en;altLabel;zthes_UF
+311_72;RELATIONS INTERNATIONALES;Géopolitique;fr;altLabel;site_employe_pour
+311_72;RELATIONS INTERNATIONALES;Geopolitics;en;altLabel;zthes_UF
+311_73;UNION POLITIQUE;Intégration politique;fr;altLabel;site_employe_pour
+311_73;UNION POLITIQUE;Political integration;en;altLabel;zthes_UF
+311_79;PAYS SOCIALISTE;Pays communiste;fr;altLabel;site_employe_pour
+311_79;PAYS SOCIALISTE;Communist country;en;altLabel;zthes_UF
+311_87;NATIONALISME;Chauvinisme;fr;altLabel;site_employe_pour
+311_87;NATIONALISME;Chauvinism;en;altLabel;zthes_UF
+311_91;AIDE INTERNATIONALE;Aide extérieure;fr;altLabel;site_employe_pour
+311_91;AIDE INTERNATIONALE;Aide humanitaire;fr;altLabel;site_employe_pour
+311_91;AIDE INTERNATIONALE;Foreign assistance;en;altLabel;zthes_UF
+311_91;AIDE INTERNATIONALE;Humanitarian aid;en;altLabel;zthes_UF
+321_03;DROIT DE LA PRESSE;Droit de l'information;fr;altLabel;site_employe_pour
+321_03;DROIT DE LA PRESSE;Information law;en;altLabel;zthes_UF
+321_04;DROIT DE L'INFORMATIQUE;Cybercriminalité;fr;altLabel;site_employe_pour
+321_04;DROIT DE L'INFORMATIQUE;Cybercrime;en;altLabel;zthes_UF
+321_83;DROIT EUROPEEN;Droit communautaire;fr;altLabel;site_employe_pour
+321_83;DROIT EUROPEEN;Community law;en;altLabel;zthes_UF
+322_17;FONDS DE COMMERCE;Propriété commerciale;fr;altLabel;site_employe_pour
+322_17;FONDS DE COMMERCE;Commercial property;en;altLabel;zthes_UF
+322_24;PROCEDURE COLLECTIVE;Action de groupe;fr;altLabel;site_employe_pour
+322_24;PROCEDURE COLLECTIVE;Dépôt de bilan;fr;altLabel;site_employe_pour
+322_24;PROCEDURE COLLECTIVE;Faillite;fr;altLabel;site_employe_pour
+322_24;PROCEDURE COLLECTIVE;Liquidation des biens;fr;altLabel;site_employe_pour
+322_24;PROCEDURE COLLECTIVE;Liquidation judiciaire;fr;altLabel;site_employe_pour
+322_24;PROCEDURE COLLECTIVE;Redressement judiciaire;fr;altLabel;site_employe_pour
+322_24;PROCEDURE COLLECTIVE;Class action;en;altLabel;zthes_UF
+322_24;PROCEDURE COLLECTIVE;Receivership;en;altLabel;zthes_UF
+322_24;PROCEDURE COLLECTIVE;Bankruptcy filling;en;altLabel;zthes_UF
+322_24;PROCEDURE COLLECTIVE;Bankruptcy;en;altLabel;zthes_UF
+322_24;PROCEDURE COLLECTIVE;Assets Liquidation;en;altLabel;zthes_UF
+322_24;PROCEDURE COLLECTIVE;Legal settlement;en;altLabel;zthes_UF
+322_37;DROIT DE LA CONCURRENCE;Loi anti trust;fr;altLabel;site_employe_pour
+322_37;DROIT DE LA CONCURRENCE;Anti trust act;en;altLabel;zthes_UF
+322_44;SOCIETE D'ECONOMIE MIXTE;Entreprise d'économie mixte;fr;altLabel;site_employe_pour
+322_44;SOCIETE D'ECONOMIE MIXTE;Semi public corporation;en;altLabel;zthes_UF
+322_53;SOCIETE COMMERCIALE;Forme juridique de l'entreprise;fr;altLabel;site_employe_pour
+322_53;SOCIETE COMMERCIALE;Statut de l'entreprise;fr;altLabel;site_employe_pour
+322_53;SOCIETE COMMERCIALE;Company legal structure;en;altLabel;zthes_UF
+322_53;SOCIETE COMMERCIALE;Company status;en;altLabel;zthes_UF
+322_55;DROIT COMMERCIAL;Droit de la distribution;fr;altLabel;site_employe_pour
+322_55;DROIT COMMERCIAL;Droit de la publicité;fr;altLabel;site_employe_pour
+322_55;DROIT COMMERCIAL;Droit des affaires;fr;altLabel;site_employe_pour
+322_55;DROIT COMMERCIAL;Droit des sociétés;fr;altLabel;site_employe_pour
+322_55;DROIT COMMERCIAL;Droit du marketing;fr;altLabel;site_employe_pour
+322_55;DROIT COMMERCIAL;Gage commercial;fr;altLabel;site_employe_pour
+322_55;DROIT COMMERCIAL;Registre du commerce;fr;altLabel;site_employe_pour
+322_55;DROIT COMMERCIAL;Tribunal de commerce;fr;altLabel;site_employe_pour
+322_55;DROIT COMMERCIAL;Marketing law;en;altLabel;zthes_UF
+322_55;DROIT COMMERCIAL;Corporate law;en;altLabel;zthes_UF
+322_55;DROIT COMMERCIAL;Distribution law;en;altLabel;zthes_UF
+322_55;DROIT COMMERCIAL;Commercial pledge;en;altLabel;zthes_UF
+322_55;DROIT COMMERCIAL;Trade register;en;altLabel;zthes_UF
+322_55;DROIT COMMERCIAL;Commercial court;en;altLabel;zthes_UF
+322_55;DROIT COMMERCIAL;Business law;en;altLabel;zthes_UF
+322_55;DROIT COMMERCIAL;Publicity law;en;altLabel;zthes_UF
+322_61;GEIE;Groupement européen d'intérêt économique;fr;altLabel;site_employe_pour
+322_61;GEIE;European Economic Interest Grouping;en;altLabel;zthes_UF
+322_62;GIE;Groupement d'intérêt économique;fr;altLabel;site_employe_pour
+322_62;GIE;Economic interest group;en;altLabel;zthes_UF
+322_64;SOCIETE EN NOM COLLECTIF;Société de personnes;fr;altLabel;site_employe_pour
+322_64;SOCIETE EN NOM COLLECTIF;Limited liability partnership;en;altLabel;zthes_UF
+322_66;DROIT BANCAIRE ET BOURSIER;Blanchiment d'argent;fr;altLabel;site_employe_pour
+322_66;DROIT BANCAIRE ET BOURSIER;Criminalité financière;fr;altLabel;site_employe_pour
+322_66;DROIT BANCAIRE ET BOURSIER;Droit financier;fr;altLabel;site_employe_pour
+322_66;DROIT BANCAIRE ET BOURSIER;Financial law;en;altLabel;zthes_UF
+322_66;DROIT BANCAIRE ET BOURSIER;Money laundering;en;altLabel;zthes_UF
+322_66;DROIT BANCAIRE ET BOURSIER;Financial crime;en;altLabel;zthes_UF
+322_71;EURL;Entreprise unipersonnelle;fr;altLabel;site_employe_pour
+322_71;EURL;Sole ownership corporation;en;altLabel;zthes_UF
+322_72;SARL;Société à responsabilité limitée;fr;altLabel;site_employe_pour
+322_72;SARL;Closely held company;en;altLabel;zthes_UF
+322_83;SOCIETE PAR ACTIONS;Assemblée générale;fr;altLabel;site_employe_pour
+322_83;SOCIETE PAR ACTIONS;Société de capitaux;fr;altLabel;site_employe_pour
+322_83;SOCIETE PAR ACTIONS;General meeting;en;altLabel;zthes_UF
+322_83;SOCIETE PAR ACTIONS;Joint stock company;en;altLabel;zthes_UF
+322_84;ACTIONNAIRE;Actionnariat;fr;altLabel;site_employe_pour
+322_84;ACTIONNAIRE;Shareholding;en;altLabel;zthes_UF
+322_94;SOCIETE PAR ACTIONS SIMPLIFIEE;SAS;fr;altLabel;site_employe_pour
+322_94;SOCIETE PAR ACTIONS SIMPLIFIEE;SASU;fr;altLabel;site_employe_pour
+322_94;SOCIETE PAR ACTIONS SIMPLIFIEE;Limited joint-stock company under sole ownership;en;altLabel;zthes_UF
+322_94;SOCIETE PAR ACTIONS SIMPLIFIEE;Limited joint-stock company;en;altLabel;zthes_UF
+323_10;ASSOCIATION PROFESSIONNELLE;Organisme professionnel;fr;altLabel;site_employe_pour
+323_10;ASSOCIATION PROFESSIONNELLE;Professional organization;en;altLabel;zthes_UF
+323_22;ORGANISME SANS BUT LUCRATIF;Association loi de 1901;fr;altLabel;site_employe_pour
+323_22;ORGANISME SANS BUT LUCRATIF;Association loi de 1901;en;altLabel;zthes_UF
+323_35;GARANTIE;Caution;fr;altLabel;site_employe_pour
+323_35;GARANTIE;Surety;en;altLabel;zthes_UF
+323_42;DONNEE PERSONNELLE;RGPD;fr;altLabel;zthes_UF
+323_42;DONNEE PERSONNELLE;GDPR;en;altLabel;zthes_UF
+323_55;DROIT CIVIL;Droit de succession;fr;altLabel;site_employe_pour
+323_55;DROIT CIVIL;Nationalité;fr;altLabel;site_employe_pour
+323_55;DROIT CIVIL;Legacy duties;en;altLabel;zthes_UF
+323_55;DROIT CIVIL;Nationality;en;altLabel;zthes_UF
+323_71;PROPRIETE INDUSTRIELLE;Licence;fr;altLabel;site_employe_pour
+323_71;PROPRIETE INDUSTRIELLE;License;en;altLabel;zthes_UF
+323_92;DROIT D'AUTEUR;Droits voisins;fr;altLabel;site_employe_pour
+323_92;DROIT D'AUTEUR;Related rights;en;altLabel;zthes_UF
+324_22;ACCORD COLLECTIF;Convention collective;fr;altLabel;site_employe_pour
+324_22;ACCORD COLLECTIF;Collective bargaining agreement;en;altLabel;zthes_UF
+324_32;NEGOCIATION COLLECTIVE;Commission paritaire;fr;altLabel;site_employe_pour
+324_32;NEGOCIATION COLLECTIVE;Institution paritaire;fr;altLabel;site_employe_pour
+324_32;NEGOCIATION COLLECTIVE;Joint Committee;en;altLabel;zthes_UF
+324_32;NEGOCIATION COLLECTIVE;Joint institution;en;altLabel;zthes_UF
+324_53;DROIT DU TRAVAIL;Inspection du travail;fr;altLabel;site_employe_pour
+324_53;DROIT DU TRAVAIL;Factory inspectorate;en;altLabel;zthes_UF
+324_70;CDD;Contrat à durée déterminée;fr;altLabel;site_employe_pour
+324_70;CDD;Fixed-term contract;en;altLabel;zthes_UF
+324_71;CONTRAT DE TRAVAIL;Démission;fr;altLabel;site_employe_pour
+324_71;CONTRAT DE TRAVAIL;Rupture du contrat de travail;fr;altLabel;site_employe_pour
+324_71;CONTRAT DE TRAVAIL;Resignation;en;altLabel;zthes_UF
+324_71;CONTRAT DE TRAVAIL;Breach of the work contract;en;altLabel;zthes_UF
+324_74;DROIT DE LA SANTE;Droit de la responsabilité médicale;fr;altLabel;site_employe_pour
+324_74;DROIT DE LA SANTE;Droit des malades;fr;altLabel;site_employe_pour
+324_74;DROIT DE LA SANTE;Droit hospitalier;fr;altLabel;site_employe_pour
+324_74;DROIT DE LA SANTE;Patient law;en;altLabel;zthes_UF
+324_74;DROIT DE LA SANTE;Hospital law;en;altLabel;zthes_UF
+324_74;DROIT DE LA SANTE;Medical responsibility law;en;altLabel;zthes_UF
+324_80;CDI;Contrat à durée indéterminée;fr;altLabel;site_employe_pour
+324_80;CDI;Permanent contract;en;altLabel;zthes_UF
+331_10;ECONOMIE COMPORTEMENTALE;Economie expérimentale;fr;altLabel;site_employe_pour
+331_10;ECONOMIE COMPORTEMENTALE;Experimental economics;en;altLabel;zthes_UF
+331_11;MICROECONOMIE;Economie d'entreprise;fr;altLabel;site_employe_pour
+331_11;MICROECONOMIE;Corporate economics;en;altLabel;zthes_UF
+331_44;INFLATION;Déflation;fr;altLabel;site_employe_pour
+331_44;INFLATION;Stagflation;fr;altLabel;site_employe_pour
+331_44;INFLATION;Deflation;en;altLabel;zthes_UF
+331_44;INFLATION;Stagflation;en;altLabel;zthes_UF
+331_48;THEORIE DES COUTS DE TRANSACTION;Coût de transaction;fr;altLabel;site_employe_pour
+331_48;THEORIE DES COUTS DE TRANSACTION;Transaction cost;en;altLabel;zthes_UF
+331_94;OLIGOPOLE;Cartel;fr;altLabel;site_employe_pour
+331_94;OLIGOPOLE;Cartel;en;altLabel;zthes_UF
+331_97;CRISE ECONOMIQUE;Crise financière;fr;altLabel;site_employe_pour
+331_97;CRISE ECONOMIQUE;Pénurie;fr;altLabel;site_employe_pour
+331_97;CRISE ECONOMIQUE;Shortage;en;altLabel;zthes_UF
+331_97;CRISE ECONOMIQUE;Financial crisis;en;altLabel;zthes_UF
+331_98;CROISSANCE ECONOMIQUE;Stagnation;fr;altLabel;site_employe_pour
+331_98;CROISSANCE ECONOMIQUE;Stagnation;en;altLabel;zthes_UF
+332_18;AGREGAT;Agrégat de la comptabilité;fr;altLabel;site_employe_pour
+332_18;AGREGAT;Accounting aggregate;en;altLabel;zthes_UF
+332_19;PRODUIT NATIONAL;PIB;fr;altLabel;site_employe_pour
+332_19;PRODUIT NATIONAL;PNB;fr;altLabel;site_employe_pour
+332_19;PRODUIT NATIONAL;Richesse;fr;altLabel;site_employe_pour
+332_19;PRODUIT NATIONAL;GDP;en;altLabel;zthes_UF
+332_19;PRODUIT NATIONAL;GNP;en;altLabel;zthes_UF
+332_19;PRODUIT NATIONAL;Wealth;en;altLabel;zthes_UF
+332_24;DEPENSE PUBLIQUE;Dépense de l'Etat;fr;altLabel;site_employe_pour
+332_24;DEPENSE PUBLIQUE;National expenditure;en;altLabel;zthes_UF
+332_28;COMPTABILITE NATIONALE;Comptes nationaux;fr;altLabel;site_employe_pour
+332_28;COMPTABILITE NATIONALE;National accounts;en;altLabel;zthes_UF
+332_32;CAPITALISME;Economie concertée;fr;altLabel;site_employe_pour
+332_32;CAPITALISME;Directed economy;en;altLabel;zthes_UF
+332_42;REGIME ECONOMIQUE;Régime de propriété;fr;altLabel;site_employe_pour
+332_42;REGIME ECONOMIQUE;Ownership system;en;altLabel;zthes_UF
+332_44;FINANCES PUBLIQUES;Politique financière;fr;altLabel;site_employe_pour
+332_44;FINANCES PUBLIQUES;Financial policy;en;altLabel;zthes_UF
+332_52;ECONOMIE SOCIALE ET SOLIDAIRE;Consommation collaborative;fr;altLabel;site_employe_pour
+332_52;ECONOMIE SOCIALE ET SOLIDAIRE;Economie collaborative;fr;altLabel;site_employe_pour
+332_52;ECONOMIE SOCIALE ET SOLIDAIRE;Economie du partage;fr;altLabel;site_employe_pour
+332_52;ECONOMIE SOCIALE ET SOLIDAIRE;Transferts sociaux;fr;altLabel;site_employe_pour
+332_52;ECONOMIE SOCIALE ET SOLIDAIRE;Circuit court;fr;altLabel;zthes_UF
+332_52;ECONOMIE SOCIALE ET SOLIDAIRE;Sharing economy;en;altLabel;zthes_UF
+332_52;ECONOMIE SOCIALE ET SOLIDAIRE;Collaborative economy;en;altLabel;zthes_UF
+332_52;ECONOMIE SOCIALE ET SOLIDAIRE;Local distribution channel;en;altLabel;zthes_UF
+332_52;ECONOMIE SOCIALE ET SOLIDAIRE;Collaborative consumption;en;altLabel;zthes_UF
+332_52;ECONOMIE SOCIALE ET SOLIDAIRE;Welfare transfers;en;altLabel;zthes_UF
+332_55;ECONOMIE POLITIQUE;Science économique;fr;altLabel;site_employe_pour
+332_55;ECONOMIE POLITIQUE;Economics;en;altLabel;zthes_UF
+332_58;REGION;Développement local;fr;altLabel;site_employe_pour
+332_58;REGION;Développement régional;fr;altLabel;site_employe_pour
+332_58;REGION;Economie régionale;fr;altLabel;site_employe_pour
+332_58;REGION;Local development;en;altLabel;zthes_UF
+332_58;REGION;Regional economy;en;altLabel;zthes_UF
+332_58;REGION;Regional development;en;altLabel;zthes_UF
+332_68;ZONE D'ACTIVITE;Technopôle;fr;altLabel;site_employe_pour
+332_68;ZONE D'ACTIVITE;Zone artisanale;fr;altLabel;site_employe_pour
+332_68;ZONE D'ACTIVITE;Zone industrielle;fr;altLabel;site_employe_pour
+332_68;ZONE D'ACTIVITE;Technology park;en;altLabel;zthes_UF
+332_68;ZONE D'ACTIVITE;Small business area;en;altLabel;zthes_UF
+332_68;ZONE D'ACTIVITE;Industrial area;en;altLabel;zthes_UF
+332_69;ZONE URBAINE;Ville;fr;altLabel;site_employe_pour
+332_69;ZONE URBAINE;City;en;altLabel;zthes_UF
+332_74;POLITIQUE INDUSTRIELLE;Industrialisation;fr;altLabel;site_employe_pour
+332_74;POLITIQUE INDUSTRIELLE;Industrialization;en;altLabel;zthes_UF
+332_77;PLANIFICATION;Planification sectorielle;fr;altLabel;site_employe_pour
+332_77;PLANIFICATION;Sectoral planning;en;altLabel;zthes_UF
+332_79;AMENAGEMENT DU TERRITOIRE;Fracture numérique;fr;altLabel;site_employe_pour
+332_79;AMENAGEMENT DU TERRITOIRE;Digital divide;en;altLabel;zthes_UF
+332_92;MARCHE DE L'OCCASION;Seconde main;fr;altLabel;zthes_UF
+332_92;MARCHE DE L'OCCASION;Second hand;en;altLabel;zthes_UF
+332_96;PRODUCTION AGRICOLE;Elevage;fr;altLabel;site_employe_pour
+332_96;PRODUCTION AGRICOLE;Breeding;en;altLabel;zthes_UF
+332_97;AGRICULTURE;Remembrement agricole;fr;altLabel;site_employe_pour
+332_97;AGRICULTURE;Land consolidation;en;altLabel;zthes_UF
+332_99;ZONE RURALE;Campagne;fr;altLabel;site_employe_pour
+332_99;ZONE RURALE;Countryside;en;altLabel;zthes_UF
+333_14;PROTECTIONNISME;Entrave au commerce extérieur;fr;altLabel;site_employe_pour
+333_14;PROTECTIONNISME;Restriction quantitative;fr;altLabel;site_employe_pour
+333_14;PROTECTIONNISME;Foreign trade block;en;altLabel;zthes_UF
+333_14;PROTECTIONNISME;Quantitative restriction;en;altLabel;zthes_UF
+333_16;LIBRE ECHANGE;Libéralisation des échanges;fr;altLabel;site_employe_pour
+333_16;LIBRE ECHANGE;Liberalization of trade;en;altLabel;zthes_UF
+333_22;DOUANE;Tarif douanier;fr;altLabel;site_employe_pour
+333_22;DOUANE;Zone franche;fr;altLabel;site_employe_pour
+333_22;DOUANE;Customs rate;en;altLabel;zthes_UF
+333_22;DOUANE;Free zone;en;altLabel;zthes_UF
+333_27;UNION ECONOMIQUE;Intégration régionale;fr;altLabel;site_employe_pour
+333_27;UNION ECONOMIQUE;Intégration économique;fr;altLabel;site_employe_pour
+333_27;UNION ECONOMIQUE;Régionalisme;fr;altLabel;site_employe_pour
+333_27;UNION ECONOMIQUE;Union douanière;fr;altLabel;site_employe_pour
+333_27;UNION ECONOMIQUE;Economic integration;en;altLabel;zthes_UF
+333_27;UNION ECONOMIQUE;Customs union;en;altLabel;zthes_UF
+333_27;UNION ECONOMIQUE;Regional integration;en;altLabel;zthes_UF
+333_27;UNION ECONOMIQUE;Regionalism;en;altLabel;zthes_UF
+333_42;COMMERCE EXTERIEUR;Encouragement au commerce extérieur;fr;altLabel;site_employe_pour
+333_42;COMMERCE EXTERIEUR;Transit;fr;altLabel;site_employe_pour
+333_42;COMMERCE EXTERIEUR;Foreign trade incentive;en;altLabel;zthes_UF
+333_42;COMMERCE EXTERIEUR;Transit;en;altLabel;zthes_UF
+333_54;MONDIALISATION;Altermondialisation;fr;altLabel;site_employe_pour
+333_54;MONDIALISATION;Alterglobalization;en;altLabel;zthes_UF
+333_60;AVANTAGE COMPARATIF;Coût comparatif;fr;altLabel;site_employe_pour
+333_60;AVANTAGE COMPARATIF;Comparative cost;en;altLabel;zthes_UF
+333_63;FINANCE INTERNATIONALE;Finances extérieures;fr;altLabel;site_employe_pour
+333_63;FINANCE INTERNATIONALE;External finances;en;altLabel;zthes_UF
+333_72;BALANCE DES PAIEMENTS;Balance des comptes;fr;altLabel;site_employe_pour
+333_72;BALANCE DES PAIEMENTS;Balance of accounts;en;altLabel;zthes_UF
+333_75;INVESTISSEMENT DIRECT A L'ETRANGER;IDE;fr;altLabel;site_employe_pour
+333_75;INVESTISSEMENT DIRECT A L'ETRANGER;Investissement à l'étranger;fr;altLabel;site_employe_pour
+333_75;INVESTISSEMENT DIRECT A L'ETRANGER;Investissement étranger;fr;altLabel;site_employe_pour
+333_75;INVESTISSEMENT DIRECT A L'ETRANGER;Investment abroad;en;altLabel;zthes_UF
+333_75;INVESTISSEMENT DIRECT A L'ETRANGER;Foreign investment;en;altLabel;zthes_UF
+333_75;INVESTISSEMENT DIRECT A L'ETRANGER;FDI;en;altLabel;zthes_UF
+333_84;COOPERATION INTERNATIONALE;Coopération professionnelle internationale;fr;altLabel;site_employe_pour
+333_84;COOPERATION INTERNATIONALE;Francophonie;fr;altLabel;site_employe_pour
+333_84;COOPERATION INTERNATIONALE;International professional cooperation;en;altLabel;zthes_UF
+333_84;COOPERATION INTERNATIONALE;French-speaking community;en;altLabel;zthes_UF
+333_86;PAYS EN DEVELOPPEMENT;Marché émergent;fr;altLabel;site_employe_pour
+333_86;PAYS EN DEVELOPPEMENT;NPI;fr;altLabel;site_employe_pour
+333_86;PAYS EN DEVELOPPEMENT;Nouveau pays industrialisé;fr;altLabel;site_employe_pour
+333_86;PAYS EN DEVELOPPEMENT;PMA;fr;altLabel;site_employe_pour
+333_86;PAYS EN DEVELOPPEMENT;PVD;fr;altLabel;site_employe_pour
+333_86;PAYS EN DEVELOPPEMENT;Pays en transition;fr;altLabel;site_employe_pour
+333_86;PAYS EN DEVELOPPEMENT;Pays en voie de développement;fr;altLabel;site_employe_pour
+333_86;PAYS EN DEVELOPPEMENT;Pays les moins avancés;fr;altLabel;site_employe_pour
+333_86;PAYS EN DEVELOPPEMENT;Pays non alignés;fr;altLabel;site_employe_pour
+333_86;PAYS EN DEVELOPPEMENT;Pays émergent;fr;altLabel;site_employe_pour
+333_86;PAYS EN DEVELOPPEMENT;Emergent country;en;altLabel;zthes_UF
+333_86;PAYS EN DEVELOPPEMENT;NIC;en;altLabel;zthes_UF
+333_86;PAYS EN DEVELOPPEMENT;Newly industrialized country;en;altLabel;zthes_UF
+333_86;PAYS EN DEVELOPPEMENT;LDCs;en;altLabel;zthes_UF
+333_86;PAYS EN DEVELOPPEMENT;Least developed countries;en;altLabel;zthes_UF
+333_86;PAYS EN DEVELOPPEMENT;Non aligned movement countries;en;altLabel;zthes_UF
+333_86;PAYS EN DEVELOPPEMENT;Emerging market;en;altLabel;zthes_UF
+333_86;PAYS EN DEVELOPPEMENT;Pays en voie de développement 'French term';en;altLabel;zthes_UF
+333_86;PAYS EN DEVELOPPEMENT;PVD 'French term';en;altLabel;zthes_UF
+333_86;PAYS EN DEVELOPPEMENT;Country in transition;en;altLabel;zthes_UF
+333_88;PAYS INDUSTRIALISE;Pays développé;fr;altLabel;site_employe_pour
+333_88;PAYS INDUSTRIALISE;Developed country;en;altLabel;zthes_UF
+334_53;FISCALITE;Impôt;fr;altLabel;site_employe_pour
+334_53;FISCALITE;Planification fiscale;fr;altLabel;site_employe_pour
+334_53;FISCALITE;Taxation;fr;altLabel;site_employe_pour
+334_53;FISCALITE;Tax;en;altLabel;zthes_UF
+334_53;FISCALITE;Assessment;en;altLabel;zthes_UF
+334_53;FISCALITE;Tax planning;en;altLabel;zthes_UF
+334_83;IMPOT SUR LA CONSOMMATION;Taxe de luxe;fr;altLabel;site_employe_pour
+334_83;IMPOT SUR LA CONSOMMATION;Tax on luxury goods;en;altLabel;zthes_UF
+334_90;DROIT DE MUTATION;Impôt sur la mutation;fr;altLabel;site_employe_pour
+334_90;DROIT DE MUTATION;Transfer tax;en;altLabel;zthes_UF
+334_93;TVA;Taxe à la valeur ajoutée;fr;altLabel;site_employe_pour
+334_93;TVA;Value added tax;en;altLabel;zthes_UF
+335_03;TAUX DE CHANGE;Cours du change;fr;altLabel;site_employe_pour
+335_03;TAUX DE CHANGE;Exchange rate;en;altLabel;zthes_UF
+335_07;CRYPTOMONNAIE;Bitcoin;fr;altLabel;site_employe_pour
+335_07;CRYPTOMONNAIE;Bitcoin;en;altLabel;zthes_UF
+335_17;MONNAIE ELECTRONIQUE;Carte de crédit;fr;altLabel;site_employe_pour
+335_17;MONNAIE ELECTRONIQUE;Carte de paiement;fr;altLabel;site_employe_pour
+335_17;MONNAIE ELECTRONIQUE;Credit card;en;altLabel;zthes_UF
+335_17;MONNAIE ELECTRONIQUE;Payment card;en;altLabel;zthes_UF
+335_27;MOYEN DE PAIEMENT;Paiement en ligne;fr;altLabel;site_employe_pour
+335_27;MOYEN DE PAIEMENT;Online payment;en;altLabel;zthes_UF
+335_31;CHANGEMENT DE PARITE;Dévaluation;fr;altLabel;site_employe_pour
+335_31;CHANGEMENT DE PARITE;Réévaluation;fr;altLabel;site_employe_pour
+335_31;CHANGEMENT DE PARITE;Devaluation;en;altLabel;zthes_UF
+335_31;CHANGEMENT DE PARITE;Revaluation;en;altLabel;zthes_UF
+335_34;OPERATION DE CHANGE;Change;fr;altLabel;site_employe_pour
+335_34;OPERATION DE CHANGE;Exchange;en;altLabel;zthes_UF
+335_45;TECHNOLOGIE FINANCIERE;Fintech;fr;altLabel;site_employe_pour
+335_45;TECHNOLOGIE FINANCIERE;Fintech;en;altLabel;zthes_UF
+335_46;TAUX D'INTERET;Intérêt;fr;altLabel;site_employe_pour
+335_46;TAUX D'INTERET;Interest;en;altLabel;zthes_UF
+335_47;OPERATION DE BANQUE;Compensation bancaire;fr;altLabel;site_employe_pour
+335_47;OPERATION DE BANQUE;Compte courant;fr;altLabel;site_employe_pour
+335_47;OPERATION DE BANQUE;Report bancaire;fr;altLabel;site_employe_pour
+335_47;OPERATION DE BANQUE;Transfert de fonds;fr;altLabel;site_employe_pour
+335_47;OPERATION DE BANQUE;Bank clearing;en;altLabel;zthes_UF
+335_47;OPERATION DE BANQUE;Current account;en;altLabel;zthes_UF
+335_47;OPERATION DE BANQUE;Banking carried forward;en;altLabel;zthes_UF
+335_47;OPERATION DE BANQUE;Fund transfer;en;altLabel;zthes_UF
+335_48;OPERATION DE CREDIT;Escompte;fr;altLabel;site_employe_pour
+335_48;OPERATION DE CREDIT;Discount;en;altLabel;zthes_UF
+335_67;BANQUE;Etablissement de crédit;fr;altLabel;site_employe_pour
+335_67;BANQUE;Credit institution;en;altLabel;zthes_UF
+335_71;DROITS DE TIRAGE SPECIAUX;DTS;fr;altLabel;site_employe_pour
+335_71;DROITS DE TIRAGE SPECIAUX;SDR;en;altLabel;zthes_UF
+335_72;ZONE MONETAIRE;Zone dollar;fr;altLabel;site_employe_pour
+335_72;ZONE MONETAIRE;Zone euro;fr;altLabel;site_employe_pour
+335_72;ZONE MONETAIRE;Zone franc;fr;altLabel;site_employe_pour
+335_72;ZONE MONETAIRE;Dollar area;en;altLabel;zthes_UF
+335_72;ZONE MONETAIRE;Euro zone;en;altLabel;zthes_UF
+335_72;ZONE MONETAIRE;French franc area;en;altLabel;zthes_UF
+335_81;SMI;Système monétaire international;fr;altLabel;site_employe_pour
+335_81;SMI;International monetary system;en;altLabel;zthes_UF
+335_82;SME;Système monétaire européen;fr;altLabel;site_employe_pour
+335_82;SME;European monetary system;en;altLabel;zthes_UF
+335_83;EURO;ECU;fr;altLabel;site_employe_pour
+335_83;EURO;Monnaie unique européenne;fr;altLabel;site_employe_pour
+335_83;EURO;ECU;en;altLabel;zthes_UF
+335_83;EURO;European currency unit;en;altLabel;zthes_UF
+335_91;EURODEVISE;Eurodollar;fr;altLabel;site_employe_pour
+335_91;EURODEVISE;Euroobligation;fr;altLabel;site_employe_pour
+335_91;EURODEVISE;Eurodollar;en;altLabel;zthes_UF
+335_91;EURODEVISE;Euro bond;en;altLabel;zthes_UF
+335_98;BANQUE CENTRALE;Banque d'Etat;fr;altLabel;site_employe_pour
+335_98;BANQUE CENTRALE;State Bank;en;altLabel;zthes_UF
+341_14;PETROLE;Recherche pétrolière;fr;altLabel;site_employe_pour
+341_14;PETROLE;Oil research;en;altLabel;zthes_UF
+341_22;BIOCARBURANT;Agrocarburant;fr;altLabel;site_employe_pour
+341_22;BIOCARBURANT;Agrofuel;en;altLabel;zthes_UF
+341_33;COMBUSTIBLE;Carburant;fr;altLabel;zthes_UF
+341_33;COMBUSTIBLE;Fuel;en;altLabel;zthes_UF
+341_37;EXPLOITATION DE L'ENERGIE;Mine;fr;altLabel;site_employe_pour
+341_37;EXPLOITATION DE L'ENERGIE;Offshore;fr;altLabel;site_employe_pour
+341_37;EXPLOITATION DE L'ENERGIE;Onshore;fr;altLabel;site_employe_pour
+341_37;EXPLOITATION DE L'ENERGIE;Mine;en;altLabel;zthes_UF
+341_37;EXPLOITATION DE L'ENERGIE;Offshore;en;altLabel;zthes_UF
+341_37;EXPLOITATION DE L'ENERGIE;Onshore;en;altLabel;zthes_UF
+341_55;ENERGIE;Economie de l'énergie;fr;altLabel;site_employe_pour
+341_55;ENERGIE;Marché de l'énergie;fr;altLabel;site_employe_pour
+341_55;ENERGIE;Energy economy;en;altLabel;zthes_UF
+341_55;ENERGIE;Energy market;en;altLabel;zthes_UF
+341_57;POLITIQUE ENERGETIQUE;Taxe carbone;fr;altLabel;site_employe_pour
+341_57;POLITIQUE ENERGETIQUE;Carbon tax;en;altLabel;zthes_UF
+341_63;SOURCE D'ENERGIE;Lumière;fr;altLabel;site_employe_pour
+341_63;SOURCE D'ENERGIE;Vent;fr;altLabel;site_employe_pour
+341_63;SOURCE D'ENERGIE;Light;en;altLabel;zthes_UF
+341_63;SOURCE D'ENERGIE;Wind;en;altLabel;zthes_UF
+341_65;ELECTRICITE;Energie électrique;fr;altLabel;site_employe_pour
+341_65;ELECTRICITE;Electric power;en;altLabel;zthes_UF
+341_84;ENERGIE NUCLEAIRE;Uranium;fr;altLabel;site_employe_pour
+341_84;ENERGIE NUCLEAIRE;Uranium;en;altLabel;zthes_UF
+341_95;CENTRALE ELECTRIQUE;Centrale hydro électrique;fr;altLabel;site_employe_pour
+341_95;CENTRALE ELECTRIQUE;Centrale nucléaire;fr;altLabel;site_employe_pour
+341_95;CENTRALE ELECTRIQUE;Centrale thermique;fr;altLabel;site_employe_pour
+341_95;CENTRALE ELECTRIQUE;Hydro electric power plant;en;altLabel;zthes_UF
+341_95;CENTRALE ELECTRIQUE;Nuclear power station;en;altLabel;zthes_UF
+341_95;CENTRALE ELECTRIQUE;Thermal power station;en;altLabel;zthes_UF
+342_22;DECHET;Déjection;fr;altLabel;site_employe_pour
+342_22;DECHET;Résidu;fr;altLabel;site_employe_pour
+342_22;DECHET;Excrement;en;altLabel;zthes_UF
+342_22;DECHET;Residue;en;altLabel;zthes_UF
+342_27;POLLUTION THERMIQUE;Rejet thermique;fr;altLabel;site_employe_pour
+342_27;POLLUTION THERMIQUE;Thermal discharge;en;altLabel;zthes_UF
+342_36;LUTTE ANTIPOLLUTION;Permis de pollution négociable;fr;altLabel;site_employe_pour
+342_36;LUTTE ANTIPOLLUTION;Tradable emission permit;en;altLabel;zthes_UF
+342_38;POLLUTION;Analyse de la pollution;fr;altLabel;site_employe_pour
+342_38;POLLUTION;Nuisance;fr;altLabel;site_employe_pour
+342_38;POLLUTION;Pollution analysis;en;altLabel;zthes_UF
+342_38;POLLUTION;Environmental nuisance;en;altLabel;zthes_UF
+342_51;DEVELOPPEMENT DURABLE;Soutenabilité environnementale;fr;altLabel;zthes_UF
+342_51;DEVELOPPEMENT DURABLE;Environmental sustainability;en;altLabel;zthes_UF
+342_58;ALIMENTATION EN EAU;Irrigation;fr;altLabel;site_employe_pour
+342_58;ALIMENTATION EN EAU;Irrigation;en;altLabel;zthes_UF
+342_62;POLITIQUE DE L'ENVIRONNEMENT;Economie de l'environnement;fr;altLabel;site_employe_pour
+342_62;POLITIQUE DE L'ENVIRONNEMENT;Economie verte;fr;altLabel;site_employe_pour
+342_62;POLITIQUE DE L'ENVIRONNEMENT;Environmental economy;en;altLabel;zthes_UF
+342_62;POLITIQUE DE L'ENVIRONNEMENT;Green economy;en;altLabel;zthes_UF
+342_68;EAU;Mer;fr;altLabel;site_employe_pour
+342_68;EAU;Sea;en;altLabel;zthes_UF
+342_77;PATRIMOINE NATUREL;Ressource naturelle;fr;altLabel;site_employe_pour
+342_77;PATRIMOINE NATUREL;Natural resource;en;altLabel;zthes_UF
+342_81;BRUIT;Lutte antibruit;fr;altLabel;site_employe_pour
+342_81;BRUIT;Fight against noise pollution;en;altLabel;zthes_UF
+342_94;AMENAGEMENT DE L'ESPACE;Protection des sites;fr;altLabel;site_employe_pour
+342_94;AMENAGEMENT DE L'ESPACE;Site protection;en;altLabel;zthes_UF
+342_99;CATASTROPHE NATURELLE;Avalanche;fr;altLabel;site_employe_pour
+342_99;CATASTROPHE NATURELLE;Eruption volcanique;fr;altLabel;site_employe_pour
+342_99;CATASTROPHE NATURELLE;Glissement de terrain;fr;altLabel;site_employe_pour
+342_99;CATASTROPHE NATURELLE;Incendie de forêt;fr;altLabel;site_employe_pour
+342_99;CATASTROPHE NATURELLE;Inondation;fr;altLabel;site_employe_pour
+342_99;CATASTROPHE NATURELLE;Raz de marée;fr;altLabel;site_employe_pour
+342_99;CATASTROPHE NATURELLE;Séisme;fr;altLabel;site_employe_pour
+342_99;CATASTROPHE NATURELLE;Avalanche;en;altLabel;zthes_UF
+342_99;CATASTROPHE NATURELLE;Volcanic eruption;en;altLabel;zthes_UF
+342_99;CATASTROPHE NATURELLE;Landslide;en;altLabel;zthes_UF
+342_99;CATASTROPHE NATURELLE;Forest fire;en;altLabel;zthes_UF
+342_99;CATASTROPHE NATURELLE;Flood;en;altLabel;zthes_UF
+342_99;CATASTROPHE NATURELLE;Tidal wave;en;altLabel;zthes_UF
+342_99;CATASTROPHE NATURELLE;Earthquake;en;altLabel;zthes_UF
+351_14;DROGUE;Lutte contre les drogues;fr;altLabel;site_employe_pour
+351_14;DROGUE;Fight against drugs;en;altLabel;zthes_UF
+351_24;ALIMENTATION;Nutrition;fr;altLabel;site_employe_pour
+351_24;ALIMENTATION;Nutrition;en;altLabel;zthes_UF
+351_30;ASSURANCE VIE;Assurance décès;fr;altLabel;site_employe_pour
+351_30;ASSURANCE VIE;Death insurance;en;altLabel;zthes_UF
+351_31;ASSURANCE;Réassurance;fr;altLabel;site_employe_pour
+351_31;ASSURANCE;Reinsurance;en;altLabel;zthes_UF
+351_36;BIEN COMMUN;Intérêt général;fr;altLabel;zthes_UF
+351_36;BIEN COMMUN;Bien public;fr;altLabel;zthes_UF
+351_36;BIEN COMMUN;General interest;en;altLabel;zthes_UF
+351_36;BIEN COMMUN;Public good;en;altLabel;zthes_UF
+351_44;ETABLISSEMENT DE SOINS;Clinique;fr;altLabel;site_employe_pour
+351_44;ETABLISSEMENT DE SOINS;Hôpital;fr;altLabel;site_employe_pour
+351_44;ETABLISSEMENT DE SOINS;Private clinic;en;altLabel;zthes_UF
+351_44;ETABLISSEMENT DE SOINS;Hospital;en;altLabel;zthes_UF
+351_53;SANTE;Santé publique;fr;altLabel;site_employe_pour
+351_53;SANTE;Public health;en;altLabel;zthes_UF
+351_54;INFRASTRUCTURE SANITAIRE ET SOCIALE;Crèche;fr;altLabel;site_employe_pour
+351_54;INFRASTRUCTURE SANITAIRE ET SOCIALE;Equipement social;fr;altLabel;site_employe_pour
+351_54;INFRASTRUCTURE SANITAIRE ET SOCIALE;Laboratoire d'analyses médicales;fr;altLabel;site_employe_pour
+351_54;INFRASTRUCTURE SANITAIRE ET SOCIALE;Day care center;en;altLabel;zthes_UF
+351_54;INFRASTRUCTURE SANITAIRE ET SOCIALE;Social equipment;en;altLabel;zthes_UF
+351_54;INFRASTRUCTURE SANITAIRE ET SOCIALE;Clinical laboratory;en;altLabel;zthes_UF
+351_85;EMPLOI;Classification des emplois;fr;altLabel;site_employe_pour
+351_85;EMPLOI;Job classification;en;altLabel;zthes_UF
+351_90;PRESTATION SOCIALE;Allocation familiale;fr;altLabel;site_employe_pour
+351_90;PRESTATION SOCIALE;Revenu minimum d'insertion;fr;altLabel;site_employe_pour
+351_90;PRESTATION SOCIALE;Family allowances;en;altLabel;zthes_UF
+351_90;PRESTATION SOCIALE;Income support;en;altLabel;zthes_UF
+351_96;ECONOMIE SOUTERRAINE;Travail au noir;fr;altLabel;site_employe_pour
+351_96;ECONOMIE SOUTERRAINE;Moonlighting;en;altLabel;zthes_UF
+352_14;PERSONNE AGEE;Troisième âge;fr;altLabel;site_employe_pour
+352_14;PERSONNE AGEE;Senior Citizens;en;altLabel;zthes_UF
+352_16;JEUNE;Génération Y;fr;altLabel;site_employe_pour
+352_16;JEUNE;Digital natives;en;altLabel;zthes_UF
+352_21;FECONDITE;Contrôle des naissances;fr;altLabel;site_employe_pour
+352_21;FECONDITE;Gestation pour autrui;fr;altLabel;site_employe_pour
+352_21;FECONDITE;Planning familial;fr;altLabel;site_employe_pour
+352_21;FECONDITE;Procréation médicalement assistée;fr;altLabel;site_employe_pour
+352_21;FECONDITE;Birth control;en;altLabel;zthes_UF
+352_21;FECONDITE;Family planning;en;altLabel;zthes_UF
+352_21;FECONDITE;Surrogate Motherhood;en;altLabel;zthes_UF
+352_21;FECONDITE;Medically Assisted Procreation;en;altLabel;zthes_UF
+352_51;MORTALITE;Espérance de vie;fr;altLabel;site_employe_pour
+352_51;MORTALITE;Life expectancy;en;altLabel;zthes_UF
+352_59;POPULATION INACTIVE;Retraité;fr;altLabel;site_employe_pour
+352_59;POPULATION INACTIVE;Retired;en;altLabel;zthes_UF
+352_60;MOBILITE PROFESSIONNELLE;Mobilité de la main d'oeuvre;fr;altLabel;site_employe_pour
+352_60;MOBILITE PROFESSIONNELLE;Labor mobility;en;altLabel;zthes_UF
+352_67;CATEGORIE SOCIOPROFESSIONNELLE;CSP;fr;altLabel;site_employe_pour
+352_67;CATEGORIE SOCIOPROFESSIONNELLE;PCS;fr;altLabel;site_employe_pour
+352_67;CATEGORIE SOCIOPROFESSIONNELLE;Professions et catégories socio-professionnelles;fr;altLabel;site_employe_pour
+352_67;CATEGORIE SOCIOPROFESSIONNELLE;Socioprofessional group;en;altLabel;zthes_UF
+352_67;CATEGORIE SOCIOPROFESSIONNELLE;Professions and socioprofessional group;en;altLabel;zthes_UF
+352_67;CATEGORIE SOCIOPROFESSIONNELLE;Professions and socioprofessional categories;en;altLabel;zthes_UF
+352_70;MOBILITE INTERNATIONALE;Emploi à l'étranger;fr;altLabel;site_employe_pour
+352_70;MOBILITE INTERNATIONALE;Expatriation;fr;altLabel;site_employe_pour
+352_70;MOBILITE INTERNATIONALE;Expatriation;en;altLabel;zthes_UF
+352_70;MOBILITE INTERNATIONALE;Employment abroad;en;altLabel;zthes_UF
+361_42;SPORT;Jeux olympiques;fr;altLabel;site_employe_pour
+361_42;SPORT;Sports d'hiver;fr;altLabel;site_employe_pour
+361_42;SPORT;Sport électronique;fr;altLabel;zthes_UF
+361_42;SPORT;E-sport;en;altLabel;zthes_UF
+361_42;SPORT;Olympic Games;en;altLabel;zthes_UF
+361_42;SPORT;Winter sports;en;altLabel;zthes_UF
+361_57;RELIGION;Eglise;fr;altLabel;site_employe_pour
+361_57;RELIGION;Church;en;altLabel;zthes_UF
+361_66;CULTURE;Civilisation;fr;altLabel;site_employe_pour
+361_66;CULTURE;Mythologie;fr;altLabel;site_employe_pour
+361_66;CULTURE;Civilization;en;altLabel;zthes_UF
+361_66;CULTURE;Mythology;en;altLabel;zthes_UF
+361_74;SPECTACLE;Théâtre;fr;altLabel;site_employe_pour
+361_74;SPECTACLE;Theater;en;altLabel;zthes_UF
+362_15;SEMIOLOGIE;Sémiotique;fr;altLabel;site_employe_pour
+362_15;SEMIOLOGIE;Semiotics;en;altLabel;zthes_UF
+362_18;ETHIQUE;Morale;fr;altLabel;site_employe_pour
+362_18;ETHIQUE;Morality;en;altLabel;zthes_UF
+362_25;LINGUISTIQUE;Langage;fr;altLabel;site_employe_pour
+362_25;LINGUISTIQUE;Language;en;altLabel;zthes_UF
+362_28;PHILOSOPHIE;Déterminisme;fr;altLabel;site_employe_pour
+362_28;PHILOSOPHIE;Praxéologie;fr;altLabel;site_employe_pour
+362_28;PHILOSOPHIE;Determinism;en;altLabel;zthes_UF
+362_28;PHILOSOPHIE;Praxeology;en;altLabel;zthes_UF
+362_38;DOCTRINE;Idéologie;fr;altLabel;zthes_UF
+362_38;DOCTRINE;Ideology;en;altLabel;zthes_UF
+362_43;SCIENCE COGNITIVE;Connaissance;fr;altLabel;site_employe_pour
+362_43;SCIENCE COGNITIVE;Théorie de l'apprentissage;fr;altLabel;site_employe_pour
+362_43;SCIENCE COGNITIVE;Knowledge;en;altLabel;zthes_UF
+362_43;SCIENCE COGNITIVE;Learning theory;en;altLabel;zthes_UF
+362_53;NEURODIVERSITE;Troubles DYS;fr;altLabel;zthes_UF
+362_53;NEURODIVERSITE;Specific developmental disorder;en;altLabel;zthes_UF
+362_55;ENVIRONNEMENT SCIENTIFIQUE;Sciences;fr;altLabel;site_employe_pour
+362_55;ENVIRONNEMENT SCIENTIFIQUE;Sciences;en;altLabel;zthes_UF
+410_00;LANGUE VIVANTE;Argot;fr;altLabel;site_employe_pour
+410_00;LANGUE VIVANTE;Langue des signes;fr;altLabel;site_employe_pour
+410_00;LANGUE VIVANTE;Langue régionale;fr;altLabel;site_employe_pour
+410_00;LANGUE VIVANTE;Regional language;en;altLabel;zthes_UF
+410_00;LANGUE VIVANTE;Slang;en;altLabel;zthes_UF
+410_00;LANGUE VIVANTE;Sign Language;en;altLabel;zthes_UF
+410_05;CHINOIS;Mandarin;fr;altLabel;site_employe_pour
+410_05;CHINOIS;Mandarin;en;altLabel;zthes_UF
+410_09;ESPAGNOL;Castillan;fr;altLabel;site_employe_pour
+410_09;ESPAGNOL;Catalan;fr;altLabel;site_employe_pour
+410_09;ESPAGNOL;Castilian;en;altLabel;zthes_UF
+410_09;ESPAGNOL;Catalan;en;altLabel;zthes_UF
+410_16;HONGROIS;Magyar;fr;altLabel;site_employe_pour
+410_16;HONGROIS;Magyar;en;altLabel;zthes_UF
+410_23;NEERLANDAIS;Flamand;fr;altLabel;site_employe_pour
+410_23;NEERLANDAIS;Flemish;en;altLabel;zthes_UF
+411_84;USAGER;Utilisateur de Bibliothèque;fr;altLabel;site_employe_pour
+411_84;USAGER;Library user;en;altLabel;zthes_UF
+412_24;LEXIQUE;Glossaire;fr;altLabel;site_employe_pour
+412_24;LEXIQUE;Glossary;en;altLabel;zthes_UF
+413_00;ORGANISATION INTERNATIONALE;Institution internationale;fr;altLabel;site_employe_pour
+413_00;ORGANISATION INTERNATIONALE;International institution;en;altLabel;zthes_UF
+413_01;AEN;Agence pour l'Energie Nucléaire;fr;altLabel;site_employe_pour
+413_01;AEN;Nuclear Energy Agency;en;altLabel;zthes_UF
+413_02;AIEA;Agence Internationale de l'Energie Atomique;fr;altLabel;site_employe_pour
+413_02;AIEA;International Atomic Energy Agency;en;altLabel;zthes_UF
+413_06;BEI;Banque Européenne d'Investissement;fr;altLabel;site_employe_pour
+413_06;BEI;European Investment Bank;en;altLabel;zthes_UF
+413_07;BIRD;Banque Internationale pour la Reconstruction et le Développement;fr;altLabel;site_employe_pour
+413_07;BIRD;International Bank for Reconstruction and Development;en;altLabel;zthes_UF
+413_08;OIF;Organisation internationale de la francophonie;fr;altLabel;site_employe_pour
+413_08;OIF;International Organisation of La Francophonie;en;altLabel;zthes_UF
+413_10;CECA;Communauté Européenne du Charbon et de l'Acier;fr;altLabel;site_employe_pour
+413_10;CECA;European Coal and Steel Community;en;altLabel;zthes_UF
+413_12;CERN;Centre Européen pour la Recherche Nucléaire;fr;altLabel;site_employe_pour
+413_12;CERN;European Organization for Nuclear Research;en;altLabel;zthes_UF
+413_13;CNUCED;Conférence des Nations Unies pour le Commerce et le Développement;fr;altLabel;site_employe_pour
+413_13;CNUCED;United Nations Conference for Trade and Development;en;altLabel;zthes_UF
+413_16;EURATOM;Communauté Européenne de l'Energie Atomique;fr;altLabel;site_employe_pour
+413_16;EURATOM;European Atomic Energy Community;en;altLabel;zthes_UF
+413_17;BERD;Banque Européenne pour la Reconstruction et le Développement;fr;altLabel;site_employe_pour
+413_17;BERD;European Bank for Reconstruction and Development;en;altLabel;zthes_UF
+413_18;FAO;Organisation des Nations Unies pour l'Alimentation et l'Agriculture;fr;altLabel;site_employe_pour
+413_18;FAO;Food and Agriculture Organization;en;altLabel;zthes_UF
+413_19;FMI;Fonds Monétaire International;fr;altLabel;site_employe_pour
+413_19;FMI;International Monetary Fund;en;altLabel;zthes_UF
+413_20;ASEAN;AFTA;fr;altLabel;site_employe_pour
+413_20;ASEAN;Asean Free Trade Area;fr;altLabel;site_employe_pour
+413_20;ASEAN;Association des Nations du Sud Est Asiatique;fr;altLabel;site_employe_pour
+413_20;ASEAN;AFTA;en;altLabel;zthes_UF
+413_20;ASEAN;ASEAN Free Trade Area;en;altLabel;zthes_UF
+413_20;ASEAN;Association of Southeast Asian Nations;en;altLabel;zthes_UF
+413_22;IASC;Comité international de la normalisation de la comptabilité;fr;altLabel;site_employe_pour
+413_22;IASC;International accounting standards committee;en;altLabel;zthes_UF
+413_23;IATA;Association Internationale des Transports Aériens;fr;altLabel;site_employe_pour
+413_23;IATA;International Air Transportation Association;en;altLabel;zthes_UF
+413_24;IME;Institut Monétaire Européen;fr;altLabel;site_employe_pour
+413_24;IME;European Monetary Institute;en;altLabel;zthes_UF
+413_25;ONU;Organisation des Nations Unies;fr;altLabel;site_employe_pour
+413_25;ONU;United Nations;en;altLabel;zthes_UF
+413_27;OCDE;Organisation de Coopération et de Développement Economiques;fr;altLabel;site_employe_pour
+413_27;OCDE;Organisation for Economic Cooperation and Development;en;altLabel;zthes_UF
+413_29;UNION EUROPEENNE;UE;fr;altLabel;site_employe_pour
+413_29;UNION EUROPEENNE;EU;en;altLabel;zthes_UF
+413_30;OMS;Organisation Mondiale de la Santé;fr;altLabel;site_employe_pour
+413_30;OMS;World Health Organization;en;altLabel;zthes_UF
+413_31;OTAN;Organisation du Traité de l'Atlantique Nord;fr;altLabel;site_employe_pour
+413_31;OTAN;North Atlantic Treaty Organization;en;altLabel;zthes_UF
+413_32;OTASE;Organisation du Traité de l'Asie du Sud-Est;fr;altLabel;site_employe_pour
+413_32;OTASE;South East Asia Treaty Organization;en;altLabel;zthes_UF
+413_33;OMC;Organisation Mondiale du Commerce;fr;altLabel;site_employe_pour
+413_33;OMC;World Trade Organization;en;altLabel;zthes_UF
+413_34;OIT;Bureau international du travail;fr;altLabel;site_employe_pour
+413_34;OIT;Organisation internationale du travail;fr;altLabel;site_employe_pour
+413_34;OIT;International labour organization;en;altLabel;zthes_UF
+413_34;OIT;International labour office;en;altLabel;zthes_UF
+413_35;UNESCO;Organisation des Nations Unies pour l'Education la Science et la Culture;fr;altLabel;site_employe_pour
+413_35;UNESCO;United Nations Educational Scientic and Cultural Organization;en;altLabel;zthes_UF
+413_37;OCAM;Organisation de Coopération Africaine et Malgache;fr;altLabel;site_employe_pour
+413_37;OCAM;Organization for African and Madagascan Co-operation;en;altLabel;zthes_UF
+413_38;OPEP;Organisation des Pays Exportateurs de Pétrole;fr;altLabel;site_employe_pour
+413_38;OPEP;Organization of the Petroleum Exporting Countries;en;altLabel;zthes_UF
+413_39;BCE;Banque Centrale Européenne;fr;altLabel;site_employe_pour
+413_39;BCE;European Central Bank;en;altLabel;zthes_UF
+413_40;ASE;Agence Spatiale Européenne;fr;altLabel;site_employe_pour
+413_40;ASE;European Space Agency;en;altLabel;zthes_UF
+413_41;ISO;Organisation international de normalisation;fr;altLabel;site_employe_pour
+413_41;ISO;International Organization for Standardization;en;altLabel;zthes_UF
+413_42;CEI;Communauté des Etats Indépendants;fr;altLabel;site_employe_pour
+413_42;CEI;Community of the Independent States;en;altLabel;zthes_UF
+413_43;UEM;Union Economique et Monétaire;fr;altLabel;site_employe_pour
+413_43;UEM;European Economic and Monetary Union;en;altLabel;zthes_UF
+413_46;CONSEIL DE L'UNION EUROPEENNE;Conseil de l'UE;fr;altLabel;site_employe_pour
+413_46;CONSEIL DE L'UNION EUROPEENNE;EU Council;en;altLabel;zthes_UF
+413_48;FONDS STRUCTUREL EUROPEEN;FEDER;fr;altLabel;site_employe_pour
+413_48;FONDS STRUCTUREL EUROPEEN;FEOGA;fr;altLabel;site_employe_pour
+413_48;FONDS STRUCTUREL EUROPEEN;FSE;fr;altLabel;site_employe_pour
+413_48;FONDS STRUCTUREL EUROPEEN;Fonds européen d'orientation et de garantie agricole;fr;altLabel;site_employe_pour
+413_48;FONDS STRUCTUREL EUROPEEN;Fonds européen de développement;fr;altLabel;site_employe_pour
+413_48;FONDS STRUCTUREL EUROPEEN;Fonds européen de développement régional;fr;altLabel;site_employe_pour
+413_48;FONDS STRUCTUREL EUROPEEN;Fonds social européen;fr;altLabel;site_employe_pour
+413_48;FONDS STRUCTUREL EUROPEEN;IFOP;fr;altLabel;site_employe_pour
+413_48;FONDS STRUCTUREL EUROPEEN;Instrument financier d'organisation de la pêche;fr;altLabel;site_employe_pour
+413_48;FONDS STRUCTUREL EUROPEEN;European development fund;en;altLabel;zthes_UF
+413_48;FONDS STRUCTUREL EUROPEEN;ERDF;en;altLabel;zthes_UF
+413_48;FONDS STRUCTUREL EUROPEEN;EAGGF;en;altLabel;zthes_UF
+413_48;FONDS STRUCTUREL EUROPEEN;European regional development fund;en;altLabel;zthes_UF
+413_48;FONDS STRUCTUREL EUROPEEN;European agricultural guidance and guarantee fund;en;altLabel;zthes_UF
+413_48;FONDS STRUCTUREL EUROPEEN;European social fund;en;altLabel;zthes_UF
+413_48;FONDS STRUCTUREL EUROPEEN;ESF;en;altLabel;zthes_UF
+413_48;FONDS STRUCTUREL EUROPEEN;FIFG;en;altLabel;zthes_UF
+413_48;FONDS STRUCTUREL EUROPEEN;FinancIal instrument for fisheries guidance;en;altLabel;zthes_UF
+413_50;OMPI;Organisation mondiale de la propriété intellectuelle;fr;altLabel;site_employe_pour
+413_50;OMPI;World intellectual property organization;en;altLabel;zthes_UF
+414_01;AFNOR;Association Française de Normalisation;fr;altLabel;site_employe_pour
+414_01;AFNOR;French Standard Association;en;altLabel;zthes_UF
+414_03;AFPA;Association pour la Formation Professionnelle des Adultes;fr;altLabel;site_employe_pour
+414_03;AFPA;Association for professional training for adults;en;altLabel;zthes_UF
+414_04;APCE;Agence Nationale pour la Création d'Entreprise;fr;altLabel;site_employe_pour
+414_04;APCE;National Agency for the creation of businesses;en;altLabel;zthes_UF
+414_05;POLE EMPLOI;ANPE;fr;altLabel;site_employe_pour
+414_05;POLE EMPLOI;Agence Nationale pour l'Emploi;fr;altLabel;site_employe_pour
+414_05;POLE EMPLOI;ANPE;en;altLabel;zthes_UF
+414_05;POLE EMPLOI;National Employment Agency;en;altLabel;zthes_UF
+414_06;ANRT;Association Nationale de Recherche Technique;fr;altLabel;site_employe_pour
+414_06;ANRT;National Association for Technical Research;en;altLabel;zthes_UF
+414_07;BPI FRANCE FINANCEMENT;ANVAR;fr;altLabel;site_employe_pour
+414_07;BPI FRANCE FINANCEMENT;Association Nationale pour la Valorisation de la Recherche;fr;altLabel;site_employe_pour
+414_07;BPI FRANCE FINANCEMENT;BDPME;fr;altLabel;site_employe_pour
+414_07;BPI FRANCE FINANCEMENT;Banque du développement des PME;fr;altLabel;site_employe_pour
+414_07;BPI FRANCE FINANCEMENT;OSEO-ANVAR;fr;altLabel;site_employe_pour
+414_07;BPI FRANCE FINANCEMENT;ANVAR;en;altLabel;zthes_UF
+414_07;BPI FRANCE FINANCEMENT;SME development bank;en;altLabel;zthes_UF
+414_07;BPI FRANCE FINANCEMENT;BDPME;en;altLabel;zthes_UF
+414_07;BPI FRANCE FINANCEMENT;National association for the Valorization of Research;en;altLabel;zthes_UF
+414_07;BPI FRANCE FINANCEMENT;OSEO-ANVAR;en;altLabel;zthes_UF
+414_08;APEC;Association pour l'Emploi des Cadres;fr;altLabel;site_employe_pour
+414_08;APEC;Executive Employment Association;en;altLabel;zthes_UF
+414_09;ARIST;Agence Régionale d'Information Scientifique et Technique;fr;altLabel;site_employe_pour
+414_09;ARIST;Regional Agency for Scientific and Technical Information;en;altLabel;zthes_UF
+414_10;NATEXIS;BFCE;fr;altLabel;site_employe_pour
+414_10;NATEXIS;Banque Française du Commerce Extérieur;fr;altLabel;site_employe_pour
+414_10;NATEXIS;French Foreign Trade Bank;en;altLabel;zthes_UF
+414_10;NATEXIS;BFCE;en;altLabel;zthes_UF
+414_11;BIPE;Bureau d'Information et de Prévisions Economiques;fr;altLabel;site_employe_pour
+414_11;BIPE;Economic Information and Forecast Office;en;altLabel;zthes_UF
+414_12;CECOD;Centre d'Etude du Commerce et de la Distribution;fr;altLabel;site_employe_pour
+414_12;CECOD;Center for the Study of Trade and Distribution;en;altLabel;zthes_UF
+414_13;CEREQ;Centre d'Etudes et de Recherches sur les Qualifications;fr;altLabel;site_employe_pour
+414_13;CEREQ;Center for Studies and Research on Qualifications;en;altLabel;zthes_UF
+414_14;BUSINESS FRANCE;Agence française du commerce extérieur;fr;altLabel;site_employe_pour
+414_14;BUSINESS FRANCE;Centre Français du Commerce Extérieur;fr;altLabel;site_employe_pour
+414_14;BUSINESS FRANCE;UBIFRANCE;fr;altLabel;site_employe_pour
+414_14;BUSINESS FRANCE;French agency for international business development;en;altLabel;zthes_UF
+414_14;BUSINESS FRANCE;French Center for Foreign Trade;en;altLabel;zthes_UF
+414_14;BUSINESS FRANCE;UBIFRANCE;en;altLabel;zthes_UF
+414_15;ORANGE;CNET;fr;altLabel;site_employe_pour
+414_15;ORANGE;Centre National d'Etudes des Télécommunications;fr;altLabel;site_employe_pour
+414_15;ORANGE;National Center for Telecommunication Studies;en;altLabel;zthes_UF
+414_15;ORANGE;CNET;en;altLabel;zthes_UF
+414_16;CNRS;Centre National de la Recherche Scientifique;fr;altLabel;site_employe_pour
+414_16;CNRS;National Center for Scientific Research;en;altLabel;zthes_UF
+414_18;COFACE;Compagnie Française d'Assurance pour le Commerce Extérieur;fr;altLabel;site_employe_pour
+414_18;COFACE;French Foreign Trade Insurance Company;en;altLabel;zthes_UF
+414_19;INC;Institut National de la Consommation;fr;altLabel;site_employe_pour
+414_19;INC;National Institute of Consumption;en;altLabel;zthes_UF
+414_20;INIST;Institut de l'Information Scientifique et Technique;fr;altLabel;site_employe_pour
+414_20;INIST;Institute of Scientific and Technical Information;en;altLabel;zthes_UF
+414_21;INPI;Institut National de la Propriété Industrielle;fr;altLabel;site_employe_pour
+414_21;INPI;National Institute of Patent rights;en;altLabel;zthes_UF
+414_22;INRA;Institut National de la Recherche Agronomique;fr;altLabel;site_employe_pour
+414_22;INRA;National Institute of Agronomic research;en;altLabel;zthes_UF
+414_23;INSEE;Institut National de la Statistique et des Etudes Economiques;fr;altLabel;site_employe_pour
+414_23;INSEE;National Institute of Statistics and Economic Studies;en;altLabel;zthes_UF
+414_24;INSERM;Institut National de la Santé et de la Recherche Médicale;fr;altLabel;site_employe_pour
+414_24;INSERM;National Institute of Health and Medical Research;en;altLabel;zthes_UF
+414_25;CDIA;Centre de Documentation et d'Information de l'Assurance;fr;altLabel;site_employe_pour
+414_25;CDIA;Insurance Information and Documentation Center;en;altLabel;zthes_UF
+414_26;CGSP;CERC;fr;altLabel;site_employe_pour
+414_26;CGSP;Conseil de l'emploi des revenus et de la cohésion sociale;fr;altLabel;site_employe_pour
+414_26;CGSP;Council for employment income and social cohesion;en;altLabel;zthes_UF
+414_26;CGSP;CERC;en;altLabel;zthes_UF
+414_27;INED;Institut National d'Etudes Démographiques;fr;altLabel;site_employe_pour
+414_27;INED;National Institute of Demographic Studies;en;altLabel;zthes_UF
+414_31;CHAMBRE DE COMMERCE ET D'INDUSTRIE;CCI;fr;altLabel;site_employe_pour
+414_31;CHAMBRE DE COMMERCE ET D'INDUSTRIE;CRCI;fr;altLabel;site_employe_pour
+414_31;CHAMBRE DE COMMERCE ET D'INDUSTRIE;Chambre régionale de commerce et d'industrie;fr;altLabel;site_employe_pour
+414_31;CHAMBRE DE COMMERCE ET D'INDUSTRIE;CCI;en;altLabel;zthes_UF
+414_31;CHAMBRE DE COMMERCE ET D'INDUSTRIE;CRCI;en;altLabel;zthes_UF
+414_31;CHAMBRE DE COMMERCE ET D'INDUSTRIE;Regional chamber of commerce and industry;en;altLabel;zthes_UF
+414_32;AMF;Autorité des marchés financiers;fr;altLabel;site_employe_pour
+414_32;AMF;COB;fr;altLabel;site_employe_pour
+414_32;AMF;Commision des opérations de bourse;fr;altLabel;site_employe_pour
+414_32;AMF;Financial markets authority;en;altLabel;zthes_UF
+414_32;AMF;COB;en;altLabel;zthes_UF
+414_32;AMF;Securities and Exchange Commission;en;altLabel;zthes_UF
+414_33;ADEME;Agence de l'environnement et de la maîtrise de l'énergie;fr;altLabel;site_employe_pour
+414_33;ADEME;French environment and energy management agency;en;altLabel;zthes_UF
+414_34;AFD;Agence française de développement;fr;altLabel;site_employe_pour
+414_34;AFD;French development agency;en;altLabel;zthes_UF
+414_35;CERTU;Centre d'études sur les réseaux les transports l'urbanisme et les constructions publiques;fr;altLabel;site_employe_pour
+414_35;CERTU;Centre for the study of urban planning, transport and public facilities;en;altLabel;zthes_UF
+414_36;CREDOC;Centre de recherche pour l'étude et l'observation des conditions de vie;fr;altLabel;site_employe_pour
+414_36;CREDOC;Research centre for the study and monitoring of living standards;en;altLabel;zthes_UF
+414_37;FNEGE;Fondation nationale pour la gestion des entreprises;fr;altLabel;site_employe_pour
+414_37;FNEGE;French foundation for management education;en;altLabel;zthes_UF
+415_02;AFRIQUE DE L'EST;Afrique Orientale;fr;altLabel;site_employe_pour
+415_02;AFRIQUE DE L'EST;Eastern Africa;en;altLabel;zthes_UF
+415_03;AFRIQUE DE L'OUEST;Afrique Occidentale;fr;altLabel;site_employe_pour
+415_03;AFRIQUE DE L'OUEST;Western Africa;en;altLabel;zthes_UF
+415_04;AFRIQUE DU NORD;Maghreb;fr;altLabel;site_employe_pour
+415_04;AFRIQUE DU NORD;Maghreb;en;altLabel;zthes_UF
+415_13;EUROPE CENTRALE;PECO;fr;altLabel;site_employe_pour
+415_13;EUROPE CENTRALE;Pays balte;fr;altLabel;site_employe_pour
+415_13;EUROPE CENTRALE;Pays d'Europe Centrale et Orientale;fr;altLabel;site_employe_pour
+415_13;EUROPE CENTRALE;CEEC;en;altLabel;zthes_UF
+415_13;EUROPE CENTRALE;Central and Eastern Europe Countries;en;altLabel;zthes_UF
+415_13;EUROPE CENTRALE;Baltic states;en;altLabel;zthes_UF
+415_14;EUROPE DE L'EST;Europe orientale;fr;altLabel;site_employe_pour
+415_14;EUROPE DE L'EST;East Europe;en;altLabel;zthes_UF
+415_15;EUROPE DE L'OUEST;Europe Occidentale;fr;altLabel;site_employe_pour
+415_15;EUROPE DE L'OUEST;West Europe;en;altLabel;zthes_UF
+415_22;PAYS DE L'UE;Pays de l'Union Européenne;fr;altLabel;site_employe_pour
+415_22;PAYS DE L'UE;European Union Country;en;altLabel;zthes_UF
+415_30;SUD EST ASIATIQUE;Asie du Sud Est;fr;altLabel;site_employe_pour
+415_30;SUD EST ASIATIQUE;Asia of South East;en;altLabel;zthes_UF
+415_31;PAYS ACP;Pays d'Afrique, des Caraïbes et du Pacifique;fr;altLabel;site_employe_pour
+415_31;PAYS ACP;African, Caribbean and Pacific states;en;altLabel;zthes_UF
+415_32;PAYS DU GOLFE;Conseil de coopération du Golfe;fr;altLabel;site_employe_pour
+415_32;PAYS DU GOLFE;Gulf cooperation council;en;altLabel;zthes_UF
+415_34;ESPACE MARITIME;Ocean;fr;altLabel;site_employe_pour
+415_34;ESPACE MARITIME;Ocean;en;altLabel;zthes_UF
+416_01;AELE;Association Européenne de Libre Echange;fr;altLabel;site_employe_pour
+416_01;AELE;European Free Trade Association;en;altLabel;zthes_UF
+416_02;ALADI;ALALE;fr;altLabel;site_employe_pour
+416_02;ALADI;Association Latino Américaine de Libre Echange;fr;altLabel;site_employe_pour
+416_02;ALADI;Association latino américaine d'intégration;fr;altLabel;site_employe_pour
+416_02;ALADI;Latin American Integration Association;en;altLabel;zthes_UF
+416_02;ALADI;LAFTA;en;altLabel;zthes_UF
+416_02;ALADI;Latin American Free Trade Association;en;altLabel;zthes_UF
+416_03;ALENA;Accord de Libre Echange Nord Américain;fr;altLabel;site_employe_pour
+416_03;ALENA;North American Free Trade Agreement;en;altLabel;zthes_UF
+416_05;ANZCERTA;Accord commercial de rapprochement économique Australie Nouvelle Zélande;fr;altLabel;site_employe_pour
+416_05;ANZCERTA;Australia New Zealand Commercial and Economic Trade Agreement;en;altLabel;zthes_UF
+416_06;CEDEAO;Communauté Economique des Etats de l'Afrique de l'Ouest;fr;altLabel;site_employe_pour
+416_06;CEDEAO;Economic Community of West African States;en;altLabel;zthes_UF
+416_07;CEEAC;UDEAC;fr;altLabel;site_employe_pour
+416_07;CEEAC;Union Douanière et Economique de l'Afrique Centrale;fr;altLabel;site_employe_pour
+416_07;CEEAC;UDEAC;en;altLabel;zthes_UF
+416_07;CEEAC;Central African Customs and Economic Union;en;altLabel;zthes_UF
+416_08;EEE;Espace Economique Européen;fr;altLabel;site_employe_pour
+416_08;EEE;European Economic Area;en;altLabel;zthes_UF
+416_09;GATT;Accord Général sur les Tarifs Douaniers et le Commerce;fr;altLabel;site_employe_pour
+416_09;GATT;General Agreement on Tariffs and Trade;en;altLabel;zthes_UF
+416_11;MCCA;CAEU;fr;altLabel;site_employe_pour
+416_11;MCCA;Central American Economic Union;fr;altLabel;site_employe_pour
+416_11;MCCA;CAEU;en;altLabel;zthes_UF
+416_11;MCCA;Central American Economic Union;en;altLabel;zthes_UF
+416_12;MERCOSUR;Marché Commun du Sud;fr;altLabel;site_employe_pour
+416_12;MERCOSUR;Common Market of the South;en;altLabel;zthes_UF
+416_15;COMESA;Marché Commun des Etats d'Afrique Orientale et du Sud;fr;altLabel;site_employe_pour
+416_15;COMESA;ZEP;fr;altLabel;site_employe_pour
+416_15;COMESA;Zone d'Echanges Préférentiels Afrique Australe;fr;altLabel;site_employe_pour
+416_15;COMESA;Common Market of Eastern and Southern Africa;en;altLabel;zthes_UF
+416_15;COMESA;PTA;en;altLabel;zthes_UF
+416_15;COMESA;Preferential Trade Area (for Eastern and Southern African States);en;altLabel;zthes_UF
+420_88;VIN SECTEUR;Champagne secteur;fr;altLabel;site_employe_pour
+420_88;VIN SECTEUR;Champagne sector;en;altLabel;zthes_UF
+424_64;INDUSTRIE PHARMACEUTIQUE SECTEUR;Laboratoire pharmaceutique secteur;fr;altLabel;site_employe_pour
+424_64;INDUSTRIE PHARMACEUTIQUE SECTEUR;Médicament;fr;altLabel;site_employe_pour
+424_64;INDUSTRIE PHARMACEUTIQUE SECTEUR;Pharmaceutical Laboratory Sector;en;altLabel;zthes_UF
+424_64;INDUSTRIE PHARMACEUTIQUE SECTEUR;Drug;en;altLabel;zthes_UF
+426_77;VOYAGISTE SECTEUR;Agence de voyage;fr;altLabel;site_employe_pour
+426_77;VOYAGISTE SECTEUR;Travel agency;en;altLabel;zthes_UF
+428_01;IMMOBILIER SECTEUR;Agence immobilière secteur;fr;altLabel;site_employe_pour
+428_01;IMMOBILIER SECTEUR;Real estate agency sector;en;altLabel;zthes_UF
+428_51;CABINET DE CONSEIL SECTEUR;Consultant;fr;altLabel;site_employe_pour
+428_51;CABINET DE CONSEIL SECTEUR;Consultant;en;altLabel;zthes_UF
+429_36;HOTELLERIE SECTEUR;Hébergement touristique;fr;altLabel;site_employe_pour
+429_36;HOTELLERIE SECTEUR;Tourist accommodation;en;altLabel;zthes_UF
+429_44;SERVICE A LA PERSONNE SECTEUR;Service au particulier;fr;altLabel;zthes_UF
+429_44;SERVICE A LA PERSONNE SECTEUR;Service to individuals;en;altLabel;zthes_UF
+429_63;THERMALISME SECTEUR;Thalassothérapie secteur;fr;altLabel;site_employe_pour
+429_63;THERMALISME SECTEUR;Thalassotherapy sector;en;altLabel;zthes_UF
+429_79;GRANDE DISTRIBUTION SECTEUR;Grande surface secteur;fr;altLabel;site_employe_pour
+429_79;GRANDE DISTRIBUTION SECTEUR;Superstore sector;en;altLabel;zthes_UF

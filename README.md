@@ -18,6 +18,7 @@ aciege.org ──[1. scrape_aciege.py]──> data/ ──[2. build_thesaurus.py
 | 1b. Scraping listes | `scrape_listes.py` | pages `CS/` (microthésaurus) | `data/` : relations TG/TS + synonymes « Employé Pour » |
 | 1c. Export officiel | `parse_zthes.py` | `data/Ths_Export_*.xml` (export Zthes de la base) | `data/zthes.json` : libellés EN, définitions, UF, RT |
 | 2. Structuration | `build_thesaurus.py` | `data/*.json` | `thesaurus/` (CSV pivot, JSON, SKOS) |
+| 2bis. Modèle canonique | `build_master.py` | `data/*.json` (site + Zthes) | `master/` (8 fichiers normalisés, cf. ci-dessous) |
 | 3. Vérification corpus | `pipeline/` (PG + MinIO + Airflow) | `thesaurus/` + PDF des thèses | verdicts bien classé / à reclasser + revue |
 
 Pour l'étape 3, voir **`pipeline/README.md`** (démarrage Docker) et
@@ -107,6 +108,26 @@ Sorties dans `thesaurus/` :
 | `stats.md` | Statistiques de couverture. |
 
 ---
+
+## 2bis. `build_master.py` — modèle canonique (navigation, recherche, IA)
+
+Fusionne les **deux sources** (scraping + export officiel Zthes) en un modèle
+normalisé, dédupliqué et documenté, dans `master/` :
+
+| Fichier | Contenu |
+|---|---|
+| `concepts_master.csv` | table canonique : 1 ligne/concept, id normalisé, libellés FR/EN, définitions, parent, chemins, autorité, compteurs |
+| `concepts_hierarchy.csv` | arbre parent/enfant (un seul parent par concept) |
+| `concepts_synonyms.csv` | synonymes et variantes (FR + EN, sources tracées) |
+| `concepts_translations.csv` | correspondances FR / EN |
+| `concepts_edges.csv` | graphe complet : `skos:broader` (structural + BT), `skos:related` (RT) |
+| `concepts_json.json` | hiérarchie imbriquée prête navigation / classifieur |
+| `data_dictionary.md` | description de chaque colonne et règles de gestion |
+| `quality_report.md` | écarts, doublons, conflits, hypothèses, points d'attention |
+
+Identifiant canonique unique : chiffres + underscore (`1` > `12` > `124` >
+`124_85`), parent déduit du code. L'export Zthes fait foi pour les libellés
+et l'anglais ; le scraping complète (URLs, sources, ossature, terme 362_19).
 
 ## 3. Annoter un corpus avec cette classification
 
